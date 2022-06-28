@@ -1,0 +1,72 @@
+# To display the perf.data header info, please use --header/--header-only options.
+#
+#
+# Total Lost Samples: 0
+#
+# Samples: 23M of event 'task-clock'
+# Event count (approx.): 5955003250000
+#
+# Overhead  Shared Object            
+# ........  .........................
+#
+    69.82%  cc1plus                  
+    12.37%  [kernel.kallsyms]        
+     8.55%  libbfd-2.34-system.so    
+     7.87%  libc-2.31.so             
+     0.86%  x86_64-linux-gnu-as      
+     0.33%  ld-2.31.so               
+     0.15%  x86_64-linux-gnu-ld.bfd  
+     0.03%  x86_64-linux-gnu-g++-9   
+     0.01%  liblto_plugin.so.0.0.0   
+     0.00%  libstdc++.so.6.0.29      
+     0.00%  collect2                 
+     0.00%  libm-2.31.so             
+     0.00%  diff                     
+     0.00%  [binfmt_misc]            
+     0.00%  libz.so.1.2.11           
+     0.00%  libdl-2.31.so            
+     0.00%  libgcc_s.so.1            
+     0.00%  libmpfr.so.6.0.2         
+     0.00%  libgmp.so.10.4.0         
+     0.00%  libisl.so.22.0.1         
+     0.00%  bodhi_micro_work_load    
+     0.00%  libctf.so.0.0.0          
+     0.00%  libopcodes-2.34-system.so
+     0.00%  libmpc.so.3.1.0          
+     0.00%  [vdso]                   
+     0.00%  [ip_vs]                  
+     0.00%  [igb]                    
+     0.00%  bash                     
+     0.00%  [mlx5_core]              
+     0.00%  obj_file_25.o            
+     0.00%  obj_file_38.o            
+     0.00%  obj_file_54.o            
+     0.00%  [bridge]                 
+     0.00%  [llc]                    
+     0.00%  [nf_conntrack]           
+     0.00%  [stp]                    
+     0.00%  obj_file_0.o             
+     0.00%  obj_file_10.o            
+     0.00%  obj_file_11.o            
+     0.00%  obj_file_19.o            
+     0.00%  obj_file_2.o             
+     0.00%  obj_file_20.o            
+     0.00%  obj_file_31.o            
+     0.00%  obj_file_34.o            
+     0.00%  obj_file_42.o            
+     0.00%  obj_file_44.o            
+     0.00%  obj_file_49.o            
+     0.00%  obj_file_53.o            
+     0.00%  obj_file_57.o            
+     0.00%  obj_file_58.o            
+     0.00%  obj_file_6.o             
+     0.00%  obj_file_60.o            
+     0.00%  obj_file_62.o            
+     0.00%  obj_file_8.o             
+     0.00%  obj_file_9.o             
+     0.00%  taskset                  
+
+
+#
+# (Tip: Limit to show entries above 5% only: perf report --percent-limit 5)
+#

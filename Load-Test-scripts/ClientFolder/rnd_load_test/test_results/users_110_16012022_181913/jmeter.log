@@ -1,0 +1,594 @@
+2022-01-16 18:19:15,196 INFO o.a.j.u.JMeterUtils: Setting Locale to en_EN
+2022-01-16 18:19:15,229 INFO o.a.j.JMeter: Loading user properties from: /home/panda/LoadTest/ClientFolder/rnd_load_test/apache-jmeter-5.3/bin/user.properties
+2022-01-16 18:19:15,230 INFO o.a.j.JMeter: Loading system properties from: /home/panda/LoadTest/ClientFolder/rnd_load_test/apache-jmeter-5.3/bin/system.properties
+2022-01-16 18:19:15,232 INFO o.a.j.JMeter: Copyright (c) 1998-2020 The Apache Software Foundation
+2022-01-16 18:19:15,233 INFO o.a.j.JMeter: Version 5.3
+2022-01-16 18:19:15,233 INFO o.a.j.JMeter: java.version=1.8.0_181
+2022-01-16 18:19:15,233 INFO o.a.j.JMeter: java.vm.name=Java HotSpot(TM) 64-Bit Server VM
+2022-01-16 18:19:15,233 INFO o.a.j.JMeter: os.name=Linux
+2022-01-16 18:19:15,233 INFO o.a.j.JMeter: os.arch=amd64
+2022-01-16 18:19:15,234 INFO o.a.j.JMeter: os.version=4.4.0-210-generic
+2022-01-16 18:19:15,234 INFO o.a.j.JMeter: file.encoding=UTF-8
+2022-01-16 18:19:15,234 INFO o.a.j.JMeter: java.awt.headless=true
+2022-01-16 18:19:15,234 INFO o.a.j.JMeter: Max memory     =1073741824
+2022-01-16 18:19:15,234 INFO o.a.j.JMeter: Available Processors =16
+2022-01-16 18:19:15,243 INFO o.a.j.JMeter: Default Locale=English (EN)
+2022-01-16 18:19:15,244 INFO o.a.j.JMeter: JMeter  Locale=English (EN)
+2022-01-16 18:19:15,245 INFO o.a.j.JMeter: JMeterHome=/home/panda/LoadTest/ClientFolder/rnd_load_test/apache-jmeter-5.3
+2022-01-16 18:19:15,245 INFO o.a.j.JMeter: user.dir  =/home/panda/LoadTest/ClientFolder/rnd_load_test
+2022-01-16 18:19:15,245 INFO o.a.j.JMeter: PWD       =/home/panda/LoadTest/ClientFolder/rnd_load_test
+2022-01-16 18:19:15,246 INFO o.a.j.JMeter: IP: 10.129.131.5 Name: markov FullName: markov
+2022-01-16 18:19:15,253 INFO o.a.j.JMeter: Setting property 'jmeter.reportgenerator.outputdir' to:'/home/panda/LoadTest/ClientFolder/rnd_load_test/test_results/users_110_16012022_181913/output'
+2022-01-16 18:19:15,257 INFO o.a.j.s.FileServer: Default base='/home/panda/LoadTest/ClientFolder/rnd_load_test'
+2022-01-16 18:19:15,263 INFO o.a.j.s.FileServer: Set new base='/home/panda/LoadTest/ClientFolder/rnd_load_test'
+2022-01-16 18:19:15,462 INFO o.a.j.s.SaveService: Testplan (JMX) version: 2.2. Testlog (JTL) version: 2.2
+2022-01-16 18:19:15,515 INFO o.a.j.s.SaveService: Using SaveService properties file encoding UTF-8
+2022-01-16 18:19:15,523 INFO o.a.j.s.SaveService: Using SaveService properties version 5.0
+2022-01-16 18:19:15,533 INFO o.a.j.s.SaveService: Loading file: evalpro_load_test.jmx
+2022-01-16 18:19:15,592 INFO o.a.j.p.h.c.CookieManager: Settings: Delete null: true Check: true Allow variable: true Save: false Prefix: COOKIE_
+2022-01-16 18:19:15,692 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/html is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2022-01-16 18:19:15,692 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for application/xhtml+xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2022-01-16 18:19:15,693 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for application/xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2022-01-16 18:19:15,693 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2022-01-16 18:19:15,693 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/vnd.wap.wml is org.apache.jmeter.protocol.http.parser.RegexpHTMLParser
+2022-01-16 18:19:15,693 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/css is org.apache.jmeter.protocol.http.parser.CssParser
+2022-01-16 18:19:15,891 INFO o.a.j.JMeter: Creating summariser <summary>
+2022-01-16 18:19:15,899 INFO o.a.j.r.d.ReportGenerator: ReportGenerator will use for Parsing the separator: ','
+2022-01-16 18:19:15,899 INFO o.a.j.r.d.ReportGenerator: Will generate report at end of test from  results file: test_results/users_110_16012022_181913/results.csv
+2022-01-16 18:19:15,900 INFO o.a.j.r.d.ReportGenerator: Reading report generator properties from: /home/panda/LoadTest/ClientFolder/rnd_load_test/apache-jmeter-5.3/bin/reportgenerator.properties
+2022-01-16 18:19:15,901 INFO o.a.j.r.d.ReportGenerator: Merging with JMeter properties
+2022-01-16 18:19:15,908 INFO o.a.j.r.c.ReportGeneratorConfiguration: Property 'jmeter.reportgenerator.temp_dir' not found, using default value 'temp' instead.
+2022-01-16 18:19:15,913 INFO o.a.j.r.c.ReportGeneratorConfiguration: Property 'jmeter.reportgenerator.apdex_per_transaction' not found, using default value 'null' instead.
+2022-01-16 18:19:15,913 INFO o.a.j.r.c.ReportGeneratorConfiguration: apdex_per_transaction is empty, not APDEX per transaction customization
+2022-01-16 18:19:15,913 INFO o.a.j.r.c.ReportGeneratorConfiguration: Property 'jmeter.reportgenerator.sample_filter' not found, using default value 'null' instead.
+2022-01-16 18:19:15,914 INFO o.a.j.r.c.ReportGeneratorConfiguration: Property 'jmeter.reportgenerator.report_title' not found, using default value 'null' instead.
+2022-01-16 18:19:15,914 INFO o.a.j.r.c.ReportGeneratorConfiguration: Property 'jmeter.reportgenerator.start_date' not found, using default value 'null' instead.
+2022-01-16 18:19:15,914 INFO o.a.j.r.c.ReportGeneratorConfiguration: Property 'jmeter.reportgenerator.end_date' not found, using default value 'null' instead.
+2022-01-16 18:19:15,914 INFO o.a.j.r.c.ReportGeneratorConfiguration: Property 'jmeter.reportgenerator.date_format' not found, using default value 'null' instead.
+2022-01-16 18:19:15,915 INFO o.a.j.r.c.ReportGeneratorConfiguration: Will use date range start date: null, end date: null
+2022-01-16 18:19:15,922 INFO o.a.j.r.c.ReportGeneratorConfiguration: Property 'jmeter.reportgenerator.graph.totalTPS.exclude_controllers' not found, using default value 'false' instead.
+2022-01-16 18:19:15,922 INFO o.a.j.r.c.ReportGeneratorConfiguration: Property 'jmeter.reportgenerator.graph.activeThreadsOverTime.exclude_controllers' not found, using default value 'false' instead.
+2022-01-16 18:19:15,923 INFO o.a.j.r.c.ReportGeneratorConfiguration: Property 'jmeter.reportgenerator.graph.timeVsThreads.exclude_controllers' not found, using default value 'false' instead.
+2022-01-16 18:19:15,923 INFO o.a.j.r.c.ReportGeneratorConfiguration: Property 'jmeter.reportgenerator.graph.responseTimeDistribution.exclude_controllers' not found, using default value 'false' instead.
+2022-01-16 18:19:15,923 INFO o.a.j.r.c.ReportGeneratorConfiguration: Property 'jmeter.reportgenerator.graph.transactionsPerSecond.exclude_controllers' not found, using default value 'false' instead.
+2022-01-16 18:19:15,924 INFO o.a.j.r.c.ReportGeneratorConfiguration: Property 'jmeter.reportgenerator.graph.responseTimePercentiles.exclude_controllers' not found, using default value 'false' instead.
+2022-01-16 18:19:15,924 INFO o.a.j.r.c.ReportGeneratorConfiguration: Property 'jmeter.reportgenerator.graph.responseTimePercentilesOverTime.exclude_controllers' not found, using default value 'false' instead.
+2022-01-16 18:19:15,924 INFO o.a.j.r.c.ReportGeneratorConfiguration: Property 'jmeter.reportgenerator.graph.responseTimesOverTime.exclude_controllers' not found, using default value 'false' instead.
+2022-01-16 18:19:15,925 INFO o.a.j.r.c.ReportGeneratorConfiguration: Property 'jmeter.reportgenerator.graph.connectTimeOverTime.exclude_controllers' not found, using default value 'false' instead.
+2022-01-16 18:19:15,925 INFO o.a.j.r.c.ReportGeneratorConfiguration: Property 'jmeter.reportgenerator.graph.latenciesOverTime.exclude_controllers' not found, using default value 'false' instead.
+2022-01-16 18:19:15,927 INFO o.a.j.r.c.ReportGeneratorConfiguration: Property 'jmeter.reportgenerator.exporter.json.filters_only_sample_series' not found, using default value 'true' instead.
+2022-01-16 18:19:15,927 INFO o.a.j.r.c.ReportGeneratorConfiguration: Property 'jmeter.reportgenerator.exporter.json.series_filter' not found, using default value '' instead.
+2022-01-16 18:19:15,927 INFO o.a.j.r.c.ReportGeneratorConfiguration: Property 'jmeter.reportgenerator.exporter.json.show_controllers_only' not found, using default value 'false' instead.
+2022-01-16 18:19:15,928 INFO o.a.j.r.c.ReportGeneratorConfiguration: Property 'jmeter.reportgenerator.exporter.html.filters_only_sample_series' not found, using default value 'true' instead.
+2022-01-16 18:19:15,928 INFO o.a.j.r.c.ReportGeneratorConfiguration: Property 'jmeter.reportgenerator.exporter.html.series_filter' not found, using default value '' instead.
+2022-01-16 18:19:15,928 INFO o.a.j.r.c.ReportGeneratorConfiguration: Property 'jmeter.reportgenerator.exporter.html.show_controllers_only' not found, using default value 'false' instead.
+2022-01-16 18:19:15,936 INFO o.a.j.e.StandardJMeterEngine: Running the test!
+2022-01-16 18:19:15,943 INFO o.a.j.s.SampleEvent: List of sample_variables: []
+2022-01-16 18:19:15,944 INFO o.a.j.s.SampleEvent: List of sample_variables: []
+2022-01-16 18:19:15,951 INFO o.a.j.e.u.CompoundVariable: Note: Function class names must contain the string: '.functions.'
+2022-01-16 18:19:15,951 INFO o.a.j.e.u.CompoundVariable: Note: Function class names must not contain the string: '.gui.'
+2022-01-16 18:19:16,816 INFO o.a.j.JMeter: Running test (1642337356815)
+2022-01-16 18:19:16,913 INFO o.a.j.e.StandardJMeterEngine: Starting ThreadGroup: 1 : Users
+2022-01-16 18:19:16,913 INFO o.a.j.e.StandardJMeterEngine: Starting 110 threads for group Users.
+2022-01-16 18:19:16,914 INFO o.a.j.e.StandardJMeterEngine: Thread will continue on error
+2022-01-16 18:19:16,914 INFO o.a.j.t.ThreadGroup: Starting thread group... number=1 threads=110 ramp-up=0 delayedStart=false
+2022-01-16 18:19:16,981 INFO o.a.j.t.JMeterThread: Thread started: Users 1-1
+2022-01-16 18:19:16,985 INFO o.a.j.s.FileServer: Stored: /home/panda/LoadTest/ClientFolder/rnd_load_test/users_1000.csv
+2022-01-16 18:19:17,026 INFO o.a.j.p.h.s.HTTPHCAbstractImpl: Local host = markov
+2022-01-16 18:19:17,038 INFO o.a.j.p.h.s.HTTPHC4Impl: HTTP request retry count = 0
+2022-01-16 18:19:17,042 INFO o.a.j.s.SampleResult: Note: Sample TimeStamps are START times
+2022-01-16 18:19:17,042 INFO o.a.j.s.SampleResult: sampleresult.default.encoding is set to ISO-8859-1
+2022-01-16 18:19:17,042 INFO o.a.j.s.SampleResult: sampleresult.useNanoTime=true
+2022-01-16 18:19:17,043 INFO o.a.j.s.SampleResult: sampleresult.nanoThreadSleep=5000
+2022-01-16 18:19:17,046 INFO o.a.j.t.JMeterThread: Thread started: Users 1-2
+2022-01-16 18:19:17,116 INFO o.a.j.t.JMeterThread: Thread started: Users 1-3
+2022-01-16 18:19:17,198 INFO o.a.j.t.JMeterThread: Thread started: Users 1-4
+2022-01-16 18:19:17,266 INFO o.a.j.t.JMeterThread: Thread started: Users 1-5
+2022-01-16 18:19:17,297 INFO o.a.j.t.JMeterThread: Thread started: Users 1-6
+2022-01-16 18:19:17,333 INFO o.a.j.t.JMeterThread: Thread started: Users 1-7
+2022-01-16 18:19:17,359 INFO o.a.j.t.JMeterThread: Thread started: Users 1-8
+2022-01-16 18:19:17,384 INFO o.a.j.t.JMeterThread: Thread started: Users 1-9
+2022-01-16 18:19:17,412 INFO o.a.j.t.JMeterThread: Thread started: Users 1-10
+2022-01-16 18:19:17,438 INFO o.a.j.t.JMeterThread: Thread started: Users 1-11
+2022-01-16 18:19:17,466 INFO o.a.j.t.JMeterThread: Thread started: Users 1-12
+2022-01-16 18:19:17,493 INFO o.a.j.t.JMeterThread: Thread started: Users 1-13
+2022-01-16 18:19:17,523 INFO o.a.j.t.JMeterThread: Thread started: Users 1-14
+2022-01-16 18:19:17,549 INFO o.a.j.t.JMeterThread: Thread started: Users 1-15
+2022-01-16 18:19:17,580 INFO o.a.j.t.JMeterThread: Thread started: Users 1-16
+2022-01-16 18:19:17,602 INFO o.a.j.t.JMeterThread: Thread started: Users 1-17
+2022-01-16 18:19:17,649 INFO o.a.j.t.JMeterThread: Thread started: Users 1-18
+2022-01-16 18:19:17,671 INFO o.a.j.t.JMeterThread: Thread started: Users 1-19
+2022-01-16 18:19:17,696 INFO o.a.j.t.JMeterThread: Thread started: Users 1-20
+2022-01-16 18:19:17,755 INFO o.a.j.t.JMeterThread: Thread started: Users 1-21
+2022-01-16 18:19:17,787 INFO o.a.j.t.JMeterThread: Thread started: Users 1-22
+2022-01-16 18:19:17,810 INFO o.a.j.t.JMeterThread: Thread started: Users 1-23
+2022-01-16 18:19:17,832 INFO o.a.j.t.JMeterThread: Thread started: Users 1-24
+2022-01-16 18:19:17,854 INFO o.a.j.t.JMeterThread: Thread started: Users 1-25
+2022-01-16 18:19:17,878 INFO o.a.j.t.JMeterThread: Thread started: Users 1-26
+2022-01-16 18:19:17,900 INFO o.a.j.t.JMeterThread: Thread started: Users 1-27
+2022-01-16 18:19:17,923 INFO o.a.j.t.JMeterThread: Thread started: Users 1-28
+2022-01-16 18:19:17,946 INFO o.a.j.t.JMeterThread: Thread started: Users 1-29
+2022-01-16 18:19:17,968 INFO o.a.j.t.JMeterThread: Thread started: Users 1-30
+2022-01-16 18:19:17,992 INFO o.a.j.t.JMeterThread: Thread started: Users 1-31
+2022-01-16 18:19:18,023 INFO o.a.j.t.JMeterThread: Thread started: Users 1-32
+2022-01-16 18:19:18,048 INFO o.a.j.t.JMeterThread: Thread started: Users 1-33
+2022-01-16 18:19:18,072 INFO o.a.j.t.JMeterThread: Thread started: Users 1-34
+2022-01-16 18:19:18,094 INFO o.a.j.t.JMeterThread: Thread started: Users 1-35
+2022-01-16 18:19:18,117 INFO o.a.j.t.JMeterThread: Thread started: Users 1-36
+2022-01-16 18:19:18,141 INFO o.a.j.t.JMeterThread: Thread started: Users 1-37
+2022-01-16 18:19:18,166 INFO o.a.j.t.JMeterThread: Thread started: Users 1-38
+2022-01-16 18:19:18,192 INFO o.a.j.t.JMeterThread: Thread started: Users 1-39
+2022-01-16 18:19:18,217 INFO o.a.j.t.JMeterThread: Thread started: Users 1-40
+2022-01-16 18:19:18,249 INFO o.a.j.t.JMeterThread: Thread started: Users 1-41
+2022-01-16 18:19:18,274 INFO o.a.j.t.JMeterThread: Thread started: Users 1-42
+2022-01-16 18:19:18,323 INFO o.a.j.t.JMeterThread: Thread started: Users 1-43
+2022-01-16 18:19:18,350 INFO o.a.j.t.JMeterThread: Thread started: Users 1-44
+2022-01-16 18:19:18,372 INFO o.a.j.t.JMeterThread: Thread started: Users 1-45
+2022-01-16 18:19:18,395 INFO o.a.j.t.JMeterThread: Thread started: Users 1-46
+2022-01-16 18:19:18,419 INFO o.a.j.t.JMeterThread: Thread started: Users 1-47
+2022-01-16 18:19:18,442 INFO o.a.j.t.JMeterThread: Thread started: Users 1-48
+2022-01-16 18:19:18,465 INFO o.a.j.t.JMeterThread: Thread started: Users 1-49
+2022-01-16 18:19:18,486 INFO o.a.j.t.JMeterThread: Thread started: Users 1-50
+2022-01-16 18:19:18,509 INFO o.a.j.t.JMeterThread: Thread started: Users 1-51
+2022-01-16 18:19:18,532 INFO o.a.j.t.JMeterThread: Thread started: Users 1-52
+2022-01-16 18:19:18,556 INFO o.a.j.t.JMeterThread: Thread started: Users 1-53
+2022-01-16 18:19:18,578 INFO o.a.j.t.JMeterThread: Thread started: Users 1-54
+2022-01-16 18:19:18,602 INFO o.a.j.t.JMeterThread: Thread started: Users 1-55
+2022-01-16 18:19:18,624 INFO o.a.j.t.JMeterThread: Thread started: Users 1-56
+2022-01-16 18:19:18,647 INFO o.a.j.t.JMeterThread: Thread started: Users 1-57
+2022-01-16 18:19:18,670 INFO o.a.j.t.JMeterThread: Thread started: Users 1-58
+2022-01-16 18:19:18,693 INFO o.a.j.t.JMeterThread: Thread started: Users 1-59
+2022-01-16 18:19:18,718 INFO o.a.j.t.JMeterThread: Thread started: Users 1-60
+2022-01-16 18:19:18,741 INFO o.a.j.t.JMeterThread: Thread started: Users 1-61
+2022-01-16 18:19:18,768 INFO o.a.j.t.JMeterThread: Thread started: Users 1-62
+2022-01-16 18:19:18,796 INFO o.a.j.t.JMeterThread: Thread started: Users 1-63
+2022-01-16 18:19:18,816 INFO o.a.j.t.JMeterThread: Thread started: Users 1-64
+2022-01-16 18:19:18,841 INFO o.a.j.t.JMeterThread: Thread started: Users 1-65
+2022-01-16 18:19:18,863 INFO o.a.j.t.JMeterThread: Thread started: Users 1-66
+2022-01-16 18:19:18,883 INFO o.a.j.t.JMeterThread: Thread started: Users 1-67
+2022-01-16 18:19:18,910 INFO o.a.j.t.JMeterThread: Thread started: Users 1-68
+2022-01-16 18:19:18,946 INFO o.a.j.t.JMeterThread: Thread started: Users 1-69
+2022-01-16 18:19:18,967 INFO o.a.j.t.JMeterThread: Thread started: Users 1-70
+2022-01-16 18:19:18,988 INFO o.a.j.t.JMeterThread: Thread started: Users 1-71
+2022-01-16 18:19:19,011 INFO o.a.j.t.JMeterThread: Thread started: Users 1-72
+2022-01-16 18:19:19,036 INFO o.a.j.t.JMeterThread: Thread started: Users 1-73
+2022-01-16 18:19:19,060 INFO o.a.j.t.JMeterThread: Thread started: Users 1-74
+2022-01-16 18:19:19,123 INFO o.a.j.t.JMeterThread: Thread started: Users 1-75
+2022-01-16 18:19:19,144 INFO o.a.j.t.JMeterThread: Thread started: Users 1-76
+2022-01-16 18:19:19,167 INFO o.a.j.t.JMeterThread: Thread started: Users 1-77
+2022-01-16 18:19:19,189 INFO o.a.j.t.JMeterThread: Thread started: Users 1-78
+2022-01-16 18:19:19,211 INFO o.a.j.t.JMeterThread: Thread started: Users 1-79
+2022-01-16 18:19:19,235 INFO o.a.j.t.JMeterThread: Thread started: Users 1-80
+2022-01-16 18:19:19,258 INFO o.a.j.t.JMeterThread: Thread started: Users 1-81
+2022-01-16 18:19:19,280 INFO o.a.j.t.JMeterThread: Thread started: Users 1-82
+2022-01-16 18:19:19,303 INFO o.a.j.t.JMeterThread: Thread started: Users 1-83
+2022-01-16 18:19:19,325 INFO o.a.j.t.JMeterThread: Thread started: Users 1-84
+2022-01-16 18:19:19,381 INFO o.a.j.t.JMeterThread: Thread started: Users 1-85
+2022-01-16 18:19:19,406 INFO o.a.j.t.JMeterThread: Thread started: Users 1-86
+2022-01-16 18:19:19,430 INFO o.a.j.t.JMeterThread: Thread started: Users 1-87
+2022-01-16 18:19:19,453 INFO o.a.j.t.JMeterThread: Thread started: Users 1-88
+2022-01-16 18:19:19,477 INFO o.a.j.t.JMeterThread: Thread started: Users 1-89
+2022-01-16 18:19:19,499 INFO o.a.j.t.JMeterThread: Thread started: Users 1-90
+2022-01-16 18:19:19,521 INFO o.a.j.t.JMeterThread: Thread started: Users 1-91
+2022-01-16 18:19:19,547 INFO o.a.j.t.JMeterThread: Thread started: Users 1-92
+2022-01-16 18:19:19,568 INFO o.a.j.t.JMeterThread: Thread started: Users 1-93
+2022-01-16 18:19:19,594 INFO o.a.j.t.JMeterThread: Thread started: Users 1-94
+2022-01-16 18:19:19,619 INFO o.a.j.t.JMeterThread: Thread started: Users 1-95
+2022-01-16 18:19:19,649 INFO o.a.j.t.JMeterThread: Thread started: Users 1-96
+2022-01-16 18:19:19,670 INFO o.a.j.t.JMeterThread: Thread started: Users 1-97
+2022-01-16 18:19:19,702 INFO o.a.j.t.JMeterThread: Thread started: Users 1-98
+2022-01-16 18:19:19,730 INFO o.a.j.t.JMeterThread: Thread started: Users 1-99
+2022-01-16 18:19:19,753 INFO o.a.j.t.JMeterThread: Thread started: Users 1-100
+2022-01-16 18:19:19,774 INFO o.a.j.t.JMeterThread: Thread started: Users 1-101
+2022-01-16 18:19:19,795 INFO o.a.j.t.JMeterThread: Thread started: Users 1-102
+2022-01-16 18:19:19,816 INFO o.a.j.t.JMeterThread: Thread started: Users 1-103
+2022-01-16 18:19:19,836 INFO o.a.j.t.JMeterThread: Thread started: Users 1-104
+2022-01-16 18:19:19,858 INFO o.a.j.t.JMeterThread: Thread started: Users 1-105
+2022-01-16 18:19:19,878 INFO o.a.j.t.JMeterThread: Thread started: Users 1-106
+2022-01-16 18:19:19,900 INFO o.a.j.t.JMeterThread: Thread started: Users 1-107
+2022-01-16 18:19:19,921 INFO o.a.j.t.JMeterThread: Thread started: Users 1-108
+2022-01-16 18:19:19,942 INFO o.a.j.t.JMeterThread: Thread started: Users 1-109
+2022-01-16 18:19:19,963 INFO o.a.j.t.ThreadGroup: Started thread group number 1
+2022-01-16 18:19:19,963 INFO o.a.j.e.StandardJMeterEngine: All thread groups have been started
+2022-01-16 18:19:19,964 INFO o.a.j.t.JMeterThread: Thread started: Users 1-110
+2022-01-16 18:19:20,005 INFO o.a.j.r.Summariser: summary +    109 in 00:00:03 =   34.2/s Avg:   108 Min:    32 Max:   541 Err:     0 (0.00%) Active: 110 Started: 110 Finished: 0
+2022-01-16 18:19:31,735 INFO o.a.j.r.Summariser: summary +    222 in 00:00:12 =   18.9/s Avg:  2162 Min:    32 Max:  6021 Err:     0 (0.00%) Active: 110 Started: 110 Finished: 0
+2022-01-16 18:19:31,737 INFO o.a.j.r.Summariser: summary =    331 in 00:00:15 =   22.2/s Avg:  1486 Min:    32 Max:  6021 Err:     0 (0.00%)
+2022-01-16 18:19:48,210 INFO o.a.j.s.FileServer: Stored: /home/panda/LoadTest/ClientFolder/rnd_load_test/student_solutions/1/user40.zip
+2022-01-16 18:19:48,244 INFO o.a.j.s.FileServer: Stored: /home/panda/LoadTest/ClientFolder/rnd_load_test/student_solutions/1/user23.zip
+2022-01-16 18:19:48,251 INFO o.a.j.s.FileServer: Stored: /home/panda/LoadTest/ClientFolder/rnd_load_test/student_solutions/1/user24.zip
+2022-01-16 18:19:48,262 INFO o.a.j.s.FileServer: Stored: /home/panda/LoadTest/ClientFolder/rnd_load_test/student_solutions/2/user62.zip
+2022-01-16 18:19:48,271 INFO o.a.j.s.FileServer: Stored: /home/panda/LoadTest/ClientFolder/rnd_load_test/student_solutions/2/user74.zip
+2022-01-16 18:19:48,274 INFO o.a.j.s.FileServer: Stored: /home/panda/LoadTest/ClientFolder/rnd_load_test/student_solutions/2/user84.zip
+2022-01-16 18:19:48,294 INFO o.a.j.s.FileServer: Stored: /home/panda/LoadTest/ClientFolder/rnd_load_test/student_solutions/1/user8.zip
+2022-01-16 18:19:48,301 INFO o.a.j.s.FileServer: Stored: /home/panda/LoadTest/ClientFolder/rnd_load_test/student_solutions/2/user66.zip
+2022-01-16 18:19:48,322 INFO o.a.j.s.FileServer: Stored: /home/panda/LoadTest/ClientFolder/rnd_load_test/student_solutions/2/user96.zip
+2022-01-16 18:19:48,356 INFO o.a.j.s.FileServer: Stored: /home/panda/LoadTest/ClientFolder/rnd_load_test/student_solutions/2/user53.zip
+2022-01-16 18:19:48,362 INFO o.a.j.s.FileServer: Stored: /home/panda/LoadTest/ClientFolder/rnd_load_test/student_solutions/2/user92.zip
+2022-01-16 18:19:48,378 INFO o.a.j.s.FileServer: Stored: /home/panda/LoadTest/ClientFolder/rnd_load_test/student_solutions/2/user86.zip
+2022-01-16 18:19:48,475 INFO o.a.j.s.FileServer: Stored: /home/panda/LoadTest/ClientFolder/rnd_load_test/student_solutions/1/user35.zip
+2022-01-16 18:19:48,487 INFO o.a.j.s.FileServer: Stored: /home/panda/LoadTest/ClientFolder/rnd_load_test/student_solutions/2/user82.zip
+2022-01-16 18:19:48,498 INFO o.a.j.s.FileServer: Stored: /home/panda/LoadTest/ClientFolder/rnd_load_test/student_solutions/1/user33.zip
+2022-01-16 18:19:48,500 INFO o.a.j.s.FileServer: Stored: /home/panda/LoadTest/ClientFolder/rnd_load_test/student_solutions/1/user48.zip
+2022-01-16 18:19:48,554 INFO o.a.j.s.FileServer: Stored: /home/panda/LoadTest/ClientFolder/rnd_load_test/student_solutions/1/user7.zip
+2022-01-16 18:19:48,560 INFO o.a.j.s.FileServer: Stored: /home/panda/LoadTest/ClientFolder/rnd_load_test/student_solutions/1/user20.zip
+2022-01-16 18:19:48,569 INFO o.a.j.s.FileServer: Stored: /home/panda/LoadTest/ClientFolder/rnd_load_test/student_solutions/1/user36.zip
+2022-01-16 18:19:48,593 INFO o.a.j.s.FileServer: Stored: /home/panda/LoadTest/ClientFolder/rnd_load_test/student_solutions/2/user90.zip
+2022-01-16 18:19:48,599 INFO o.a.j.s.FileServer: Stored: /home/panda/LoadTest/ClientFolder/rnd_load_test/student_solutions/2/user83.zip
+2022-01-16 18:19:48,606 INFO o.a.j.s.FileServer: Stored: /home/panda/LoadTest/ClientFolder/rnd_load_test/student_solutions/2/user64.zip
+2022-01-16 18:19:48,614 INFO o.a.j.s.FileServer: Stored: /home/panda/LoadTest/ClientFolder/rnd_load_test/student_solutions/2/user69.zip
+2022-01-16 18:19:48,632 INFO o.a.j.s.FileServer: Stored: /home/panda/LoadTest/ClientFolder/rnd_load_test/student_solutions/1/user2.zip
+2022-01-16 18:19:48,653 INFO o.a.j.s.FileServer: Stored: /home/panda/LoadTest/ClientFolder/rnd_load_test/student_solutions/1/user47.zip
+2022-01-16 18:19:48,663 INFO o.a.j.s.FileServer: Stored: /home/panda/LoadTest/ClientFolder/rnd_load_test/student_solutions/2/user60.zip
+2022-01-16 18:19:48,674 INFO o.a.j.s.FileServer: Stored: /home/panda/LoadTest/ClientFolder/rnd_load_test/student_solutions/1/user3.zip
+2022-01-16 18:19:48,682 INFO o.a.j.s.FileServer: Stored: /home/panda/LoadTest/ClientFolder/rnd_load_test/student_solutions/2/user61.zip
+2022-01-16 18:19:48,695 INFO o.a.j.s.FileServer: Stored: /home/panda/LoadTest/ClientFolder/rnd_load_test/student_solutions/1/user26.zip
+2022-01-16 18:19:48,698 INFO o.a.j.s.FileServer: Stored: /home/panda/LoadTest/ClientFolder/rnd_load_test/student_solutions/2/user73.zip
+2022-01-16 18:19:48,703 INFO o.a.j.s.FileServer: Stored: /home/panda/LoadTest/ClientFolder/rnd_load_test/student_solutions/2/user54.zip
+2022-01-16 18:19:48,707 INFO o.a.j.s.FileServer: Stored: /home/panda/LoadTest/ClientFolder/rnd_load_test/student_solutions/2/user71.zip
+2022-01-16 18:19:48,711 INFO o.a.j.s.FileServer: Stored: /home/panda/LoadTest/ClientFolder/rnd_load_test/student_solutions/2/user78.zip
+2022-01-16 18:19:48,759 INFO o.a.j.s.FileServer: Stored: /home/panda/LoadTest/ClientFolder/rnd_load_test/student_solutions/1/user1.zip
+2022-01-16 18:19:48,764 INFO o.a.j.s.FileServer: Stored: /home/panda/LoadTest/ClientFolder/rnd_load_test/student_solutions/1/user39.zip
+2022-01-16 18:19:48,843 INFO o.a.j.s.FileServer: Stored: /home/panda/LoadTest/ClientFolder/rnd_load_test/student_solutions/1/user13.zip
+2022-01-16 18:19:48,884 INFO o.a.j.s.FileServer: Stored: /home/panda/LoadTest/ClientFolder/rnd_load_test/student_solutions/2/user75.zip
+2022-01-16 18:19:48,904 INFO o.a.j.s.FileServer: Stored: /home/panda/LoadTest/ClientFolder/rnd_load_test/student_solutions/1/user11.zip
+2022-01-16 18:19:48,928 INFO o.a.j.s.FileServer: Stored: /home/panda/LoadTest/ClientFolder/rnd_load_test/student_solutions/1/user22.zip
+2022-01-16 18:19:48,929 INFO o.a.j.s.FileServer: Stored: /home/panda/LoadTest/ClientFolder/rnd_load_test/student_solutions/2/user81.zip
+2022-01-16 18:19:48,948 INFO o.a.j.s.FileServer: Stored: /home/panda/LoadTest/ClientFolder/rnd_load_test/student_solutions/2/user79.zip
+2022-01-16 18:19:48,949 INFO o.a.j.s.FileServer: Stored: /home/panda/LoadTest/ClientFolder/rnd_load_test/student_solutions/1/user12.zip
+2022-01-16 18:19:48,970 INFO o.a.j.s.FileServer: Stored: /home/panda/LoadTest/ClientFolder/rnd_load_test/student_solutions/2/user70.zip
+2022-01-16 18:19:48,975 INFO o.a.j.s.FileServer: Stored: /home/panda/LoadTest/ClientFolder/rnd_load_test/student_solutions/2/user100.zip
+2022-01-16 18:19:48,989 INFO o.a.j.s.FileServer: Stored: /home/panda/LoadTest/ClientFolder/rnd_load_test/student_solutions/1/user25.zip
+2022-01-16 18:19:49,046 INFO o.a.j.s.FileServer: Stored: /home/panda/LoadTest/ClientFolder/rnd_load_test/student_solutions/2/user98.zip
+2022-01-16 18:19:49,066 INFO o.a.j.s.FileServer: Stored: /home/panda/LoadTest/ClientFolder/rnd_load_test/student_solutions/1/user5.zip
+2022-01-16 18:19:49,080 INFO o.a.j.s.FileServer: Stored: /home/panda/LoadTest/ClientFolder/rnd_load_test/student_solutions/1/user15.zip
+2022-01-16 18:19:49,098 INFO o.a.j.s.FileServer: Stored: /home/panda/LoadTest/ClientFolder/rnd_load_test/student_solutions/2/user51.zip
+2022-01-16 18:19:49,102 INFO o.a.j.s.FileServer: Stored: /home/panda/LoadTest/ClientFolder/rnd_load_test/student_solutions/1/user43.zip
+2022-01-16 18:19:49,205 INFO o.a.j.s.FileServer: Stored: /home/panda/LoadTest/ClientFolder/rnd_load_test/student_solutions/1/user28.zip
+2022-01-16 18:19:49,250 INFO o.a.j.s.FileServer: Stored: /home/panda/LoadTest/ClientFolder/rnd_load_test/student_solutions/2/user55.zip
+2022-01-16 18:19:49,286 INFO o.a.j.s.FileServer: Stored: /home/panda/LoadTest/ClientFolder/rnd_load_test/student_solutions/2/user80.zip
+2022-01-16 18:19:49,365 INFO o.a.j.s.FileServer: Stored: /home/panda/LoadTest/ClientFolder/rnd_load_test/student_solutions/1/user9.zip
+2022-01-16 18:19:49,382 INFO o.a.j.s.FileServer: Stored: /home/panda/LoadTest/ClientFolder/rnd_load_test/student_solutions/1/user18.zip
+2022-01-16 18:19:49,388 INFO o.a.j.s.FileServer: Stored: /home/panda/LoadTest/ClientFolder/rnd_load_test/student_solutions/1/user30.zip
+2022-01-16 18:19:49,451 INFO o.a.j.s.FileServer: Stored: /home/panda/LoadTest/ClientFolder/rnd_load_test/student_solutions/2/user59.zip
+2022-01-16 18:19:49,495 INFO o.a.j.s.FileServer: Stored: /home/panda/LoadTest/ClientFolder/rnd_load_test/student_solutions/2/user58.zip
+2022-01-16 18:19:49,502 INFO o.a.j.s.FileServer: Stored: /home/panda/LoadTest/ClientFolder/rnd_load_test/student_solutions/1/user34.zip
+2022-01-16 18:19:49,566 INFO o.a.j.s.FileServer: Stored: /home/panda/LoadTest/ClientFolder/rnd_load_test/student_solutions/1/user4.zip
+2022-01-16 18:19:49,692 INFO o.a.j.s.FileServer: Stored: /home/panda/LoadTest/ClientFolder/rnd_load_test/student_solutions/1/user14.zip
+2022-01-16 18:19:49,826 INFO o.a.j.s.FileServer: Stored: /home/panda/LoadTest/ClientFolder/rnd_load_test/student_solutions/1/user31.zip
+2022-01-16 18:19:49,888 INFO o.a.j.s.FileServer: Stored: /home/panda/LoadTest/ClientFolder/rnd_load_test/student_solutions/2/user63.zip
+2022-01-16 18:19:50,026 INFO o.a.j.s.FileServer: Stored: /home/panda/LoadTest/ClientFolder/rnd_load_test/student_solutions/1/user16.zip
+2022-01-16 18:19:50,053 INFO o.a.j.s.FileServer: Stored: /home/panda/LoadTest/ClientFolder/rnd_load_test/student_solutions/1/user21.zip
+2022-01-16 18:19:50,137 INFO o.a.j.s.FileServer: Stored: /home/panda/LoadTest/ClientFolder/rnd_load_test/student_solutions/1/user42.zip
+2022-01-16 18:19:50,182 INFO o.a.j.s.FileServer: Stored: /home/panda/LoadTest/ClientFolder/rnd_load_test/student_solutions/1/user27.zip
+2022-01-16 18:19:50,199 INFO o.a.j.s.FileServer: Stored: /home/panda/LoadTest/ClientFolder/rnd_load_test/student_solutions/2/user57.zip
+2022-01-16 18:19:50,204 INFO o.a.j.s.FileServer: Stored: /home/panda/LoadTest/ClientFolder/rnd_load_test/student_solutions/2/user77.zip
+2022-01-16 18:20:00,428 INFO o.a.j.r.Summariser: summary +    252 in 00:00:29 =    8.8/s Avg:   700 Min:    37 Max:  8837 Err:     0 (0.00%) Active: 110 Started: 110 Finished: 0
+2022-01-16 18:20:00,429 INFO o.a.j.r.Summariser: summary =    583 in 00:00:44 =   13.4/s Avg:  1146 Min:    32 Max:  8837 Err:     0 (0.00%)
+2022-01-16 18:20:11,108 INFO o.a.j.r.Summariser: summary +     18 in 00:00:11 =    1.7/s Avg:  4546 Min:   496 Max: 22475 Err:     0 (0.00%) Active: 110 Started: 110 Finished: 0
+2022-01-16 18:20:11,109 INFO o.a.j.r.Summariser: summary =    601 in 00:00:54 =   11.1/s Avg:  1248 Min:    32 Max: 22475 Err:     0 (0.00%)
+2022-01-16 18:20:20,113 INFO o.a.j.r.Summariser: summary +     13 in 00:00:09 =    1.4/s Avg: 16475 Min:   926 Max: 22244 Err:     0 (0.00%) Active: 110 Started: 110 Finished: 0
+2022-01-16 18:20:20,113 INFO o.a.j.r.Summariser: summary =    614 in 00:01:03 =    9.7/s Avg:  1570 Min:    32 Max: 22475 Err:     0 (0.00%)
+2022-01-16 18:20:30,205 INFO o.a.j.s.FileServer: Stored: /home/panda/LoadTest/ClientFolder/rnd_load_test/student_solutions/1/user38.zip
+2022-01-16 18:20:30,750 INFO o.a.j.r.Summariser: summary +     15 in 00:00:11 =    1.4/s Avg: 18535 Min:   276 Max: 41030 Err:     0 (0.00%) Active: 110 Started: 110 Finished: 0
+2022-01-16 18:20:30,751 INFO o.a.j.r.Summariser: summary =    629 in 00:01:14 =    8.5/s Avg:  1975 Min:    32 Max: 41030 Err:     0 (0.00%)
+2022-01-16 18:20:34,655 INFO o.a.j.s.FileServer: Stored: /home/panda/LoadTest/ClientFolder/rnd_load_test/student_solutions/2/user68.zip
+2022-01-16 18:20:35,306 INFO o.a.j.s.FileServer: Stored: /home/panda/LoadTest/ClientFolder/rnd_load_test/student_solutions/1/user46.zip
+2022-01-16 18:20:35,603 INFO o.a.j.s.FileServer: Stored: /home/panda/LoadTest/ClientFolder/rnd_load_test/student_solutions/1/user29.zip
+2022-01-16 18:20:35,706 INFO o.a.j.s.FileServer: Stored: /home/panda/LoadTest/ClientFolder/rnd_load_test/student_solutions/1/user49.zip
+2022-01-16 18:20:35,764 INFO o.a.j.s.FileServer: Stored: /home/panda/LoadTest/ClientFolder/rnd_load_test/student_solutions/2/user87.zip
+2022-01-16 18:20:40,013 INFO o.a.j.r.Summariser: summary +     88 in 00:00:09 =    9.5/s Avg: 40439 Min:   333 Max: 50045 Err:    68 (77.27%) Active: 110 Started: 110 Finished: 0
+2022-01-16 18:20:40,014 INFO o.a.j.r.Summariser: summary =    717 in 00:01:23 =    8.6/s Avg:  6696 Min:    32 Max: 50045 Err:    68 (9.48%)
+2022-01-16 18:20:48,494 INFO o.a.j.s.FileServer: Stored: /home/panda/LoadTest/ClientFolder/rnd_load_test/student_solutions/2/user65.zip
+2022-01-16 18:20:50,186 INFO o.a.j.r.Summariser: summary +    119 in 00:00:10 =   11.7/s Avg:  8774 Min:     0 Max: 58595 Err:    15 (12.61%) Active: 110 Started: 110 Finished: 0
+2022-01-16 18:20:50,187 INFO o.a.j.r.Summariser: summary =    836 in 00:01:33 =    9.0/s Avg:  6992 Min:     0 Max: 58595 Err:    83 (9.93%)
+2022-01-16 18:21:00,095 INFO o.a.j.r.Summariser: summary +     31 in 00:00:10 =    3.1/s Avg: 13971 Min:   439 Max: 69832 Err:     3 (9.68%) Active: 110 Started: 110 Finished: 0
+2022-01-16 18:21:00,095 INFO o.a.j.r.Summariser: summary =    867 in 00:01:43 =    8.4/s Avg:  7241 Min:     0 Max: 69832 Err:    86 (9.92%)
+2022-01-16 18:21:04,037 INFO o.a.j.s.FileServer: Stored: /home/panda/LoadTest/ClientFolder/rnd_load_test/student_solutions/2/user93.zip
+2022-01-16 18:21:05,191 INFO o.a.j.s.FileServer: Stored: /home/panda/LoadTest/ClientFolder/rnd_load_test/student_solutions/2/user97.zip
+2022-01-16 18:21:10,164 INFO o.a.j.r.Summariser: summary +     52 in 00:00:10 =    5.2/s Avg: 19508 Min:   333 Max: 79176 Err:     3 (5.77%) Active: 110 Started: 110 Finished: 0
+2022-01-16 18:21:10,165 INFO o.a.j.r.Summariser: summary =    919 in 00:01:53 =    8.1/s Avg:  7935 Min:     0 Max: 79176 Err:    89 (9.68%)
+2022-01-16 18:21:10,471 INFO o.a.j.s.FileServer: Stored: /home/panda/LoadTest/ClientFolder/rnd_load_test/student_solutions/1/user10.zip
+2022-01-16 18:21:15,803 INFO o.a.j.s.FileServer: Stored: /home/panda/LoadTest/ClientFolder/rnd_load_test/student_solutions/2/user95.zip
+2022-01-16 18:21:17,704 INFO o.a.j.s.FileServer: Stored: /home/panda/LoadTest/ClientFolder/rnd_load_test/student_solutions/2/user88.zip
+2022-01-16 18:21:20,820 INFO o.a.j.r.Summariser: summary +     77 in 00:00:11 =    7.2/s Avg: 12033 Min:     0 Max: 50003 Err:     3 (3.90%) Active: 110 Started: 110 Finished: 0
+2022-01-16 18:21:20,821 INFO o.a.j.r.Summariser: summary =    996 in 00:02:04 =    8.0/s Avg:  8252 Min:     0 Max: 79176 Err:    92 (9.24%)
+2022-01-16 18:21:25,347 INFO o.a.j.s.FileServer: Stored: /home/panda/LoadTest/ClientFolder/rnd_load_test/student_solutions/1/user37.zip
+2022-01-16 18:21:30,051 INFO o.a.j.r.Summariser: summary +     79 in 00:00:09 =    8.6/s Avg: 14304 Min:     0 Max: 62928 Err:    13 (16.46%) Active: 110 Started: 110 Finished: 0
+2022-01-16 18:21:30,052 INFO o.a.j.r.Summariser: summary =   1075 in 00:02:13 =    8.1/s Avg:  8697 Min:     0 Max: 79176 Err:   105 (9.77%)
+2022-01-16 18:21:32,416 INFO o.a.j.s.FileServer: Stored: /home/panda/LoadTest/ClientFolder/rnd_load_test/student_solutions/2/user94.zip
+2022-01-16 18:21:33,370 INFO o.a.j.s.FileServer: Stored: /home/panda/LoadTest/ClientFolder/rnd_load_test/student_solutions/2/user72.zip
+2022-01-16 18:21:40,142 INFO o.a.j.r.Summariser: summary +     59 in 00:00:10 =    5.8/s Avg:  9385 Min:   388 Max: 44670 Err:     0 (0.00%) Active: 110 Started: 110 Finished: 0
+2022-01-16 18:21:40,143 INFO o.a.j.r.Summariser: summary =   1134 in 00:02:23 =    7.9/s Avg:  8733 Min:     0 Max: 79176 Err:   105 (9.26%)
+2022-01-16 18:21:47,433 INFO o.a.j.s.FileServer: Stored: /home/panda/LoadTest/ClientFolder/rnd_load_test/student_solutions/1/user41.zip
+2022-01-16 18:21:50,121 INFO o.a.j.r.Summariser: summary +     64 in 00:00:10 =    6.4/s Avg: 17100 Min:   789 Max: 48738 Err:     0 (0.00%) Active: 110 Started: 110 Finished: 0
+2022-01-16 18:21:50,122 INFO o.a.j.r.Summariser: summary =   1198 in 00:02:33 =    7.8/s Avg:  9180 Min:     0 Max: 79176 Err:   105 (8.76%)
+2022-01-16 18:21:58,418 INFO o.a.j.s.FileServer: Stored: /home/panda/LoadTest/ClientFolder/rnd_load_test/student_solutions/2/user85.zip
+2022-01-16 18:22:00,324 INFO o.a.j.r.Summariser: summary +     71 in 00:00:10 =    7.0/s Avg: 12342 Min:   432 Max: 66032 Err:     1 (1.41%) Active: 110 Started: 110 Finished: 0
+2022-01-16 18:22:00,325 INFO o.a.j.r.Summariser: summary =   1269 in 00:02:44 =    7.8/s Avg:  9357 Min:     0 Max: 79176 Err:   106 (8.35%)
+2022-01-16 18:22:01,849 INFO o.a.j.s.FileServer: Stored: /home/panda/LoadTest/ClientFolder/rnd_load_test/student_solutions/2/user67.zip
+2022-01-16 18:22:09,877 INFO o.a.j.s.FileServer: Stored: /home/panda/LoadTest/ClientFolder/rnd_load_test/student_solutions/2/user52.zip
+2022-01-16 18:22:11,774 INFO o.a.j.r.Summariser: summary +     62 in 00:00:11 =    5.4/s Avg:  8056 Min:   372 Max: 33226 Err:     0 (0.00%) Active: 110 Started: 110 Finished: 0
+2022-01-16 18:22:11,776 INFO o.a.j.r.Summariser: summary =   1331 in 00:02:55 =    7.6/s Avg:  9296 Min:     0 Max: 79176 Err:   106 (7.96%)
+2022-01-16 18:22:20,234 INFO o.a.j.r.Summariser: summary +     68 in 00:00:08 =    8.0/s Avg:  7612 Min:   537 Max: 24543 Err:     0 (0.00%) Active: 110 Started: 110 Finished: 0
+2022-01-16 18:22:20,234 INFO o.a.j.r.Summariser: summary =   1399 in 00:03:03 =    7.6/s Avg:  9214 Min:     0 Max: 79176 Err:   106 (7.58%)
+2022-01-16 18:22:28,186 INFO o.a.j.s.FileServer: Stored: /home/panda/LoadTest/ClientFolder/rnd_load_test/student_solutions/1/user19.zip
+2022-01-16 18:22:30,540 INFO o.a.j.r.Summariser: summary +     65 in 00:00:10 =    6.3/s Avg:  9531 Min:   305 Max: 34117 Err:     0 (0.00%) Active: 110 Started: 110 Finished: 0
+2022-01-16 18:22:30,541 INFO o.a.j.r.Summariser: summary =   1464 in 00:03:14 =    7.6/s Avg:  9228 Min:     0 Max: 79176 Err:   106 (7.24%)
+2022-01-16 18:22:38,961 INFO o.a.j.s.FileServer: Stored: /home/panda/LoadTest/ClientFolder/rnd_load_test/student_solutions/2/user76.zip
+2022-01-16 18:22:40,188 INFO o.a.j.r.Summariser: summary +     59 in 00:00:10 =    6.1/s Avg:  9445 Min:   889 Max: 33785 Err:     0 (0.00%) Active: 110 Started: 110 Finished: 0
+2022-01-16 18:22:40,189 INFO o.a.j.r.Summariser: summary =   1523 in 00:03:23 =    7.5/s Avg:  9237 Min:     0 Max: 79176 Err:   106 (6.96%)
+2022-01-16 18:22:41,613 INFO o.a.j.s.FileServer: Stored: /home/panda/LoadTest/ClientFolder/rnd_load_test/student_solutions/1/user44.zip
+2022-01-16 18:22:48,165 INFO o.a.j.s.FileServer: Stored: /home/panda/LoadTest/ClientFolder/rnd_load_test/student_solutions/2/user89.zip
+2022-01-16 18:22:50,288 INFO o.a.j.r.Summariser: summary +     56 in 00:00:10 =    5.5/s Avg: 10153 Min:   399 Max: 29467 Err:     0 (0.00%) Active: 110 Started: 110 Finished: 0
+2022-01-16 18:22:50,289 INFO o.a.j.r.Summariser: summary =   1579 in 00:03:33 =    7.4/s Avg:  9269 Min:     0 Max: 79176 Err:   106 (6.71%)
+2022-01-16 18:22:54,132 INFO o.a.j.s.FileServer: Stored: /home/panda/LoadTest/ClientFolder/rnd_load_test/student_solutions/1/user45.zip
+2022-01-16 18:23:00,101 INFO o.a.j.r.Summariser: summary +     52 in 00:00:10 =    5.3/s Avg: 10078 Min:   514 Max: 70790 Err:     0 (0.00%) Active: 110 Started: 110 Finished: 0
+2022-01-16 18:23:00,101 INFO o.a.j.r.Summariser: summary =   1631 in 00:03:43 =    7.3/s Avg:  9295 Min:     0 Max: 79176 Err:   106 (6.50%)
+2022-01-16 18:23:07,113 INFO o.a.j.s.FileServer: Stored: /home/panda/LoadTest/ClientFolder/rnd_load_test/student_solutions/1/user17.zip
+2022-01-16 18:23:07,493 INFO o.a.j.s.FileServer: Stored: /home/panda/LoadTest/ClientFolder/rnd_load_test/student_solutions/2/user99.zip
+2022-01-16 18:23:10,322 INFO o.a.j.r.Summariser: summary +     75 in 00:00:10 =    7.3/s Avg:  9147 Min:   402 Max: 33982 Err:     0 (0.00%) Active: 110 Started: 110 Finished: 0
+2022-01-16 18:23:10,323 INFO o.a.j.r.Summariser: summary =   1706 in 00:03:54 =    7.3/s Avg:  9288 Min:     0 Max: 79176 Err:   106 (6.21%)
+2022-01-16 18:23:20,133 INFO o.a.j.r.Summariser: summary +     68 in 00:00:10 =    6.9/s Avg:  8207 Min:   625 Max: 29532 Err:     0 (0.00%) Active: 110 Started: 110 Finished: 0
+2022-01-16 18:23:20,133 INFO o.a.j.r.Summariser: summary =   1774 in 00:04:03 =    7.3/s Avg:  9247 Min:     0 Max: 79176 Err:   106 (5.98%)
+2022-01-16 18:23:22,520 INFO o.a.j.s.FileServer: Stored: /home/panda/LoadTest/ClientFolder/rnd_load_test/student_solutions/1/user32.zip
+2022-01-16 18:23:27,523 INFO o.a.j.s.FileServer: Stored: /home/panda/LoadTest/ClientFolder/rnd_load_test/student_solutions/2/user91.zip
+2022-01-16 18:23:30,025 INFO o.a.j.r.Summariser: summary +     44 in 00:00:10 =    4.4/s Avg:  8563 Min:   631 Max: 25859 Err:     0 (0.00%) Active: 110 Started: 110 Finished: 0
+2022-01-16 18:23:30,026 INFO o.a.j.r.Summariser: summary =   1818 in 00:04:13 =    7.2/s Avg:  9230 Min:     0 Max: 79176 Err:   106 (5.83%)
+2022-01-16 18:23:31,765 INFO o.a.j.s.FileServer: Stored: /home/panda/LoadTest/ClientFolder/rnd_load_test/student_solutions/1/user50.zip
+2022-01-16 18:23:40,092 INFO o.a.j.r.Summariser: summary +     79 in 00:00:10 =    7.8/s Avg:  8741 Min:   374 Max: 32677 Err:     0 (0.00%) Active: 110 Started: 110 Finished: 0
+2022-01-16 18:23:40,093 INFO o.a.j.r.Summariser: summary =   1897 in 00:04:23 =    7.2/s Avg:  9210 Min:     0 Max: 79176 Err:   106 (5.59%)
+2022-01-16 18:23:50,098 INFO o.a.j.r.Summariser: summary +     47 in 00:00:10 =    4.7/s Avg: 10120 Min:   382 Max: 35128 Err:     0 (0.00%) Active: 110 Started: 110 Finished: 0
+2022-01-16 18:23:50,099 INFO o.a.j.r.Summariser: summary =   1944 in 00:04:33 =    7.1/s Avg:  9232 Min:     0 Max: 79176 Err:   106 (5.45%)
+2022-01-16 18:24:00,161 INFO o.a.j.r.Summariser: summary +     55 in 00:00:10 =    5.5/s Avg:  9740 Min:   497 Max: 36409 Err:     0 (0.00%) Active: 110 Started: 110 Finished: 0
+2022-01-16 18:24:00,162 INFO o.a.j.r.Summariser: summary =   1999 in 00:04:43 =    7.1/s Avg:  9246 Min:     0 Max: 79176 Err:   106 (5.30%)
+2022-01-16 18:24:00,381 INFO o.a.j.s.FileServer: Stored: /home/panda/LoadTest/ClientFolder/rnd_load_test/student_solutions/1/user6.zip
+2022-01-16 18:24:03,168 INFO o.a.j.t.JMeterThread: Thread finished: Users 1-11
+2022-01-16 18:24:03,757 INFO o.a.j.t.JMeterThread: Thread finished: Users 1-53
+2022-01-16 18:24:05,046 INFO o.a.j.t.JMeterThread: Thread finished: Users 1-37
+2022-01-16 18:24:06,560 INFO o.a.j.t.JMeterThread: Thread finished: Users 1-43
+2022-01-16 18:24:08,250 INFO o.a.j.t.JMeterThread: Thread finished: Users 1-76
+2022-01-16 18:24:08,384 INFO o.a.j.t.JMeterThread: Thread finished: Users 1-50
+2022-01-16 18:24:08,606 INFO o.a.j.t.JMeterThread: Thread finished: Users 1-9
+2022-01-16 18:24:08,894 INFO o.a.j.t.JMeterThread: Thread finished: Users 1-6
+2022-01-16 18:24:10,416 INFO o.a.j.r.Summariser: summary +     58 in 00:00:10 =    5.7/s Avg:  9597 Min:   418 Max: 35845 Err:     1 (1.72%) Active: 102 Started: 110 Finished: 8
+2022-01-16 18:24:10,416 INFO o.a.j.r.Summariser: summary =   2057 in 00:04:54 =    7.0/s Avg:  9256 Min:     0 Max: 79176 Err:   107 (5.20%)
+2022-01-16 18:24:10,417 INFO o.a.j.t.JMeterThread: Thread finished: Users 1-95
+2022-01-16 18:24:10,838 INFO o.a.j.t.JMeterThread: Thread finished: Users 1-31
+2022-01-16 18:24:11,075 INFO o.a.j.t.JMeterThread: Thread finished: Users 1-48
+2022-01-16 18:24:12,259 INFO o.a.j.t.JMeterThread: Thread finished: Users 1-64
+2022-01-16 18:24:13,047 INFO o.a.j.t.JMeterThread: Thread finished: Users 1-75
+2022-01-16 18:24:13,448 INFO o.a.j.t.JMeterThread: Thread finished: Users 1-72
+2022-01-16 18:24:14,012 INFO o.a.j.t.JMeterThread: Thread finished: Users 1-100
+2022-01-16 18:24:14,618 INFO o.a.j.t.JMeterThread: Thread finished: Users 1-45
+2022-01-16 18:24:14,634 INFO o.a.j.t.JMeterThread: Thread finished: Users 1-1
+2022-01-16 18:24:14,673 INFO o.a.j.t.JMeterThread: Thread finished: Users 1-8
+2022-01-16 18:24:14,955 INFO o.a.j.t.JMeterThread: Thread finished: Users 1-21
+2022-01-16 18:24:16,433 INFO o.a.j.t.JMeterThread: Thread finished: Users 1-73
+2022-01-16 18:24:16,464 INFO o.a.j.t.JMeterThread: Thread finished: Users 1-30
+2022-01-16 18:24:17,143 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Users 1-3
+2022-01-16 18:24:17,152 INFO o.a.j.t.JMeterThread: Thread finished: Users 1-3
+2022-01-16 18:24:17,435 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Users 1-2
+2022-01-16 18:24:17,444 INFO o.a.j.t.JMeterThread: Thread finished: Users 1-2
+2022-01-16 18:24:17,517 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Users 1-5
+2022-01-16 18:24:17,525 INFO o.a.j.t.JMeterThread: Thread finished: Users 1-5
+2022-01-16 18:24:17,879 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Users 1-24
+2022-01-16 18:24:17,888 INFO o.a.j.t.JMeterThread: Thread finished: Users 1-24
+2022-01-16 18:24:18,112 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Users 1-20
+2022-01-16 18:24:18,116 INFO o.a.j.t.JMeterThread: Thread finished: Users 1-20
+2022-01-16 18:24:18,129 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Users 1-10
+2022-01-16 18:24:18,130 INFO o.a.j.t.JMeterThread: Thread finished: Users 1-10
+2022-01-16 18:24:18,204 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Users 1-26
+2022-01-16 18:24:18,212 INFO o.a.j.t.JMeterThread: Thread finished: Users 1-26
+2022-01-16 18:24:18,541 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Users 1-49
+2022-01-16 18:24:18,548 INFO o.a.j.t.JMeterThread: Thread finished: Users 1-49
+2022-01-16 18:24:18,574 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Users 1-12
+2022-01-16 18:24:18,583 INFO o.a.j.t.JMeterThread: Thread finished: Users 1-12
+2022-01-16 18:24:18,855 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Users 1-46
+2022-01-16 18:24:18,864 INFO o.a.j.t.JMeterThread: Thread finished: Users 1-46
+2022-01-16 18:24:18,875 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Users 1-58
+2022-01-16 18:24:18,883 INFO o.a.j.t.JMeterThread: Thread finished: Users 1-58
+2022-01-16 18:24:18,885 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Users 1-38
+2022-01-16 18:24:18,886 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Users 1-22
+2022-01-16 18:24:18,887 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Users 1-65
+2022-01-16 18:24:18,897 INFO o.a.j.t.JMeterThread: Thread finished: Users 1-38
+2022-01-16 18:24:18,902 INFO o.a.j.t.JMeterThread: Thread finished: Users 1-22
+2022-01-16 18:24:18,905 INFO o.a.j.t.JMeterThread: Thread finished: Users 1-65
+2022-01-16 18:24:18,996 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Users 1-17
+2022-01-16 18:24:19,006 INFO o.a.j.t.JMeterThread: Thread finished: Users 1-17
+2022-01-16 18:24:19,014 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Users 1-28
+2022-01-16 18:24:19,022 INFO o.a.j.t.JMeterThread: Thread finished: Users 1-28
+2022-01-16 18:24:19,051 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Users 1-14
+2022-01-16 18:24:19,059 INFO o.a.j.t.JMeterThread: Thread finished: Users 1-14
+2022-01-16 18:24:19,081 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Users 1-25
+2022-01-16 18:24:19,088 INFO o.a.j.t.JMeterThread: Thread finished: Users 1-25
+2022-01-16 18:24:19,255 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Users 1-7
+2022-01-16 18:24:19,265 INFO o.a.j.t.JMeterThread: Thread finished: Users 1-7
+2022-01-16 18:24:19,310 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Users 1-36
+2022-01-16 18:24:19,318 INFO o.a.j.t.JMeterThread: Thread finished: Users 1-36
+2022-01-16 18:24:19,345 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Users 1-4
+2022-01-16 18:24:19,353 INFO o.a.j.t.JMeterThread: Thread finished: Users 1-4
+2022-01-16 18:24:19,401 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Users 1-74
+2022-01-16 18:24:19,405 INFO o.a.j.t.JMeterThread: Thread finished: Users 1-74
+2022-01-16 18:24:19,439 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Users 1-81
+2022-01-16 18:24:19,447 INFO o.a.j.t.JMeterThread: Thread finished: Users 1-81
+2022-01-16 18:24:19,507 INFO o.a.j.t.JMeterThread: Thread finished: Users 1-96
+2022-01-16 18:24:19,517 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Users 1-84
+2022-01-16 18:24:19,525 INFO o.a.j.t.JMeterThread: Thread finished: Users 1-84
+2022-01-16 18:24:19,552 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Users 1-54
+2022-01-16 18:24:19,557 INFO o.a.j.t.JMeterThread: Thread finished: Users 1-54
+2022-01-16 18:24:19,580 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Users 1-55
+2022-01-16 18:24:19,589 INFO o.a.j.t.JMeterThread: Thread finished: Users 1-55
+2022-01-16 18:24:19,604 INFO o.a.j.t.JMeterThread: Thread finished: Users 1-97
+2022-01-16 18:24:19,615 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Users 1-18
+2022-01-16 18:24:19,618 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Users 1-62
+2022-01-16 18:24:19,619 INFO o.a.j.t.JMeterThread: Thread finished: Users 1-62
+2022-01-16 18:24:19,625 INFO o.a.j.t.JMeterThread: Thread finished: Users 1-18
+2022-01-16 18:24:19,653 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Users 1-92
+2022-01-16 18:24:19,662 INFO o.a.j.t.JMeterThread: Thread finished: Users 1-92
+2022-01-16 18:24:19,664 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Users 1-66
+2022-01-16 18:24:19,669 INFO o.a.j.t.JMeterThread: Thread finished: Users 1-66
+2022-01-16 18:24:19,719 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Users 1-61
+2022-01-16 18:24:19,729 INFO o.a.j.t.JMeterThread: Thread finished: Users 1-61
+2022-01-16 18:24:19,748 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Users 1-90
+2022-01-16 18:24:19,757 INFO o.a.j.t.JMeterThread: Thread finished: Users 1-90
+2022-01-16 18:24:19,783 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Users 1-13
+2022-01-16 18:24:19,791 INFO o.a.j.t.JMeterThread: Thread finished: Users 1-13
+2022-01-16 18:24:19,814 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Users 1-88
+2022-01-16 18:24:19,817 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Users 1-87
+2022-01-16 18:24:19,817 INFO o.a.j.t.JMeterThread: Thread finished: Users 1-87
+2022-01-16 18:24:19,823 INFO o.a.j.t.JMeterThread: Thread finished: Users 1-88
+2022-01-16 18:24:19,848 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Users 1-98
+2022-01-16 18:24:19,848 INFO o.a.j.t.JMeterThread: Thread finished: Users 1-98
+2022-01-16 18:24:19,878 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Users 1-102
+2022-01-16 18:24:19,888 INFO o.a.j.t.JMeterThread: Thread finished: Users 1-102
+2022-01-16 18:24:19,895 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Users 1-29
+2022-01-16 18:24:19,900 INFO o.a.j.t.JMeterThread: Thread finished: Users 1-29
+2022-01-16 18:24:19,923 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Users 1-82
+2022-01-16 18:24:19,931 INFO o.a.j.t.JMeterThread: Thread finished: Users 1-82
+2022-01-16 18:24:19,945 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Users 1-85
+2022-01-16 18:24:19,952 INFO o.a.j.t.JMeterThread: Thread finished: Users 1-85
+2022-01-16 18:24:19,959 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Users 1-70
+2022-01-16 18:24:19,965 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Users 1-41
+2022-01-16 18:24:19,965 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Users 1-47
+2022-01-16 18:24:19,967 INFO o.a.j.t.JMeterThread: Thread finished: Users 1-70
+2022-01-16 18:24:19,968 INFO o.a.j.t.JMeterThread: Thread finished: Users 1-41
+2022-01-16 18:24:19,970 INFO o.a.j.t.JMeterThread: Thread finished: Users 1-47
+2022-01-16 18:24:19,983 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Users 1-51
+2022-01-16 18:24:19,991 INFO o.a.j.t.JMeterThread: Thread finished: Users 1-51
+2022-01-16 18:24:20,006 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Users 1-39
+2022-01-16 18:24:20,012 INFO o.a.j.t.JMeterThread: Thread finished: Users 1-39
+2022-01-16 18:24:20,015 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Users 1-33
+2022-01-16 18:24:20,022 INFO o.a.j.t.JMeterThread: Thread finished: Users 1-33
+2022-01-16 18:24:20,030 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Users 1-57
+2022-01-16 18:24:20,037 INFO o.a.j.t.JMeterThread: Thread finished: Users 1-57
+2022-01-16 18:24:20,054 INFO o.a.j.r.Summariser: summary +     57 in 00:00:10 =    5.9/s Avg: 10136 Min:   391 Max: 34811 Err:     0 (0.00%) Active: 40 Started: 110 Finished: 70
+2022-01-16 18:24:20,055 INFO o.a.j.r.Summariser: summary =   2114 in 00:05:03 =    7.0/s Avg:  9280 Min:     0 Max: 79176 Err:   107 (5.06%)
+2022-01-16 18:24:20,055 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Users 1-32
+2022-01-16 18:24:20,055 INFO o.a.j.t.JMeterThread: Thread finished: Users 1-32
+2022-01-16 18:24:20,093 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Users 1-60
+2022-01-16 18:24:20,093 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Users 1-19
+2022-01-16 18:24:20,103 INFO o.a.j.t.JMeterThread: Thread finished: Users 1-60
+2022-01-16 18:24:20,104 INFO o.a.j.t.JMeterThread: Thread finished: Users 1-19
+2022-01-16 18:24:20,129 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Users 1-107
+2022-01-16 18:24:20,139 INFO o.a.j.t.JMeterThread: Thread finished: Users 1-107
+2022-01-16 18:24:20,363 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Users 1-44
+2022-01-16 18:24:20,364 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Users 1-42
+2022-01-16 18:24:20,371 INFO o.a.j.t.JMeterThread: Thread finished: Users 1-44
+2022-01-16 18:24:20,373 INFO o.a.j.t.JMeterThread: Thread finished: Users 1-42
+2022-01-16 18:24:20,426 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Users 1-80
+2022-01-16 18:24:20,426 INFO o.a.j.t.JMeterThread: Thread finished: Users 1-80
+2022-01-16 18:24:20,518 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Users 1-27
+2022-01-16 18:24:20,521 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Users 1-40
+2022-01-16 18:24:20,526 INFO o.a.j.t.JMeterThread: Thread finished: Users 1-27
+2022-01-16 18:24:20,529 INFO o.a.j.t.JMeterThread: Thread finished: Users 1-40
+2022-01-16 18:24:20,649 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Users 1-35
+2022-01-16 18:24:20,711 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Users 1-63
+2022-01-16 18:24:20,715 INFO o.a.j.t.JMeterThread: Thread finished: Users 1-35
+2022-01-16 18:24:20,716 INFO o.a.j.t.JMeterThread: Thread finished: Users 1-63
+2022-01-16 18:24:20,788 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Users 1-109
+2022-01-16 18:24:20,791 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Users 1-105
+2022-01-16 18:24:20,795 INFO o.a.j.t.JMeterThread: Thread finished: Users 1-109
+2022-01-16 18:24:20,799 INFO o.a.j.t.JMeterThread: Thread finished: Users 1-105
+2022-01-16 18:24:20,803 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Users 1-104
+2022-01-16 18:24:20,808 INFO o.a.j.t.JMeterThread: Thread finished: Users 1-104
+2022-01-16 18:24:20,878 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Users 1-34
+2022-01-16 18:24:20,883 INFO o.a.j.t.JMeterThread: Thread finished: Users 1-34
+2022-01-16 18:24:20,921 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Users 1-94
+2022-01-16 18:24:20,927 INFO o.a.j.t.JMeterThread: Thread finished: Users 1-94
+2022-01-16 18:24:21,100 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Users 1-56
+2022-01-16 18:24:21,103 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Users 1-86
+2022-01-16 18:24:21,106 INFO o.a.j.t.JMeterThread: Thread finished: Users 1-56
+2022-01-16 18:24:21,113 INFO o.a.j.t.JMeterThread: Thread finished: Users 1-86
+2022-01-16 18:24:21,446 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Users 1-83
+2022-01-16 18:24:21,447 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Users 1-91
+2022-01-16 18:24:21,453 INFO o.a.j.t.JMeterThread: Thread finished: Users 1-83
+2022-01-16 18:24:21,458 INFO o.a.j.t.JMeterThread: Thread finished: Users 1-91
+2022-01-16 18:24:21,906 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Users 1-106
+2022-01-16 18:24:21,907 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Users 1-108
+2022-01-16 18:24:21,913 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Users 1-23
+2022-01-16 18:24:21,913 INFO o.a.j.t.JMeterThread: Thread finished: Users 1-23
+2022-01-16 18:24:21,916 INFO o.a.j.t.JMeterThread: Thread finished: Users 1-106
+2022-01-16 18:24:21,917 INFO o.a.j.t.JMeterThread: Thread finished: Users 1-108
+2022-01-16 18:24:21,942 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Users 1-16
+2022-01-16 18:24:21,943 INFO o.a.j.t.JMeterThread: Thread finished: Users 1-16
+2022-01-16 18:24:21,958 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Users 1-71
+2022-01-16 18:24:21,963 INFO o.a.j.t.JMeterThread: Thread finished: Users 1-71
+2022-01-16 18:24:22,204 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Users 1-103
+2022-01-16 18:24:22,212 INFO o.a.j.t.JMeterThread: Thread finished: Users 1-103
+2022-01-16 18:24:22,344 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Users 1-110
+2022-01-16 18:24:22,353 INFO o.a.j.t.JMeterThread: Thread finished: Users 1-110
+2022-01-16 18:24:22,363 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Users 1-69
+2022-01-16 18:24:22,372 INFO o.a.j.t.JMeterThread: Thread finished: Users 1-69
+2022-01-16 18:24:22,374 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Users 1-59
+2022-01-16 18:24:22,383 INFO o.a.j.t.JMeterThread: Thread finished: Users 1-59
+2022-01-16 18:24:22,427 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Users 1-101
+2022-01-16 18:24:22,434 INFO o.a.j.t.JMeterThread: Thread finished: Users 1-101
+2022-01-16 18:24:22,555 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Users 1-89
+2022-01-16 18:24:22,556 INFO o.a.j.t.JMeterThread: Thread finished: Users 1-89
+2022-01-16 18:24:22,585 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Users 1-79
+2022-01-16 18:24:22,595 INFO o.a.j.t.JMeterThread: Thread finished: Users 1-79
+2022-01-16 18:24:22,631 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Users 1-52
+2022-01-16 18:24:22,631 INFO o.a.j.t.JMeterThread: Thread finished: Users 1-52
+2022-01-16 18:24:22,633 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Users 1-68
+2022-01-16 18:24:22,640 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Users 1-77
+2022-01-16 18:24:22,641 INFO o.a.j.t.JMeterThread: Thread finished: Users 1-68
+2022-01-16 18:24:22,649 INFO o.a.j.t.JMeterThread: Thread finished: Users 1-77
+2022-01-16 18:24:22,651 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Users 1-93
+2022-01-16 18:24:22,661 INFO o.a.j.t.JMeterThread: Thread finished: Users 1-93
+2022-01-16 18:24:22,954 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Users 1-15
+2022-01-16 18:24:22,960 INFO o.a.j.t.JMeterThread: Thread finished: Users 1-15
+2022-01-16 18:24:22,964 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Users 1-78
+2022-01-16 18:24:22,967 INFO o.a.j.t.JMeterThread: Thread finished: Users 1-78
+2022-01-16 18:24:23,092 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Users 1-99
+2022-01-16 18:24:23,092 INFO o.a.j.t.JMeterThread: Thread finished: Users 1-99
+2022-01-16 18:24:23,594 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Users 1-67
+2022-01-16 18:24:23,605 INFO o.a.j.t.JMeterThread: Thread finished: Users 1-67
+2022-01-16 18:24:23,606 INFO o.a.j.e.StandardJMeterEngine: Notifying test listeners of end of test
+2022-01-16 18:24:23,606 INFO o.a.j.s.FileServer: Close: /home/panda/LoadTest/ClientFolder/rnd_load_test/users_1000.csv
+2022-01-16 18:24:23,607 INFO o.a.j.r.Summariser: summary +      9 in 00:00:04 =    2.5/s Avg:  5249 Min:  3451 Max:  8715 Err:     0 (0.00%) Active: 0 Started: 110 Finished: 110
+2022-01-16 18:24:23,608 INFO o.a.j.r.Summariser: summary =   2123 in 00:05:07 =    6.9/s Avg:  9263 Min:     0 Max: 79176 Err:   107 (5.04%)
+2022-01-16 18:24:23,608 INFO o.a.j.JMeter: Generating Dashboard
+2022-01-16 18:24:23,608 INFO o.a.j.r.d.ReportGenerator: Flushing result collector before report Generation
+2022-01-16 18:24:23,626 INFO o.a.j.r.p.NormalizerSampleConsumer: Using format, 'ms', to parse timeStamp field
+2022-01-16 18:24:23,992 INFO o.a.j.r.p.AbstractSampleConsumer: class org.apache.jmeter.report.processor.AggregateConsumer#stopProducing(): beginDate produced 0 samples
+2022-01-16 18:24:23,992 INFO o.a.j.r.p.AbstractSampleConsumer: class org.apache.jmeter.report.processor.AggregateConsumer#stopProducing(): endDate produced 0 samples
+2022-01-16 18:24:23,995 INFO o.a.j.r.p.AbstractSampleConsumer: class org.apache.jmeter.report.processor.ApdexSummaryConsumer#stopProducing(): apdexSummary produced 0 samples
+2022-01-16 18:24:23,995 INFO o.a.j.r.p.AbstractSampleConsumer: class org.apache.jmeter.report.processor.RequestsSummaryConsumer#stopProducing(): requestsSummary produced 0 samples
+2022-01-16 18:24:24,008 INFO o.a.j.r.p.AbstractSampleConsumer: class org.apache.jmeter.report.processor.StatisticsSummaryConsumer#stopProducing(): statisticsSummary produced 0 samples
+2022-01-16 18:24:24,012 INFO o.a.j.r.p.AbstractSampleConsumer: class org.apache.jmeter.report.processor.Top5ErrorsBySamplerConsumer#stopProducing(): top5ErrorsBySampler produced 0 samples
+2022-01-16 18:24:24,013 INFO o.a.j.r.p.AbstractSampleConsumer: class org.apache.jmeter.report.processor.ErrorsSummaryConsumer#stopProducing(): errorsSummary produced 0 samples
+2022-01-16 18:24:24,013 INFO o.a.j.r.p.AbstractSampleConsumer: class org.apache.jmeter.report.processor.graph.impl.HitsPerSecondGraphConsumer#stopProducing(): hitsPerSecond produced 0 samples
+2022-01-16 18:24:24,070 INFO o.a.j.r.p.AbstractSampleConsumer: class org.apache.jmeter.report.processor.graph.impl.LatencyVSRequestGraphConsumer#stopProducing(): latencyVsRequest produced 0 samples
+2022-01-16 18:24:24,072 INFO o.a.j.r.p.AbstractSampleConsumer: class org.apache.jmeter.report.processor.graph.impl.SyntheticResponseTimeDistributionGraphConsumer#stopProducing(): syntheticResponseTimeDistribution produced 0 samples
+2022-01-16 18:24:24,073 INFO o.a.j.r.p.AbstractSampleConsumer: class org.apache.jmeter.report.processor.graph.impl.BytesThroughputGraphConsumer#stopProducing(): bytesThroughputOverTime produced 0 samples
+2022-01-16 18:24:24,073 INFO o.a.j.r.p.AbstractSampleConsumer: class org.apache.jmeter.report.processor.graph.impl.CodesPerSecondGraphConsumer#stopProducing(): codesPerSecond produced 0 samples
+2022-01-16 18:24:24,107 INFO o.a.j.r.p.AbstractSampleConsumer: class org.apache.jmeter.report.processor.graph.impl.ResponseTimeVSRequestGraphConsumer#stopProducing(): responseTimeVsRequest produced 0 samples
+2022-01-16 18:24:24,108 INFO o.a.j.r.p.AbstractSampleConsumer: class org.apache.jmeter.report.processor.FilterConsumer#stopProducing(): startIntervalControlerFilter produced 14861 samples
+2022-01-16 18:24:24,108 INFO o.a.j.r.p.AbstractSampleConsumer: class org.apache.jmeter.report.processor.graph.impl.TotalTPSGraphConsumer#stopProducing(): totalTPS produced 0 samples
+2022-01-16 18:24:24,109 INFO o.a.j.r.p.AbstractSampleConsumer: class org.apache.jmeter.report.processor.graph.impl.ActiveThreadsGraphConsumer#stopProducing(): activeThreadsOverTime produced 0 samples
+2022-01-16 18:24:24,109 INFO o.a.j.r.p.AbstractSampleConsumer: class org.apache.jmeter.report.processor.graph.impl.TimeVSThreadGraphConsumer#stopProducing(): timeVsThreads produced 0 samples
+2022-01-16 18:24:24,110 INFO o.a.j.r.p.AbstractSampleConsumer: class org.apache.jmeter.report.processor.graph.impl.ResponseTimeDistributionGraphConsumer#stopProducing(): responseTimeDistribution produced 0 samples
+2022-01-16 18:24:24,112 INFO o.a.j.r.p.AbstractSampleConsumer: class org.apache.jmeter.report.processor.graph.impl.TransactionsPerSecondGraphConsumer#stopProducing(): transactionsPerSecond produced 0 samples
+2022-01-16 18:24:24,112 INFO o.a.j.r.p.AbstractSampleConsumer: class org.apache.jmeter.report.processor.graph.impl.ResponseTimePercentilesGraphConsumer#stopProducing(): responseTimePercentiles produced 0 samples
+2022-01-16 18:24:24,121 INFO o.a.j.r.p.AbstractSampleConsumer: class org.apache.jmeter.report.processor.graph.impl.ResponseTimePercentilesOverTimeGraphConsumer#stopProducing(): responseTimePercentilesOverTime produced 0 samples
+2022-01-16 18:24:24,122 INFO o.a.j.r.p.AbstractSampleConsumer: class org.apache.jmeter.report.processor.graph.impl.ResponseTimeOverTimeGraphConsumer#stopProducing(): responseTimesOverTime produced 0 samples
+2022-01-16 18:24:24,122 INFO o.a.j.r.p.AbstractSampleConsumer: class org.apache.jmeter.report.processor.graph.impl.ConnectTimeOverTimeGraphConsumer#stopProducing(): connectTimeOverTime produced 0 samples
+2022-01-16 18:24:24,123 INFO o.a.j.r.p.AbstractSampleConsumer: class org.apache.jmeter.report.processor.graph.impl.LatencyOverTimeGraphConsumer#stopProducing(): latenciesOverTime produced 0 samples
+2022-01-16 18:24:24,123 INFO o.a.j.r.p.AbstractSampleConsumer: class org.apache.jmeter.report.processor.FilterConsumer#stopProducing(): nameFilter produced 31845 samples
+2022-01-16 18:24:24,123 INFO o.a.j.r.p.AbstractSampleConsumer: class org.apache.jmeter.report.processor.FilterConsumer#stopProducing(): dateRangeFilter produced 6369 samples
+2022-01-16 18:24:24,123 INFO o.a.j.r.p.AbstractSampleConsumer: class org.apache.jmeter.report.processor.NormalizerSampleConsumer#stopProducing(): normalizer produced 2123 samples
+2022-01-16 18:24:24,124 INFO o.a.j.r.p.CsvFileSampleSource: produce(): 2123 samples produced in 461ms on channel 0
+2022-01-16 18:24:24,124 INFO o.a.j.r.d.ReportGenerator: Exporting data using exporter:'json' of className:'org.apache.jmeter.report.dashboard.JsonExporter'
+2022-01-16 18:24:24,126 INFO o.a.j.r.d.JsonExporter: Found data for consumer statisticsSummary in context
+2022-01-16 18:24:24,127 INFO o.a.j.r.d.JsonExporter: Creating statistics for overall
+2022-01-16 18:24:24,127 INFO o.a.j.r.d.JsonExporter: Creating statistics for other transactions
+2022-01-16 18:24:24,128 INFO o.a.j.r.d.JsonExporter: Checking output folder
+2022-01-16 18:24:24,128 INFO o.a.j.r.d.JsonExporter: Writing statistics JSON to /home/panda/LoadTest/ClientFolder/rnd_load_test/test_results/users_110_16012022_181913/output/statistics.json
+2022-01-16 18:24:24,385 INFO o.a.j.r.d.ReportGenerator: Exporting data using exporter:'html' of className:'org.apache.jmeter.report.dashboard.HtmlTemplateExporter'
+2022-01-16 18:24:24,390 INFO o.a.j.r.d.HtmlTemplateExporter: Will generate dashboard in folder: /home/panda/LoadTest/ClientFolder/rnd_load_test/test_results/users_110_16012022_181913/output
+2022-01-16 18:24:24,556 ERROR f.configuration: DefaultObjectWrapper.incompatibleImprovements was set to the object returned by Configuration.getVersion(). That defeats the purpose of incompatibleImprovements, and makes upgrading FreeMarker a potentially breaking change. Also, this probably won't be allowed starting from 2.4.0. Instead, set incompatibleImprovements to the highest concrete version that's known to be compatible with your application.
+2022-01-16 18:24:24,559 ERROR f.configuration: Configuration.incompatibleImprovements was set to the object returned by Configuration.getVersion(). That defeats the purpose of incompatibleImprovements, and makes upgrading FreeMarker a potentially breaking change. Also, this probably won't be allowed starting from 2.4.0. Instead, set incompatibleImprovements to the highest concrete version that's known to be compatible with your application.
+2022-01-16 18:24:24,574 INFO o.a.j.r.d.HtmlTemplateExporter: Report will be generated in: /home/panda/LoadTest/ClientFolder/rnd_load_test/test_results/users_110_16012022_181913/output, creating folder structure
+2022-01-16 18:24:24,579 INFO o.a.j.r.d.TemplateVisitor: Copying folder from '/home/panda/LoadTest/ClientFolder/rnd_load_test/apache-jmeter-5.3/bin/report-template' to '/home/panda/LoadTest/ClientFolder/rnd_load_test/test_results/users_110_16012022_181913/output', got message: /home/panda/LoadTest/ClientFolder/rnd_load_test/test_results/users_110_16012022_181913/output, found non empty folder with following content [/home/panda/LoadTest/ClientFolder/rnd_load_test/test_results/users_110_16012022_181913/output/statistics.json], will be ignored
+2022-01-16 18:24:24,952 INFO o.a.j.JMeter: Dashboard generated

@@ -1,0 +1,12 @@
+%============================= abs.tex================================
+\begin{Abstract}
+Evalpro is a programming auto-grader, which is a part of Bodhitree application \cite{bodhi_tree} is an excellent platform which provides extensive features for auto grading programming assignments. However, the time required for processing an auto-grading request depends upon the code the user uploads. Hence when a many number of users are submitting programming assignments around the same time, auto-grading requests load to the system, will be highly varying. Scalability is the ability of the system to scale its performance proportionally by adding resources to the system. The scalability of the system plays an crucial role in gracefully handling this highly varying request load.
+
+This thesis deals with the problem of achieving linear scaling of the throughput by the Evalpro application with the number of CPU cores. Initially, we performed experiments to find the baseline throughput scalability. We found that the baseline throughput has not scaled linearly with the number of CPU cores. Hence we have performed bottleneck analysis on the Evalpro application to find the reason for the scalability limitation. We found that there are no application level bottlenecks. After that, we horizontally scaled the Evalpro application, using Containers with Docker swarm \cite{docker_swarm} and Virtual machines with KVM-QEMU \cite{kvm_qemu} and found that both these approaches didn't improve the throughput scalability. We also changed the architecture of the current Evalpro application by using MongoDB \cite{mongo_db} to store the files uploaded by the user instead of the file system. But we didn't find the improvement in the throughput scalability.
+
+At the end, we used the PERF tool \cite{PERF}  on the Evalpro application and found that L3 cache load misses have been inflated  with the higher number of CPU cores. When the CPU cache size increased and we found that the number of  L3 cache load and store misses have decreased proportionally. Also, the throughput of the Evalpro application increased proportionally to the increase in the CPU cache size. Thus we conclude this thesis by saying that the linear scaling of the throughput for the Evalpro application can be achieved by increasing the number of CPU cores only up to a certain number. After that to get the linear scaling of the throughput, cache size also should be incremented with the CPU cores
+
+
+\end{Abstract}
+%=======================================================================
+

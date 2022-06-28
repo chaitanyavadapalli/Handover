@@ -1,0 +1,684 @@
+2021-09-19 13:19:43,082 INFO o.a.j.u.JMeterUtils: Setting Locale to en_EN
+2021-09-19 13:19:43,131 INFO o.a.j.JMeter: Loading user properties from: /home/panda/LoadTest/ClientFolder/rnd_load_test/apache-jmeter-5.3/bin/user.properties
+2021-09-19 13:19:43,132 INFO o.a.j.JMeter: Loading system properties from: /home/panda/LoadTest/ClientFolder/rnd_load_test/apache-jmeter-5.3/bin/system.properties
+2021-09-19 13:19:43,134 INFO o.a.j.JMeter: Copyright (c) 1998-2020 The Apache Software Foundation
+2021-09-19 13:19:43,134 INFO o.a.j.JMeter: Version 5.3
+2021-09-19 13:19:43,134 INFO o.a.j.JMeter: java.version=11.0.11
+2021-09-19 13:19:43,134 INFO o.a.j.JMeter: java.vm.name=OpenJDK 64-Bit Server VM
+2021-09-19 13:19:43,134 INFO o.a.j.JMeter: os.name=Linux
+2021-09-19 13:19:43,135 INFO o.a.j.JMeter: os.arch=amd64
+2021-09-19 13:19:43,135 INFO o.a.j.JMeter: os.version=4.15.0-135-generic
+2021-09-19 13:19:43,135 INFO o.a.j.JMeter: file.encoding=UTF-8
+2021-09-19 13:19:43,135 INFO o.a.j.JMeter: java.awt.headless=true
+2021-09-19 13:19:43,135 INFO o.a.j.JMeter: Max memory     =1073741824
+2021-09-19 13:19:43,136 INFO o.a.j.JMeter: Available Processors =16
+2021-09-19 13:19:43,152 INFO o.a.j.JMeter: Default Locale=English (EN)
+2021-09-19 13:19:43,153 INFO o.a.j.JMeter: JMeter  Locale=English (EN)
+2021-09-19 13:19:43,153 INFO o.a.j.JMeter: JMeterHome=/home/panda/LoadTest/ClientFolder/rnd_load_test/apache-jmeter-5.3
+2021-09-19 13:19:43,153 INFO o.a.j.JMeter: user.dir  =/home/panda/LoadTest/ClientFolder/rnd_load_test
+2021-09-19 13:19:43,153 INFO o.a.j.JMeter: PWD       =/home/panda/LoadTest/ClientFolder/rnd_load_test
+2021-09-19 13:19:43,154 INFO o.a.j.JMeter: IP: 10.129.131.4 Name: khinchin FullName: khinchin
+2021-09-19 13:19:43,158 INFO o.a.j.JMeter: Setting property 'jmeter.reportgenerator.outputdir' to:'/home/panda/LoadTest/ClientFolder/rnd_load_test/test_results/users_160_19092021_131941/output'
+2021-09-19 13:19:43,163 INFO o.a.j.s.FileServer: Default base='/home/panda/LoadTest/ClientFolder/rnd_load_test'
+2021-09-19 13:19:43,165 INFO o.a.j.s.FileServer: Set new base='/home/panda/LoadTest/ClientFolder/rnd_load_test'
+2021-09-19 13:19:43,431 INFO o.a.j.s.SaveService: Testplan (JMX) version: 2.2. Testlog (JTL) version: 2.2
+2021-09-19 13:19:43,476 INFO o.a.j.s.SaveService: Using SaveService properties version 5.0
+2021-09-19 13:19:43,482 INFO o.a.j.s.SaveService: Using SaveService properties file encoding UTF-8
+2021-09-19 13:19:43,488 INFO o.a.j.s.SaveService: Loading file: evalpro_load_test.jmx
+2021-09-19 13:19:43,550 INFO o.a.j.p.h.c.CookieManager: Settings: Delete null: true Check: true Allow variable: true Save: false Prefix: COOKIE_
+2021-09-19 13:19:43,629 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/html is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2021-09-19 13:19:43,630 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for application/xhtml+xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2021-09-19 13:19:43,630 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for application/xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2021-09-19 13:19:43,630 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2021-09-19 13:19:43,630 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/vnd.wap.wml is org.apache.jmeter.protocol.http.parser.RegexpHTMLParser
+2021-09-19 13:19:43,631 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/css is org.apache.jmeter.protocol.http.parser.CssParser
+2021-09-19 13:19:43,800 INFO o.a.j.JMeter: Creating summariser <summary>
+2021-09-19 13:19:43,810 INFO o.a.j.r.d.ReportGenerator: ReportGenerator will use for Parsing the separator: ','
+2021-09-19 13:19:43,810 INFO o.a.j.r.d.ReportGenerator: Will generate report at end of test from  results file: test_results/users_160_19092021_131941/results.csv
+2021-09-19 13:19:43,810 INFO o.a.j.r.d.ReportGenerator: Reading report generator properties from: /home/panda/LoadTest/ClientFolder/rnd_load_test/apache-jmeter-5.3/bin/reportgenerator.properties
+2021-09-19 13:19:43,812 INFO o.a.j.r.d.ReportGenerator: Merging with JMeter properties
+2021-09-19 13:19:43,819 INFO o.a.j.r.c.ReportGeneratorConfiguration: Property 'jmeter.reportgenerator.temp_dir' not found, using default value 'temp' instead.
+2021-09-19 13:19:43,826 INFO o.a.j.r.c.ReportGeneratorConfiguration: Property 'jmeter.reportgenerator.apdex_per_transaction' not found, using default value 'null' instead.
+2021-09-19 13:19:43,826 INFO o.a.j.r.c.ReportGeneratorConfiguration: apdex_per_transaction is empty, not APDEX per transaction customization
+2021-09-19 13:19:43,826 INFO o.a.j.r.c.ReportGeneratorConfiguration: Property 'jmeter.reportgenerator.sample_filter' not found, using default value 'null' instead.
+2021-09-19 13:19:43,827 INFO o.a.j.r.c.ReportGeneratorConfiguration: Property 'jmeter.reportgenerator.report_title' not found, using default value 'null' instead.
+2021-09-19 13:19:43,827 INFO o.a.j.r.c.ReportGeneratorConfiguration: Property 'jmeter.reportgenerator.start_date' not found, using default value 'null' instead.
+2021-09-19 13:19:43,827 INFO o.a.j.r.c.ReportGeneratorConfiguration: Property 'jmeter.reportgenerator.end_date' not found, using default value 'null' instead.
+2021-09-19 13:19:43,827 INFO o.a.j.r.c.ReportGeneratorConfiguration: Property 'jmeter.reportgenerator.date_format' not found, using default value 'null' instead.
+2021-09-19 13:19:43,829 INFO o.a.j.r.c.ReportGeneratorConfiguration: Will use date range start date: null, end date: null
+2021-09-19 13:19:43,835 INFO o.a.j.r.c.ReportGeneratorConfiguration: Property 'jmeter.reportgenerator.graph.totalTPS.exclude_controllers' not found, using default value 'false' instead.
+2021-09-19 13:19:43,836 INFO o.a.j.r.c.ReportGeneratorConfiguration: Property 'jmeter.reportgenerator.graph.activeThreadsOverTime.exclude_controllers' not found, using default value 'false' instead.
+2021-09-19 13:19:43,836 INFO o.a.j.r.c.ReportGeneratorConfiguration: Property 'jmeter.reportgenerator.graph.timeVsThreads.exclude_controllers' not found, using default value 'false' instead.
+2021-09-19 13:19:43,836 INFO o.a.j.r.c.ReportGeneratorConfiguration: Property 'jmeter.reportgenerator.graph.responseTimeDistribution.exclude_controllers' not found, using default value 'false' instead.
+2021-09-19 13:19:43,837 INFO o.a.j.r.c.ReportGeneratorConfiguration: Property 'jmeter.reportgenerator.graph.transactionsPerSecond.exclude_controllers' not found, using default value 'false' instead.
+2021-09-19 13:19:43,837 INFO o.a.j.r.c.ReportGeneratorConfiguration: Property 'jmeter.reportgenerator.graph.responseTimePercentiles.exclude_controllers' not found, using default value 'false' instead.
+2021-09-19 13:19:43,837 INFO o.a.j.r.c.ReportGeneratorConfiguration: Property 'jmeter.reportgenerator.graph.responseTimePercentilesOverTime.exclude_controllers' not found, using default value 'false' instead.
+2021-09-19 13:19:43,838 INFO o.a.j.r.c.ReportGeneratorConfiguration: Property 'jmeter.reportgenerator.graph.responseTimesOverTime.exclude_controllers' not found, using default value 'false' instead.
+2021-09-19 13:19:43,838 INFO o.a.j.r.c.ReportGeneratorConfiguration: Property 'jmeter.reportgenerator.graph.connectTimeOverTime.exclude_controllers' not found, using default value 'false' instead.
+2021-09-19 13:19:43,839 INFO o.a.j.r.c.ReportGeneratorConfiguration: Property 'jmeter.reportgenerator.graph.latenciesOverTime.exclude_controllers' not found, using default value 'false' instead.
+2021-09-19 13:19:43,840 INFO o.a.j.r.c.ReportGeneratorConfiguration: Property 'jmeter.reportgenerator.exporter.json.filters_only_sample_series' not found, using default value 'true' instead.
+2021-09-19 13:19:43,840 INFO o.a.j.r.c.ReportGeneratorConfiguration: Property 'jmeter.reportgenerator.exporter.json.series_filter' not found, using default value '' instead.
+2021-09-19 13:19:43,840 INFO o.a.j.r.c.ReportGeneratorConfiguration: Property 'jmeter.reportgenerator.exporter.json.show_controllers_only' not found, using default value 'false' instead.
+2021-09-19 13:19:43,841 INFO o.a.j.r.c.ReportGeneratorConfiguration: Property 'jmeter.reportgenerator.exporter.html.filters_only_sample_series' not found, using default value 'true' instead.
+2021-09-19 13:19:43,841 INFO o.a.j.r.c.ReportGeneratorConfiguration: Property 'jmeter.reportgenerator.exporter.html.series_filter' not found, using default value '' instead.
+2021-09-19 13:19:43,842 INFO o.a.j.r.c.ReportGeneratorConfiguration: Property 'jmeter.reportgenerator.exporter.html.show_controllers_only' not found, using default value 'false' instead.
+2021-09-19 13:19:43,850 INFO o.a.j.e.StandardJMeterEngine: Running the test!
+2021-09-19 13:19:43,854 INFO o.a.j.s.SampleEvent: List of sample_variables: []
+2021-09-19 13:19:43,854 INFO o.a.j.s.SampleEvent: List of sample_variables: []
+2021-09-19 13:19:43,873 INFO o.a.j.e.u.CompoundVariable: Note: Function class names must contain the string: '.functions.'
+2021-09-19 13:19:43,873 INFO o.a.j.e.u.CompoundVariable: Note: Function class names must not contain the string: '.gui.'
+2021-09-19 13:19:44,884 INFO o.a.j.JMeter: Running test (1632037784884)
+2021-09-19 13:19:44,921 INFO o.a.j.e.StandardJMeterEngine: Starting ThreadGroup: 1 : Users
+2021-09-19 13:19:44,921 INFO o.a.j.e.StandardJMeterEngine: Starting 160 threads for group Users.
+2021-09-19 13:19:44,922 INFO o.a.j.e.StandardJMeterEngine: Thread will continue on error
+2021-09-19 13:19:44,922 INFO o.a.j.t.ThreadGroup: Starting thread group... number=1 threads=160 ramp-up=0 delayedStart=false
+2021-09-19 13:19:44,990 INFO o.a.j.t.JMeterThread: Thread started: Users 1-1
+2021-09-19 13:19:44,993 INFO o.a.j.s.FileServer: Stored: /home/panda/LoadTest/ClientFolder/rnd_load_test/users_1000.csv
+2021-09-19 13:19:45,030 INFO o.a.j.p.h.s.HTTPHCAbstractImpl: Local host = khinchin
+2021-09-19 13:19:45,035 INFO o.a.j.t.JMeterThread: Thread started: Users 1-2
+2021-09-19 13:19:45,044 INFO o.a.j.p.h.s.HTTPHC4Impl: HTTP request retry count = 0
+2021-09-19 13:19:45,047 INFO o.a.j.s.SampleResult: Note: Sample TimeStamps are START times
+2021-09-19 13:19:45,047 INFO o.a.j.s.SampleResult: sampleresult.default.encoding is set to ISO-8859-1
+2021-09-19 13:19:45,047 INFO o.a.j.s.SampleResult: sampleresult.useNanoTime=true
+2021-09-19 13:19:45,048 INFO o.a.j.s.SampleResult: sampleresult.nanoThreadSleep=5000
+2021-09-19 13:19:45,085 INFO o.a.j.t.JMeterThread: Thread started: Users 1-3
+2021-09-19 13:19:45,150 INFO o.a.j.t.JMeterThread: Thread started: Users 1-4
+2021-09-19 13:19:45,197 INFO o.a.j.t.JMeterThread: Thread started: Users 1-5
+2021-09-19 13:19:45,249 INFO o.a.j.t.JMeterThread: Thread started: Users 1-6
+2021-09-19 13:19:45,268 INFO o.a.j.t.JMeterThread: Thread started: Users 1-7
+2021-09-19 13:19:45,294 INFO o.a.j.t.JMeterThread: Thread started: Users 1-8
+2021-09-19 13:19:45,332 INFO o.a.j.t.JMeterThread: Thread started: Users 1-9
+2021-09-19 13:19:45,353 INFO o.a.j.t.JMeterThread: Thread started: Users 1-10
+2021-09-19 13:19:45,374 INFO o.a.j.t.JMeterThread: Thread started: Users 1-11
+2021-09-19 13:19:45,398 INFO o.a.j.t.JMeterThread: Thread started: Users 1-12
+2021-09-19 13:19:45,420 INFO o.a.j.t.JMeterThread: Thread started: Users 1-13
+2021-09-19 13:19:45,439 INFO o.a.j.t.JMeterThread: Thread started: Users 1-14
+2021-09-19 13:19:45,455 INFO o.a.j.t.JMeterThread: Thread started: Users 1-15
+2021-09-19 13:19:45,479 INFO o.a.j.t.JMeterThread: Thread started: Users 1-16
+2021-09-19 13:19:45,492 INFO o.a.j.t.JMeterThread: Thread started: Users 1-17
+2021-09-19 13:19:45,510 INFO o.a.j.t.JMeterThread: Thread started: Users 1-18
+2021-09-19 13:19:45,525 INFO o.a.j.t.JMeterThread: Thread started: Users 1-19
+2021-09-19 13:19:45,541 INFO o.a.j.t.JMeterThread: Thread started: Users 1-20
+2021-09-19 13:19:45,561 INFO o.a.j.t.JMeterThread: Thread started: Users 1-21
+2021-09-19 13:19:45,577 INFO o.a.j.t.JMeterThread: Thread started: Users 1-22
+2021-09-19 13:19:45,593 INFO o.a.j.t.JMeterThread: Thread started: Users 1-23
+2021-09-19 13:19:45,609 INFO o.a.j.t.JMeterThread: Thread started: Users 1-24
+2021-09-19 13:19:45,624 INFO o.a.j.t.JMeterThread: Thread started: Users 1-25
+2021-09-19 13:19:45,640 INFO o.a.j.t.JMeterThread: Thread started: Users 1-26
+2021-09-19 13:19:45,656 INFO o.a.j.t.JMeterThread: Thread started: Users 1-27
+2021-09-19 13:19:45,685 INFO o.a.j.t.JMeterThread: Thread started: Users 1-28
+2021-09-19 13:19:45,701 INFO o.a.j.t.JMeterThread: Thread started: Users 1-29
+2021-09-19 13:19:45,716 INFO o.a.j.t.JMeterThread: Thread started: Users 1-30
+2021-09-19 13:19:45,734 INFO o.a.j.t.JMeterThread: Thread started: Users 1-31
+2021-09-19 13:19:45,751 INFO o.a.j.t.JMeterThread: Thread started: Users 1-32
+2021-09-19 13:19:45,769 INFO o.a.j.t.JMeterThread: Thread started: Users 1-33
+2021-09-19 13:19:45,784 INFO o.a.j.t.JMeterThread: Thread started: Users 1-34
+2021-09-19 13:19:45,800 INFO o.a.j.t.JMeterThread: Thread started: Users 1-35
+2021-09-19 13:19:45,817 INFO o.a.j.t.JMeterThread: Thread started: Users 1-36
+2021-09-19 13:19:45,833 INFO o.a.j.t.JMeterThread: Thread started: Users 1-37
+2021-09-19 13:19:45,853 INFO o.a.j.t.JMeterThread: Thread started: Users 1-38
+2021-09-19 13:19:45,869 INFO o.a.j.t.JMeterThread: Thread started: Users 1-39
+2021-09-19 13:19:45,885 INFO o.a.j.t.JMeterThread: Thread started: Users 1-40
+2021-09-19 13:19:45,903 INFO o.a.j.t.JMeterThread: Thread started: Users 1-41
+2021-09-19 13:19:45,920 INFO o.a.j.t.JMeterThread: Thread started: Users 1-42
+2021-09-19 13:19:45,935 INFO o.a.j.t.JMeterThread: Thread started: Users 1-43
+2021-09-19 13:19:45,952 INFO o.a.j.t.JMeterThread: Thread started: Users 1-44
+2021-09-19 13:19:45,984 INFO o.a.j.t.JMeterThread: Thread started: Users 1-45
+2021-09-19 13:19:46,000 INFO o.a.j.t.JMeterThread: Thread started: Users 1-46
+2021-09-19 13:19:46,018 INFO o.a.j.t.JMeterThread: Thread started: Users 1-47
+2021-09-19 13:19:46,033 INFO o.a.j.t.JMeterThread: Thread started: Users 1-48
+2021-09-19 13:19:46,051 INFO o.a.j.t.JMeterThread: Thread started: Users 1-49
+2021-09-19 13:19:46,069 INFO o.a.j.t.JMeterThread: Thread started: Users 1-50
+2021-09-19 13:19:46,084 INFO o.a.j.t.JMeterThread: Thread started: Users 1-51
+2021-09-19 13:19:46,100 INFO o.a.j.t.JMeterThread: Thread started: Users 1-52
+2021-09-19 13:19:46,117 INFO o.a.j.t.JMeterThread: Thread started: Users 1-53
+2021-09-19 13:19:46,134 INFO o.a.j.t.JMeterThread: Thread started: Users 1-54
+2021-09-19 13:19:46,150 INFO o.a.j.t.JMeterThread: Thread started: Users 1-55
+2021-09-19 13:19:46,167 INFO o.a.j.t.JMeterThread: Thread started: Users 1-56
+2021-09-19 13:19:46,182 INFO o.a.j.t.JMeterThread: Thread started: Users 1-57
+2021-09-19 13:19:46,198 INFO o.a.j.t.JMeterThread: Thread started: Users 1-58
+2021-09-19 13:19:46,213 INFO o.a.j.t.JMeterThread: Thread started: Users 1-59
+2021-09-19 13:19:46,229 INFO o.a.j.t.JMeterThread: Thread started: Users 1-60
+2021-09-19 13:19:46,251 INFO o.a.j.t.JMeterThread: Thread started: Users 1-61
+2021-09-19 13:19:46,267 INFO o.a.j.t.JMeterThread: Thread started: Users 1-62
+2021-09-19 13:19:46,285 INFO o.a.j.t.JMeterThread: Thread started: Users 1-63
+2021-09-19 13:19:46,302 INFO o.a.j.t.JMeterThread: Thread started: Users 1-64
+2021-09-19 13:19:46,325 INFO o.a.j.t.JMeterThread: Thread started: Users 1-65
+2021-09-19 13:19:46,346 INFO o.a.j.t.JMeterThread: Thread started: Users 1-66
+2021-09-19 13:19:46,378 INFO o.a.j.t.JMeterThread: Thread started: Users 1-67
+2021-09-19 13:19:46,394 INFO o.a.j.t.JMeterThread: Thread started: Users 1-68
+2021-09-19 13:19:46,411 INFO o.a.j.t.JMeterThread: Thread started: Users 1-69
+2021-09-19 13:19:46,427 INFO o.a.j.t.JMeterThread: Thread started: Users 1-70
+2021-09-19 13:19:46,442 INFO o.a.j.t.JMeterThread: Thread started: Users 1-71
+2021-09-19 13:19:46,457 INFO o.a.j.t.JMeterThread: Thread started: Users 1-72
+2021-09-19 13:19:46,473 INFO o.a.j.t.JMeterThread: Thread started: Users 1-73
+2021-09-19 13:19:46,489 INFO o.a.j.t.JMeterThread: Thread started: Users 1-74
+2021-09-19 13:19:46,505 INFO o.a.j.t.JMeterThread: Thread started: Users 1-75
+2021-09-19 13:19:46,521 INFO o.a.j.t.JMeterThread: Thread started: Users 1-76
+2021-09-19 13:19:46,539 INFO o.a.j.t.JMeterThread: Thread started: Users 1-77
+2021-09-19 13:19:46,557 INFO o.a.j.t.JMeterThread: Thread started: Users 1-78
+2021-09-19 13:19:46,576 INFO o.a.j.t.JMeterThread: Thread started: Users 1-79
+2021-09-19 13:19:46,594 INFO o.a.j.t.JMeterThread: Thread started: Users 1-80
+2021-09-19 13:19:46,613 INFO o.a.j.t.JMeterThread: Thread started: Users 1-81
+2021-09-19 13:19:46,632 INFO o.a.j.t.JMeterThread: Thread started: Users 1-82
+2021-09-19 13:19:46,650 INFO o.a.j.t.JMeterThread: Thread started: Users 1-83
+2021-09-19 13:19:46,665 INFO o.a.j.t.JMeterThread: Thread started: Users 1-84
+2021-09-19 13:19:46,682 INFO o.a.j.t.JMeterThread: Thread started: Users 1-85
+2021-09-19 13:19:46,697 INFO o.a.j.t.JMeterThread: Thread started: Users 1-86
+2021-09-19 13:19:46,715 INFO o.a.j.t.JMeterThread: Thread started: Users 1-87
+2021-09-19 13:19:46,732 INFO o.a.j.t.JMeterThread: Thread started: Users 1-88
+2021-09-19 13:19:46,749 INFO o.a.j.t.JMeterThread: Thread started: Users 1-89
+2021-09-19 13:19:46,765 INFO o.a.j.t.JMeterThread: Thread started: Users 1-90
+2021-09-19 13:19:46,783 INFO o.a.j.t.JMeterThread: Thread started: Users 1-91
+2021-09-19 13:19:46,801 INFO o.a.j.t.JMeterThread: Thread started: Users 1-92
+2021-09-19 13:19:46,818 INFO o.a.j.t.JMeterThread: Thread started: Users 1-93
+2021-09-19 13:19:46,836 INFO o.a.j.t.JMeterThread: Thread started: Users 1-94
+2021-09-19 13:19:46,867 INFO o.a.j.t.JMeterThread: Thread started: Users 1-95
+2021-09-19 13:19:46,883 INFO o.a.j.t.JMeterThread: Thread started: Users 1-96
+2021-09-19 13:19:46,897 INFO o.a.j.t.JMeterThread: Thread started: Users 1-97
+2021-09-19 13:19:46,912 INFO o.a.j.t.JMeterThread: Thread started: Users 1-98
+2021-09-19 13:19:46,928 INFO o.a.j.t.JMeterThread: Thread started: Users 1-99
+2021-09-19 13:19:46,947 INFO o.a.j.t.JMeterThread: Thread started: Users 1-100
+2021-09-19 13:19:46,965 INFO o.a.j.t.JMeterThread: Thread started: Users 1-101
+2021-09-19 13:19:46,981 INFO o.a.j.t.JMeterThread: Thread started: Users 1-102
+2021-09-19 13:19:46,997 INFO o.a.j.t.JMeterThread: Thread started: Users 1-103
+2021-09-19 13:19:47,013 INFO o.a.j.t.JMeterThread: Thread started: Users 1-104
+2021-09-19 13:19:47,030 INFO o.a.j.t.JMeterThread: Thread started: Users 1-105
+2021-09-19 13:19:47,047 INFO o.a.j.t.JMeterThread: Thread started: Users 1-106
+2021-09-19 13:19:47,063 INFO o.a.j.t.JMeterThread: Thread started: Users 1-107
+2021-09-19 13:19:47,078 INFO o.a.j.t.JMeterThread: Thread started: Users 1-108
+2021-09-19 13:19:47,094 INFO o.a.j.t.JMeterThread: Thread started: Users 1-109
+2021-09-19 13:19:47,110 INFO o.a.j.t.JMeterThread: Thread started: Users 1-110
+2021-09-19 13:19:47,126 INFO o.a.j.t.JMeterThread: Thread started: Users 1-111
+2021-09-19 13:19:47,142 INFO o.a.j.t.JMeterThread: Thread started: Users 1-112
+2021-09-19 13:19:47,158 INFO o.a.j.t.JMeterThread: Thread started: Users 1-113
+2021-09-19 13:19:47,174 INFO o.a.j.t.JMeterThread: Thread started: Users 1-114
+2021-09-19 13:19:47,191 INFO o.a.j.t.JMeterThread: Thread started: Users 1-115
+2021-09-19 13:19:47,206 INFO o.a.j.t.JMeterThread: Thread started: Users 1-116
+2021-09-19 13:19:47,225 INFO o.a.j.t.JMeterThread: Thread started: Users 1-117
+2021-09-19 13:19:47,242 INFO o.a.j.t.JMeterThread: Thread started: Users 1-118
+2021-09-19 13:19:47,258 INFO o.a.j.t.JMeterThread: Thread started: Users 1-119
+2021-09-19 13:19:47,273 INFO o.a.j.t.JMeterThread: Thread started: Users 1-120
+2021-09-19 13:19:47,289 INFO o.a.j.t.JMeterThread: Thread started: Users 1-121
+2021-09-19 13:19:47,304 INFO o.a.j.t.JMeterThread: Thread started: Users 1-122
+2021-09-19 13:19:47,319 INFO o.a.j.t.JMeterThread: Thread started: Users 1-123
+2021-09-19 13:19:47,334 INFO o.a.j.t.JMeterThread: Thread started: Users 1-124
+2021-09-19 13:19:47,349 INFO o.a.j.t.JMeterThread: Thread started: Users 1-125
+2021-09-19 13:19:47,365 INFO o.a.j.t.JMeterThread: Thread started: Users 1-126
+2021-09-19 13:19:47,381 INFO o.a.j.t.JMeterThread: Thread started: Users 1-127
+2021-09-19 13:19:47,402 INFO o.a.j.t.JMeterThread: Thread started: Users 1-128
+2021-09-19 13:19:47,413 INFO o.a.j.t.JMeterThread: Thread started: Users 1-129
+2021-09-19 13:19:47,439 INFO o.a.j.t.JMeterThread: Thread started: Users 1-130
+2021-09-19 13:19:47,455 INFO o.a.j.t.JMeterThread: Thread started: Users 1-131
+2021-09-19 13:19:47,474 INFO o.a.j.t.JMeterThread: Thread started: Users 1-132
+2021-09-19 13:19:47,495 INFO o.a.j.t.JMeterThread: Thread started: Users 1-133
+2021-09-19 13:19:47,511 INFO o.a.j.t.JMeterThread: Thread started: Users 1-134
+2021-09-19 13:19:47,527 INFO o.a.j.t.JMeterThread: Thread started: Users 1-135
+2021-09-19 13:19:47,544 INFO o.a.j.t.JMeterThread: Thread started: Users 1-136
+2021-09-19 13:19:47,560 INFO o.a.j.t.JMeterThread: Thread started: Users 1-137
+2021-09-19 13:19:47,579 INFO o.a.j.t.JMeterThread: Thread started: Users 1-138
+2021-09-19 13:19:47,595 INFO o.a.j.t.JMeterThread: Thread started: Users 1-139
+2021-09-19 13:19:47,611 INFO o.a.j.t.JMeterThread: Thread started: Users 1-140
+2021-09-19 13:19:47,628 INFO o.a.j.t.JMeterThread: Thread started: Users 1-141
+2021-09-19 13:19:47,645 INFO o.a.j.t.JMeterThread: Thread started: Users 1-142
+2021-09-19 13:19:47,663 INFO o.a.j.t.JMeterThread: Thread started: Users 1-143
+2021-09-19 13:19:47,679 INFO o.a.j.t.JMeterThread: Thread started: Users 1-144
+2021-09-19 13:19:47,695 INFO o.a.j.t.JMeterThread: Thread started: Users 1-145
+2021-09-19 13:19:47,715 INFO o.a.j.t.JMeterThread: Thread started: Users 1-146
+2021-09-19 13:19:47,730 INFO o.a.j.t.JMeterThread: Thread started: Users 1-147
+2021-09-19 13:19:47,746 INFO o.a.j.t.JMeterThread: Thread started: Users 1-148
+2021-09-19 13:19:47,762 INFO o.a.j.t.JMeterThread: Thread started: Users 1-149
+2021-09-19 13:19:47,778 INFO o.a.j.t.JMeterThread: Thread started: Users 1-150
+2021-09-19 13:19:47,794 INFO o.a.j.t.JMeterThread: Thread started: Users 1-151
+2021-09-19 13:19:47,810 INFO o.a.j.t.JMeterThread: Thread started: Users 1-152
+2021-09-19 13:19:47,825 INFO o.a.j.t.JMeterThread: Thread started: Users 1-153
+2021-09-19 13:19:47,841 INFO o.a.j.t.JMeterThread: Thread started: Users 1-154
+2021-09-19 13:19:47,856 INFO o.a.j.t.JMeterThread: Thread started: Users 1-155
+2021-09-19 13:19:47,871 INFO o.a.j.t.JMeterThread: Thread started: Users 1-156
+2021-09-19 13:19:47,886 INFO o.a.j.t.JMeterThread: Thread started: Users 1-157
+2021-09-19 13:19:47,902 INFO o.a.j.t.JMeterThread: Thread started: Users 1-158
+2021-09-19 13:19:47,917 INFO o.a.j.t.JMeterThread: Thread started: Users 1-159
+2021-09-19 13:19:47,932 INFO o.a.j.t.ThreadGroup: Started thread group number 1
+2021-09-19 13:19:47,932 INFO o.a.j.e.StandardJMeterEngine: All thread groups have been started
+2021-09-19 13:19:47,932 INFO o.a.j.t.JMeterThread: Thread started: Users 1-160
+2021-09-19 13:20:12,019 INFO o.a.j.s.FileServer: Stored: /home/panda/LoadTest/ClientFolder/rnd_load_test/student_solutions/3/user77.zip
+2021-09-19 13:20:12,022 INFO o.a.j.s.FileServer: Stored: /home/panda/LoadTest/ClientFolder/rnd_load_test/student_solutions/3/user55.zip
+2021-09-19 13:20:12,055 INFO o.a.j.s.FileServer: Stored: /home/panda/LoadTest/ClientFolder/rnd_load_test/student_solutions/2/user20.zip
+2021-09-19 13:20:12,092 INFO o.a.j.s.FileServer: Stored: /home/panda/LoadTest/ClientFolder/rnd_load_test/student_solutions/2/user49.zip
+2021-09-19 13:20:12,092 INFO o.a.j.s.FileServer: Stored: /home/panda/LoadTest/ClientFolder/rnd_load_test/student_solutions/2/user43.zip
+2021-09-19 13:20:12,093 INFO o.a.j.s.FileServer: Stored: /home/panda/LoadTest/ClientFolder/rnd_load_test/student_solutions/3/user74.zip
+2021-09-19 13:20:12,096 INFO o.a.j.s.FileServer: Stored: /home/panda/LoadTest/ClientFolder/rnd_load_test/student_solutions/2/user42.zip
+2021-09-19 13:20:12,097 INFO o.a.j.s.FileServer: Stored: /home/panda/LoadTest/ClientFolder/rnd_load_test/student_solutions/2/user8.zip
+2021-09-19 13:20:12,102 INFO o.a.j.s.FileServer: Stored: /home/panda/LoadTest/ClientFolder/rnd_load_test/student_solutions/3/user67.zip
+2021-09-19 13:20:12,105 INFO o.a.j.s.FileServer: Stored: /home/panda/LoadTest/ClientFolder/rnd_load_test/student_solutions/2/user5.zip
+2021-09-19 13:20:12,109 INFO o.a.j.s.FileServer: Stored: /home/panda/LoadTest/ClientFolder/rnd_load_test/student_solutions/2/user37.zip
+2021-09-19 13:20:12,126 INFO o.a.j.s.FileServer: Stored: /home/panda/LoadTest/ClientFolder/rnd_load_test/student_solutions/3/user70.zip
+2021-09-19 13:20:12,146 INFO o.a.j.s.FileServer: Stored: /home/panda/LoadTest/ClientFolder/rnd_load_test/student_solutions/3/user97.zip
+2021-09-19 13:20:12,162 INFO o.a.j.s.FileServer: Stored: /home/panda/LoadTest/ClientFolder/rnd_load_test/student_solutions/2/user15.zip
+2021-09-19 13:20:12,171 INFO o.a.j.s.FileServer: Stored: /home/panda/LoadTest/ClientFolder/rnd_load_test/student_solutions/3/user87.zip
+2021-09-19 13:20:12,175 INFO o.a.j.s.FileServer: Stored: /home/panda/LoadTest/ClientFolder/rnd_load_test/student_solutions/2/user34.zip
+2021-09-19 13:20:12,195 INFO o.a.j.s.FileServer: Stored: /home/panda/LoadTest/ClientFolder/rnd_load_test/student_solutions/3/user85.zip
+2021-09-19 13:20:12,200 INFO o.a.j.s.FileServer: Stored: /home/panda/LoadTest/ClientFolder/rnd_load_test/student_solutions/2/user33.zip
+2021-09-19 13:20:12,203 INFO o.a.j.s.FileServer: Stored: /home/panda/LoadTest/ClientFolder/rnd_load_test/student_solutions/3/user56.zip
+2021-09-19 13:20:12,204 INFO o.a.j.s.FileServer: Stored: /home/panda/LoadTest/ClientFolder/rnd_load_test/student_solutions/2/user28.zip
+2021-09-19 13:20:12,232 INFO o.a.j.s.FileServer: Stored: /home/panda/LoadTest/ClientFolder/rnd_load_test/student_solutions/2/user25.zip
+2021-09-19 13:20:12,250 INFO o.a.j.s.FileServer: Stored: /home/panda/LoadTest/ClientFolder/rnd_load_test/student_solutions/2/user29.zip
+2021-09-19 13:20:12,281 INFO o.a.j.s.FileServer: Stored: /home/panda/LoadTest/ClientFolder/rnd_load_test/student_solutions/2/user40.zip
+2021-09-19 13:20:12,283 INFO o.a.j.s.FileServer: Stored: /home/panda/LoadTest/ClientFolder/rnd_load_test/student_solutions/2/user41.zip
+2021-09-19 13:20:12,319 INFO o.a.j.s.FileServer: Stored: /home/panda/LoadTest/ClientFolder/rnd_load_test/student_solutions/3/user83.zip
+2021-09-19 13:20:12,321 INFO o.a.j.s.FileServer: Stored: /home/panda/LoadTest/ClientFolder/rnd_load_test/student_solutions/3/user88.zip
+2021-09-19 13:20:12,341 INFO o.a.j.s.FileServer: Stored: /home/panda/LoadTest/ClientFolder/rnd_load_test/student_solutions/3/user82.zip
+2021-09-19 13:20:12,357 INFO o.a.j.s.FileServer: Stored: /home/panda/LoadTest/ClientFolder/rnd_load_test/student_solutions/3/user93.zip
+2021-09-19 13:20:12,428 INFO o.a.j.s.FileServer: Stored: /home/panda/LoadTest/ClientFolder/rnd_load_test/student_solutions/3/user66.zip
+2021-09-19 13:20:12,435 INFO o.a.j.s.FileServer: Stored: /home/panda/LoadTest/ClientFolder/rnd_load_test/student_solutions/2/user21.zip
+2021-09-19 13:20:12,437 INFO o.a.j.s.FileServer: Stored: /home/panda/LoadTest/ClientFolder/rnd_load_test/student_solutions/2/user38.zip
+2021-09-19 13:20:12,443 INFO o.a.j.s.FileServer: Stored: /home/panda/LoadTest/ClientFolder/rnd_load_test/student_solutions/2/user6.zip
+2021-09-19 13:20:12,474 INFO o.a.j.s.FileServer: Stored: /home/panda/LoadTest/ClientFolder/rnd_load_test/student_solutions/3/user73.zip
+2021-09-19 13:20:12,486 INFO o.a.j.s.FileServer: Stored: /home/panda/LoadTest/ClientFolder/rnd_load_test/student_solutions/2/user45.zip
+2021-09-19 13:20:12,501 INFO o.a.j.s.FileServer: Stored: /home/panda/LoadTest/ClientFolder/rnd_load_test/student_solutions/3/user91.zip
+2021-09-19 13:20:12,523 INFO o.a.j.s.FileServer: Stored: /home/panda/LoadTest/ClientFolder/rnd_load_test/student_solutions/3/user94.zip
+2021-09-19 13:20:12,537 INFO o.a.j.s.FileServer: Stored: /home/panda/LoadTest/ClientFolder/rnd_load_test/student_solutions/2/user35.zip
+2021-09-19 13:20:12,539 INFO o.a.j.s.FileServer: Stored: /home/panda/LoadTest/ClientFolder/rnd_load_test/student_solutions/3/user51.zip
+2021-09-19 13:20:12,544 INFO o.a.j.s.FileServer: Stored: /home/panda/LoadTest/ClientFolder/rnd_load_test/student_solutions/3/user100.zip
+2021-09-19 13:20:12,559 INFO o.a.j.s.FileServer: Stored: /home/panda/LoadTest/ClientFolder/rnd_load_test/student_solutions/2/user36.zip
+2021-09-19 13:20:12,601 INFO o.a.j.s.FileServer: Stored: /home/panda/LoadTest/ClientFolder/rnd_load_test/student_solutions/2/user26.zip
+2021-09-19 13:20:12,609 INFO o.a.j.s.FileServer: Stored: /home/panda/LoadTest/ClientFolder/rnd_load_test/student_solutions/3/user90.zip
+2021-09-19 13:20:12,612 INFO o.a.j.s.FileServer: Stored: /home/panda/LoadTest/ClientFolder/rnd_load_test/student_solutions/2/user3.zip
+2021-09-19 13:20:12,615 INFO o.a.j.s.FileServer: Stored: /home/panda/LoadTest/ClientFolder/rnd_load_test/student_solutions/3/user96.zip
+2021-09-19 13:20:12,625 INFO o.a.j.s.FileServer: Stored: /home/panda/LoadTest/ClientFolder/rnd_load_test/student_solutions/2/user18.zip
+2021-09-19 13:20:12,636 INFO o.a.j.s.FileServer: Stored: /home/panda/LoadTest/ClientFolder/rnd_load_test/student_solutions/2/user47.zip
+2021-09-19 13:20:12,648 INFO o.a.j.s.FileServer: Stored: /home/panda/LoadTest/ClientFolder/rnd_load_test/student_solutions/3/user80.zip
+2021-09-19 13:20:12,664 INFO o.a.j.s.FileServer: Stored: /home/panda/LoadTest/ClientFolder/rnd_load_test/student_solutions/2/user22.zip
+2021-09-19 13:20:12,667 INFO o.a.j.s.FileServer: Stored: /home/panda/LoadTest/ClientFolder/rnd_load_test/student_solutions/2/user11.zip
+2021-09-19 13:20:12,700 INFO o.a.j.s.FileServer: Stored: /home/panda/LoadTest/ClientFolder/rnd_load_test/student_solutions/3/user52.zip
+2021-09-19 13:20:12,726 INFO o.a.j.s.FileServer: Stored: /home/panda/LoadTest/ClientFolder/rnd_load_test/student_solutions/2/user1.zip
+2021-09-19 13:20:12,745 INFO o.a.j.s.FileServer: Stored: /home/panda/LoadTest/ClientFolder/rnd_load_test/student_solutions/3/user75.zip
+2021-09-19 13:20:12,754 INFO o.a.j.s.FileServer: Stored: /home/panda/LoadTest/ClientFolder/rnd_load_test/student_solutions/2/user48.zip
+2021-09-19 13:20:12,765 INFO o.a.j.s.FileServer: Stored: /home/panda/LoadTest/ClientFolder/rnd_load_test/student_solutions/3/user76.zip
+2021-09-19 13:20:12,770 INFO o.a.j.s.FileServer: Stored: /home/panda/LoadTest/ClientFolder/rnd_load_test/student_solutions/2/user32.zip
+2021-09-19 13:20:12,772 INFO o.a.j.s.FileServer: Stored: /home/panda/LoadTest/ClientFolder/rnd_load_test/student_solutions/2/user4.zip
+2021-09-19 13:20:12,796 INFO o.a.j.s.FileServer: Stored: /home/panda/LoadTest/ClientFolder/rnd_load_test/student_solutions/3/user54.zip
+2021-09-19 13:20:12,822 INFO o.a.j.s.FileServer: Stored: /home/panda/LoadTest/ClientFolder/rnd_load_test/student_solutions/3/user79.zip
+2021-09-19 13:20:12,834 INFO o.a.j.s.FileServer: Stored: /home/panda/LoadTest/ClientFolder/rnd_load_test/student_solutions/3/user59.zip
+2021-09-19 13:20:12,845 INFO o.a.j.s.FileServer: Stored: /home/panda/LoadTest/ClientFolder/rnd_load_test/student_solutions/2/user31.zip
+2021-09-19 13:20:12,852 INFO o.a.j.s.FileServer: Stored: /home/panda/LoadTest/ClientFolder/rnd_load_test/student_solutions/3/user89.zip
+2021-09-19 13:20:12,854 INFO o.a.j.s.FileServer: Stored: /home/panda/LoadTest/ClientFolder/rnd_load_test/student_solutions/3/user61.zip
+2021-09-19 13:20:12,861 INFO o.a.j.s.FileServer: Stored: /home/panda/LoadTest/ClientFolder/rnd_load_test/student_solutions/3/user57.zip
+2021-09-19 13:20:12,885 INFO o.a.j.s.FileServer: Stored: /home/panda/LoadTest/ClientFolder/rnd_load_test/student_solutions/2/user27.zip
+2021-09-19 13:20:12,894 INFO o.a.j.s.FileServer: Stored: /home/panda/LoadTest/ClientFolder/rnd_load_test/student_solutions/2/user14.zip
+2021-09-19 13:20:12,895 INFO o.a.j.s.FileServer: Stored: /home/panda/LoadTest/ClientFolder/rnd_load_test/student_solutions/3/user78.zip
+2021-09-19 13:20:12,951 INFO o.a.j.s.FileServer: Stored: /home/panda/LoadTest/ClientFolder/rnd_load_test/student_solutions/3/user69.zip
+2021-09-19 13:20:12,971 INFO o.a.j.s.FileServer: Stored: /home/panda/LoadTest/ClientFolder/rnd_load_test/student_solutions/2/user13.zip
+2021-09-19 13:20:12,971 INFO o.a.j.s.FileServer: Stored: /home/panda/LoadTest/ClientFolder/rnd_load_test/student_solutions/2/user16.zip
+2021-09-19 13:20:12,973 INFO o.a.j.s.FileServer: Stored: /home/panda/LoadTest/ClientFolder/rnd_load_test/student_solutions/2/user24.zip
+2021-09-19 13:20:12,990 INFO o.a.j.s.FileServer: Stored: /home/panda/LoadTest/ClientFolder/rnd_load_test/student_solutions/2/user19.zip
+2021-09-19 13:20:13,160 INFO o.a.j.s.FileServer: Stored: /home/panda/LoadTest/ClientFolder/rnd_load_test/student_solutions/2/user2.zip
+2021-09-19 13:20:13,165 INFO o.a.j.s.FileServer: Stored: /home/panda/LoadTest/ClientFolder/rnd_load_test/student_solutions/2/user50.zip
+2021-09-19 13:20:13,281 INFO o.a.j.s.FileServer: Stored: /home/panda/LoadTest/ClientFolder/rnd_load_test/student_solutions/2/user39.zip
+2021-09-19 13:20:13,366 INFO o.a.j.s.FileServer: Stored: /home/panda/LoadTest/ClientFolder/rnd_load_test/student_solutions/2/user9.zip
+2021-09-19 13:20:13,386 INFO o.a.j.s.FileServer: Stored: /home/panda/LoadTest/ClientFolder/rnd_load_test/student_solutions/2/user10.zip
+2021-09-19 13:20:13,449 INFO o.a.j.s.FileServer: Stored: /home/panda/LoadTest/ClientFolder/rnd_load_test/student_solutions/2/user23.zip
+2021-09-19 13:20:13,487 INFO o.a.j.s.FileServer: Stored: /home/panda/LoadTest/ClientFolder/rnd_load_test/student_solutions/3/user98.zip
+2021-09-19 13:20:14,054 INFO o.a.j.s.FileServer: Stored: /home/panda/LoadTest/ClientFolder/rnd_load_test/student_solutions/3/user64.zip
+2021-09-19 13:20:14,102 INFO o.a.j.s.FileServer: Stored: /home/panda/LoadTest/ClientFolder/rnd_load_test/student_solutions/3/user58.zip
+2021-09-19 13:20:30,011 INFO o.a.j.r.Summariser: summary +    932 in 00:00:45 =   20.7/s Avg:  1503 Min:    23 Max: 17985 Err:     1 (0.11%) Active: 160 Started: 160 Finished: 0
+2021-09-19 13:20:50,517 INFO o.a.j.s.FileServer: Stored: /home/panda/LoadTest/ClientFolder/rnd_load_test/student_solutions/3/user86.zip
+2021-09-19 13:20:53,125 INFO o.a.j.s.FileServer: Stored: /home/panda/LoadTest/ClientFolder/rnd_load_test/student_solutions/3/user63.zip
+2021-09-19 13:21:00,014 INFO o.a.j.r.Summariser: summary +    546 in 00:00:30 =   18.2/s Avg: 10673 Min:   289 Max: 31564 Err:     5 (0.92%) Active: 160 Started: 160 Finished: 0
+2021-09-19 13:21:00,014 INFO o.a.j.r.Summariser: summary =   1478 in 00:01:15 =   19.7/s Avg:  4891 Min:    23 Max: 31564 Err:     6 (0.41%)
+2021-09-19 13:21:01,100 INFO o.a.j.s.FileServer: Stored: /home/panda/LoadTest/ClientFolder/rnd_load_test/student_solutions/2/user44.zip
+2021-09-19 13:21:01,904 INFO o.a.j.s.FileServer: Stored: /home/panda/LoadTest/ClientFolder/rnd_load_test/student_solutions/2/user12.zip
+2021-09-19 13:21:02,277 INFO o.a.j.s.FileServer: Stored: /home/panda/LoadTest/ClientFolder/rnd_load_test/student_solutions/3/user62.zip
+2021-09-19 13:21:02,760 INFO o.a.j.s.FileServer: Stored: /home/panda/LoadTest/ClientFolder/rnd_load_test/student_solutions/2/user46.zip
+2021-09-19 13:21:02,885 INFO o.a.j.s.FileServer: Stored: /home/panda/LoadTest/ClientFolder/rnd_load_test/student_solutions/3/user92.zip
+2021-09-19 13:21:04,927 INFO o.a.j.s.FileServer: Stored: /home/panda/LoadTest/ClientFolder/rnd_load_test/student_solutions/3/user53.zip
+2021-09-19 13:21:05,121 INFO o.a.j.s.FileServer: Stored: /home/panda/LoadTest/ClientFolder/rnd_load_test/student_solutions/3/user60.zip
+2021-09-19 13:21:05,923 INFO o.a.j.s.FileServer: Stored: /home/panda/LoadTest/ClientFolder/rnd_load_test/student_solutions/3/user72.zip
+2021-09-19 13:21:07,107 INFO o.a.j.s.FileServer: Stored: /home/panda/LoadTest/ClientFolder/rnd_load_test/student_solutions/2/user7.zip
+2021-09-19 13:21:09,459 INFO o.a.j.s.FileServer: Stored: /home/panda/LoadTest/ClientFolder/rnd_load_test/student_solutions/2/user30.zip
+2021-09-19 13:21:10,210 INFO o.a.j.s.FileServer: Stored: /home/panda/LoadTest/ClientFolder/rnd_load_test/student_solutions/3/user84.zip
+2021-09-19 13:21:14,932 INFO o.a.j.s.FileServer: Stored: /home/panda/LoadTest/ClientFolder/rnd_load_test/student_solutions/3/user71.zip
+2021-09-19 13:21:15,947 INFO o.a.j.s.FileServer: Stored: /home/panda/LoadTest/ClientFolder/rnd_load_test/student_solutions/3/user81.zip
+2021-09-19 13:21:18,270 INFO o.a.j.s.FileServer: Stored: /home/panda/LoadTest/ClientFolder/rnd_load_test/student_solutions/3/user95.zip
+2021-09-19 13:21:30,025 INFO o.a.j.r.Summariser: summary +    328 in 00:00:30 =   10.9/s Avg:  7795 Min:   311 Max: 24580 Err:     2 (0.61%) Active: 160 Started: 160 Finished: 0
+2021-09-19 13:21:30,026 INFO o.a.j.r.Summariser: summary =   1806 in 00:01:45 =   17.2/s Avg:  5418 Min:    23 Max: 31564 Err:     8 (0.44%)
+2021-09-19 13:21:40,786 INFO o.a.j.s.FileServer: Stored: /home/panda/LoadTest/ClientFolder/rnd_load_test/student_solutions/3/user68.zip
+2021-09-19 13:21:55,906 INFO o.a.j.s.FileServer: Stored: /home/panda/LoadTest/ClientFolder/rnd_load_test/student_solutions/3/user65.zip
+2021-09-19 13:22:00,003 INFO o.a.j.r.Summariser: summary +    433 in 00:00:30 =   14.4/s Avg:  9195 Min:   164 Max: 33132 Err:     4 (0.92%) Active: 160 Started: 160 Finished: 0
+2021-09-19 13:22:00,003 INFO o.a.j.r.Summariser: summary =   2239 in 00:02:15 =   16.6/s Avg:  6149 Min:    23 Max: 33132 Err:    12 (0.54%)
+2021-09-19 13:22:04,284 INFO o.a.j.s.FileServer: Stored: /home/panda/LoadTest/ClientFolder/rnd_load_test/student_solutions/2/user17.zip
+2021-09-19 13:22:30,364 INFO o.a.j.r.Summariser: summary +    527 in 00:00:30 =   17.4/s Avg:  9375 Min:    28 Max: 33945 Err:     5 (0.95%) Active: 160 Started: 160 Finished: 0
+2021-09-19 13:22:30,364 INFO o.a.j.r.Summariser: summary =   2766 in 00:02:45 =   16.7/s Avg:  6763 Min:    23 Max: 33945 Err:    17 (0.61%)
+2021-09-19 13:22:40,957 INFO o.a.j.s.FileServer: Stored: /home/panda/LoadTest/ClientFolder/rnd_load_test/student_solutions/3/user99.zip
+2021-09-19 13:23:00,045 INFO o.a.j.r.Summariser: summary +    270 in 00:00:30 =    9.1/s Avg:  8008 Min:   273 Max: 21935 Err:     0 (0.00%) Active: 160 Started: 160 Finished: 0
+2021-09-19 13:23:00,045 INFO o.a.j.r.Summariser: summary =   3036 in 00:03:15 =   15.6/s Avg:  6874 Min:    23 Max: 33945 Err:    17 (0.56%)
+2021-09-19 13:23:30,049 INFO o.a.j.r.Summariser: summary +    523 in 00:00:30 =   17.4/s Avg:  9592 Min:   296 Max: 34738 Err:     2 (0.38%) Active: 160 Started: 160 Finished: 0
+2021-09-19 13:23:30,050 INFO o.a.j.r.Summariser: summary =   3559 in 00:03:45 =   15.8/s Avg:  7273 Min:    23 Max: 34738 Err:    19 (0.53%)
+2021-09-19 13:24:00,018 INFO o.a.j.r.Summariser: summary +    472 in 00:00:30 =   15.7/s Avg:  8901 Min:   742 Max: 29632 Err:     3 (0.64%) Active: 160 Started: 160 Finished: 0
+2021-09-19 13:24:00,019 INFO o.a.j.r.Summariser: summary =   4031 in 00:04:15 =   15.8/s Avg:  7464 Min:    23 Max: 34738 Err:    22 (0.55%)
+2021-09-19 13:24:30,021 INFO o.a.j.r.Summariser: summary +    284 in 00:00:30 =    9.5/s Avg:  7581 Min:   283 Max: 21973 Err:     1 (0.35%) Active: 160 Started: 160 Finished: 0
+2021-09-19 13:24:30,022 INFO o.a.j.r.Summariser: summary =   4315 in 00:04:45 =   15.1/s Avg:  7472 Min:    23 Max: 34738 Err:    23 (0.53%)
+2021-09-19 13:24:32,751 INFO o.a.j.t.JMeterThread: Thread finished: Users 1-106
+2021-09-19 13:24:33,974 INFO o.a.j.t.JMeterThread: Thread finished: Users 1-102
+2021-09-19 13:24:34,258 INFO o.a.j.t.JMeterThread: Thread finished: Users 1-27
+2021-09-19 13:24:39,148 INFO o.a.j.t.JMeterThread: Thread finished: Users 1-100
+2021-09-19 13:24:39,683 INFO o.a.j.t.JMeterThread: Thread finished: Users 1-146
+2021-09-19 13:24:39,685 INFO o.a.j.t.JMeterThread: Thread finished: Users 1-89
+2021-09-19 13:24:39,757 INFO o.a.j.t.JMeterThread: Thread finished: Users 1-139
+2021-09-19 13:24:39,935 INFO o.a.j.t.JMeterThread: Thread finished: Users 1-148
+2021-09-19 13:24:40,030 INFO o.a.j.t.JMeterThread: Thread finished: Users 1-154
+2021-09-19 13:24:41,672 INFO o.a.j.t.JMeterThread: Thread finished: Users 1-160
+2021-09-19 13:24:42,019 INFO o.a.j.t.JMeterThread: Thread finished: Users 1-10
+2021-09-19 13:24:42,023 INFO o.a.j.t.JMeterThread: Thread finished: Users 1-58
+2021-09-19 13:24:42,170 INFO o.a.j.t.JMeterThread: Thread finished: Users 1-153
+2021-09-19 13:24:42,173 INFO o.a.j.t.JMeterThread: Thread finished: Users 1-127
+2021-09-19 13:24:42,249 INFO o.a.j.t.JMeterThread: Thread finished: Users 1-92
+2021-09-19 13:24:42,327 INFO o.a.j.t.JMeterThread: Thread finished: Users 1-42
+2021-09-19 13:24:42,426 INFO o.a.j.t.JMeterThread: Thread finished: Users 1-66
+2021-09-19 13:24:42,934 INFO o.a.j.t.JMeterThread: Thread finished: Users 1-11
+2021-09-19 13:24:43,021 INFO o.a.j.t.JMeterThread: Thread finished: Users 1-24
+2021-09-19 13:24:43,024 INFO o.a.j.t.JMeterThread: Thread finished: Users 1-50
+2021-09-19 13:24:43,732 INFO o.a.j.t.JMeterThread: Thread finished: Users 1-142
+2021-09-19 13:24:43,804 INFO o.a.j.t.JMeterThread: Thread finished: Users 1-47
+2021-09-19 13:24:44,102 INFO o.a.j.t.JMeterThread: Thread finished: Users 1-19
+2021-09-19 13:24:44,378 INFO o.a.j.t.JMeterThread: Thread finished: Users 1-143
+2021-09-19 13:24:44,381 INFO o.a.j.t.JMeterThread: Thread finished: Users 1-125
+2021-09-19 13:24:44,472 INFO o.a.j.t.JMeterThread: Thread finished: Users 1-157
+2021-09-19 13:24:44,572 INFO o.a.j.t.JMeterThread: Thread finished: Users 1-119
+2021-09-19 13:24:44,717 INFO o.a.j.t.JMeterThread: Thread finished: Users 1-67
+2021-09-19 13:24:44,888 INFO o.a.j.t.JMeterThread: Thread finished: Users 1-14
+2021-09-19 13:24:44,974 INFO o.a.j.t.JMeterThread: Thread finished: Users 1-84
+2021-09-19 13:24:45,325 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Users 1-4
+2021-09-19 13:24:45,339 INFO o.a.j.t.JMeterThread: Thread finished: Users 1-4
+2021-09-19 13:24:45,360 INFO o.a.j.t.JMeterThread: Thread finished: Users 1-44
+2021-09-19 13:24:45,437 INFO o.a.j.t.JMeterThread: Thread finished: Users 1-155
+2021-09-19 13:24:45,543 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Users 1-1
+2021-09-19 13:24:45,550 INFO o.a.j.t.JMeterThread: Thread finished: Users 1-1
+2021-09-19 13:24:45,594 INFO o.a.j.t.JMeterThread: Thread finished: Users 1-80
+2021-09-19 13:24:45,734 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Users 1-16
+2021-09-19 13:24:45,740 INFO o.a.j.t.JMeterThread: Thread finished: Users 1-16
+2021-09-19 13:24:45,761 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Users 1-23
+2021-09-19 13:24:45,761 INFO o.a.j.t.JMeterThread: Thread finished: Users 1-23
+2021-09-19 13:24:45,764 INFO o.a.j.t.JMeterThread: Thread finished: Users 1-46
+2021-09-19 13:24:45,842 INFO o.a.j.t.JMeterThread: Thread finished: Users 1-88
+2021-09-19 13:24:45,853 INFO o.a.j.t.JMeterThread: Thread finished: Users 1-40
+2021-09-19 13:24:45,949 INFO o.a.j.t.JMeterThread: Thread finished: Users 1-72
+2021-09-19 13:24:46,032 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Users 1-39
+2021-09-19 13:24:46,032 INFO o.a.j.t.JMeterThread: Thread finished: Users 1-39
+2021-09-19 13:24:46,127 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Users 1-6
+2021-09-19 13:24:46,127 INFO o.a.j.t.JMeterThread: Thread finished: Users 1-6
+2021-09-19 13:24:46,151 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Users 1-2
+2021-09-19 13:24:46,152 INFO o.a.j.t.JMeterThread: Thread finished: Users 1-2
+2021-09-19 13:24:46,167 INFO o.a.j.t.JMeterThread: Thread finished: Users 1-69
+2021-09-19 13:24:46,285 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Users 1-49
+2021-09-19 13:24:46,298 INFO o.a.j.t.JMeterThread: Thread finished: Users 1-49
+2021-09-19 13:24:46,344 INFO o.a.j.t.JMeterThread: Thread finished: Users 1-113
+2021-09-19 13:24:46,488 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Users 1-63
+2021-09-19 13:24:46,496 INFO o.a.j.t.JMeterThread: Thread finished: Users 1-63
+2021-09-19 13:24:46,507 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Users 1-71
+2021-09-19 13:24:46,517 INFO o.a.j.t.JMeterThread: Thread finished: Users 1-71
+2021-09-19 13:24:46,552 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Users 1-5
+2021-09-19 13:24:46,557 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Users 1-15
+2021-09-19 13:24:46,558 INFO o.a.j.t.JMeterThread: Thread finished: Users 1-15
+2021-09-19 13:24:46,558 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Users 1-53
+2021-09-19 13:24:46,558 INFO o.a.j.t.JMeterThread: Thread finished: Users 1-53
+2021-09-19 13:24:46,561 INFO o.a.j.t.JMeterThread: Thread finished: Users 1-5
+2021-09-19 13:24:46,569 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Users 1-59
+2021-09-19 13:24:46,577 INFO o.a.j.t.JMeterThread: Thread finished: Users 1-59
+2021-09-19 13:24:46,639 INFO o.a.j.t.JMeterThread: Thread finished: Users 1-116
+2021-09-19 13:24:46,671 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Users 1-74
+2021-09-19 13:24:46,681 INFO o.a.j.t.JMeterThread: Thread finished: Users 1-74
+2021-09-19 13:24:46,697 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Users 1-79
+2021-09-19 13:24:46,706 INFO o.a.j.t.JMeterThread: Thread finished: Users 1-79
+2021-09-19 13:24:46,715 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Users 1-86
+2021-09-19 13:24:46,715 INFO o.a.j.t.JMeterThread: Thread finished: Users 1-86
+2021-09-19 13:24:46,771 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Users 1-8
+2021-09-19 13:24:46,777 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Users 1-76
+2021-09-19 13:24:46,779 INFO o.a.j.t.JMeterThread: Thread finished: Users 1-8
+2021-09-19 13:24:46,782 INFO o.a.j.t.JMeterThread: Thread finished: Users 1-76
+2021-09-19 13:24:46,788 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Users 1-33
+2021-09-19 13:24:46,789 INFO o.a.j.t.JMeterThread: Thread finished: Users 1-33
+2021-09-19 13:24:46,800 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Users 1-29
+2021-09-19 13:24:46,800 INFO o.a.j.t.JMeterThread: Thread finished: Users 1-29
+2021-09-19 13:24:46,801 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Users 1-85
+2021-09-19 13:24:46,806 INFO o.a.j.t.JMeterThread: Thread finished: Users 1-85
+2021-09-19 13:24:46,905 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Users 1-73
+2021-09-19 13:24:46,906 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Users 1-70
+2021-09-19 13:24:46,913 INFO o.a.j.t.JMeterThread: Thread finished: Users 1-73
+2021-09-19 13:24:46,913 INFO o.a.j.t.JMeterThread: Thread finished: Users 1-70
+2021-09-19 13:24:46,955 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Users 1-78
+2021-09-19 13:24:46,961 INFO o.a.j.t.JMeterThread: Thread finished: Users 1-78
+2021-09-19 13:24:46,984 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Users 1-38
+2021-09-19 13:24:46,994 INFO o.a.j.t.JMeterThread: Thread finished: Users 1-38
+2021-09-19 13:24:47,012 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Users 1-20
+2021-09-19 13:24:47,019 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Users 1-13
+2021-09-19 13:24:47,022 INFO o.a.j.t.JMeterThread: Thread finished: Users 1-20
+2021-09-19 13:24:47,032 INFO o.a.j.t.JMeterThread: Thread finished: Users 1-13
+2021-09-19 13:24:47,143 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Users 1-18
+2021-09-19 13:24:47,151 INFO o.a.j.t.JMeterThread: Thread finished: Users 1-18
+2021-09-19 13:24:47,167 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Users 1-91
+2021-09-19 13:24:47,168 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Users 1-94
+2021-09-19 13:24:47,168 INFO o.a.j.t.JMeterThread: Thread finished: Users 1-91
+2021-09-19 13:24:47,174 INFO o.a.j.t.JMeterThread: Thread finished: Users 1-152
+2021-09-19 13:24:47,181 INFO o.a.j.t.JMeterThread: Thread finished: Users 1-94
+2021-09-19 13:24:47,196 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Users 1-30
+2021-09-19 13:24:47,209 INFO o.a.j.t.JMeterThread: Thread finished: Users 1-30
+2021-09-19 13:24:47,250 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Users 1-90
+2021-09-19 13:24:47,261 INFO o.a.j.t.JMeterThread: Thread finished: Users 1-90
+2021-09-19 13:24:47,262 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Users 1-57
+2021-09-19 13:24:47,263 INFO o.a.j.t.JMeterThread: Thread finished: Users 1-57
+2021-09-19 13:24:47,338 INFO o.a.j.t.JMeterThread: Thread finished: Users 1-147
+2021-09-19 13:24:47,378 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Users 1-56
+2021-09-19 13:24:47,378 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Users 1-121
+2021-09-19 13:24:47,383 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Users 1-3
+2021-09-19 13:24:47,383 INFO o.a.j.t.JMeterThread: Thread finished: Users 1-3
+2021-09-19 13:24:47,387 INFO o.a.j.t.JMeterThread: Thread finished: Users 1-121
+2021-09-19 13:24:47,387 INFO o.a.j.t.JMeterThread: Thread finished: Users 1-56
+2021-09-19 13:24:47,411 INFO o.a.j.t.JMeterThread: Thread finished: Users 1-135
+2021-09-19 13:24:47,474 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Users 1-132
+2021-09-19 13:24:47,474 INFO o.a.j.t.JMeterThread: Thread finished: Users 1-132
+2021-09-19 13:24:47,488 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Users 1-36
+2021-09-19 13:24:47,488 INFO o.a.j.t.JMeterThread: Thread finished: Users 1-36
+2021-09-19 13:24:47,536 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Users 1-77
+2021-09-19 13:24:47,541 INFO o.a.j.t.JMeterThread: Thread finished: Users 1-77
+2021-09-19 13:24:47,570 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Users 1-52
+2021-09-19 13:24:47,570 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Users 1-99
+2021-09-19 13:24:47,570 INFO o.a.j.t.JMeterThread: Thread finished: Users 1-159
+2021-09-19 13:24:47,574 INFO o.a.j.t.JMeterThread: Thread finished: Users 1-52
+2021-09-19 13:24:47,582 INFO o.a.j.t.JMeterThread: Thread finished: Users 1-99
+2021-09-19 13:24:47,633 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Users 1-124
+2021-09-19 13:24:47,641 INFO o.a.j.t.JMeterThread: Thread finished: Users 1-124
+2021-09-19 13:24:47,650 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Users 1-62
+2021-09-19 13:24:47,650 INFO o.a.j.t.JMeterThread: Thread finished: Users 1-62
+2021-09-19 13:24:47,669 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Users 1-45
+2021-09-19 13:24:47,677 INFO o.a.j.t.JMeterThread: Thread finished: Users 1-45
+2021-09-19 13:24:47,715 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Users 1-120
+2021-09-19 13:24:47,726 INFO o.a.j.t.JMeterThread: Thread finished: Users 1-120
+2021-09-19 13:24:47,732 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Users 1-60
+2021-09-19 13:24:47,736 INFO o.a.j.t.JMeterThread: Thread finished: Users 1-60
+2021-09-19 13:24:47,764 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Users 1-117
+2021-09-19 13:24:47,768 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Users 1-112
+2021-09-19 13:24:47,771 INFO o.a.j.t.JMeterThread: Thread finished: Users 1-117
+2021-09-19 13:24:47,775 INFO o.a.j.t.JMeterThread: Thread finished: Users 1-112
+2021-09-19 13:24:47,787 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Users 1-51
+2021-09-19 13:24:47,793 INFO o.a.j.t.JMeterThread: Thread finished: Users 1-51
+2021-09-19 13:24:47,812 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Users 1-129
+2021-09-19 13:24:47,812 INFO o.a.j.t.JMeterThread: Thread finished: Users 1-129
+2021-09-19 13:24:47,821 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Users 1-96
+2021-09-19 13:24:47,827 INFO o.a.j.t.JMeterThread: Thread finished: Users 1-96
+2021-09-19 13:24:47,840 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Users 1-109
+2021-09-19 13:24:47,848 INFO o.a.j.t.JMeterThread: Thread finished: Users 1-109
+2021-09-19 13:24:47,857 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Users 1-9
+2021-09-19 13:24:47,863 INFO o.a.j.t.JMeterThread: Thread finished: Users 1-9
+2021-09-19 13:24:47,901 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Users 1-145
+2021-09-19 13:24:47,909 INFO o.a.j.t.JMeterThread: Thread finished: Users 1-145
+2021-09-19 13:24:47,932 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Users 1-126
+2021-09-19 13:24:47,940 INFO o.a.j.t.JMeterThread: Thread finished: Users 1-126
+2021-09-19 13:24:47,967 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Users 1-68
+2021-09-19 13:24:47,973 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Users 1-37
+2021-09-19 13:24:47,973 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Users 1-107
+2021-09-19 13:24:47,973 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Users 1-118
+2021-09-19 13:24:47,973 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Users 1-144
+2021-09-19 13:24:47,975 INFO o.a.j.t.JMeterThread: Thread finished: Users 1-68
+2021-09-19 13:24:47,981 INFO o.a.j.t.JMeterThread: Thread finished: Users 1-144
+2021-09-19 13:24:47,982 INFO o.a.j.t.JMeterThread: Thread finished: Users 1-118
+2021-09-19 13:24:47,985 INFO o.a.j.t.JMeterThread: Thread finished: Users 1-37
+2021-09-19 13:24:47,988 INFO o.a.j.t.JMeterThread: Thread finished: Users 1-107
+2021-09-19 13:24:48,001 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Users 1-61
+2021-09-19 13:24:48,008 INFO o.a.j.t.JMeterThread: Thread finished: Users 1-61
+2021-09-19 13:24:48,060 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Users 1-104
+2021-09-19 13:24:48,088 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Users 1-110
+2021-09-19 13:24:48,088 INFO o.a.j.t.JMeterThread: Thread finished: Users 1-110
+2021-09-19 13:24:48,090 INFO o.a.j.t.JMeterThread: Thread finished: Users 1-104
+2021-09-19 13:24:48,118 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Users 1-111
+2021-09-19 13:24:48,125 INFO o.a.j.t.JMeterThread: Thread finished: Users 1-111
+2021-09-19 13:24:48,134 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Users 1-35
+2021-09-19 13:24:48,141 INFO o.a.j.t.JMeterThread: Thread finished: Users 1-35
+2021-09-19 13:24:48,205 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Users 1-7
+2021-09-19 13:24:48,206 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Users 1-22
+2021-09-19 13:24:48,207 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Users 1-48
+2021-09-19 13:24:48,207 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Users 1-17
+2021-09-19 13:24:48,211 INFO o.a.j.t.JMeterThread: Thread finished: Users 1-22
+2021-09-19 13:24:48,213 INFO o.a.j.t.JMeterThread: Thread finished: Users 1-7
+2021-09-19 13:24:48,213 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Users 1-54
+2021-09-19 13:24:48,214 INFO o.a.j.t.JMeterThread: Thread finished: Users 1-48
+2021-09-19 13:24:48,214 INFO o.a.j.t.JMeterThread: Thread finished: Users 1-17
+2021-09-19 13:24:48,226 INFO o.a.j.t.JMeterThread: Thread finished: Users 1-54
+2021-09-19 13:24:48,227 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Users 1-21
+2021-09-19 13:24:48,233 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Users 1-82
+2021-09-19 13:24:48,235 INFO o.a.j.t.JMeterThread: Thread finished: Users 1-21
+2021-09-19 13:24:48,237 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Users 1-65
+2021-09-19 13:24:48,243 INFO o.a.j.t.JMeterThread: Thread finished: Users 1-65
+2021-09-19 13:24:48,244 INFO o.a.j.t.JMeterThread: Thread finished: Users 1-82
+2021-09-19 13:24:48,265 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Users 1-114
+2021-09-19 13:24:48,276 INFO o.a.j.t.JMeterThread: Thread finished: Users 1-114
+2021-09-19 13:24:48,357 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Users 1-12
+2021-09-19 13:24:48,358 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Users 1-64
+2021-09-19 13:24:48,358 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Users 1-123
+2021-09-19 13:24:48,365 INFO o.a.j.t.JMeterThread: Thread finished: Users 1-64
+2021-09-19 13:24:48,370 INFO o.a.j.t.JMeterThread: Thread finished: Users 1-123
+2021-09-19 13:24:48,370 INFO o.a.j.t.JMeterThread: Thread finished: Users 1-12
+2021-09-19 13:24:48,435 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Users 1-31
+2021-09-19 13:24:48,436 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Users 1-81
+2021-09-19 13:24:48,447 INFO o.a.j.t.JMeterThread: Thread finished: Users 1-31
+2021-09-19 13:24:48,448 INFO o.a.j.t.JMeterThread: Thread finished: Users 1-81
+2021-09-19 13:24:48,471 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Users 1-41
+2021-09-19 13:24:48,478 INFO o.a.j.t.JMeterThread: Thread finished: Users 1-41
+2021-09-19 13:24:48,516 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Users 1-43
+2021-09-19 13:24:48,524 INFO o.a.j.t.JMeterThread: Thread finished: Users 1-43
+2021-09-19 13:24:48,530 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Users 1-150
+2021-09-19 13:24:48,537 INFO o.a.j.t.JMeterThread: Thread finished: Users 1-150
+2021-09-19 13:24:48,592 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Users 1-108
+2021-09-19 13:24:48,592 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Users 1-103
+2021-09-19 13:24:48,592 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Users 1-128
+2021-09-19 13:24:48,599 INFO o.a.j.t.JMeterThread: Thread finished: Users 1-108
+2021-09-19 13:24:48,600 INFO o.a.j.t.JMeterThread: Thread finished: Users 1-128
+2021-09-19 13:24:48,600 INFO o.a.j.t.JMeterThread: Thread finished: Users 1-103
+2021-09-19 13:24:48,637 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Users 1-28
+2021-09-19 13:24:48,644 INFO o.a.j.t.JMeterThread: Thread finished: Users 1-28
+2021-09-19 13:24:48,761 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Users 1-140
+2021-09-19 13:24:48,761 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Users 1-34
+2021-09-19 13:24:48,763 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Users 1-115
+2021-09-19 13:24:48,763 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Users 1-93
+2021-09-19 13:24:48,764 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Users 1-75
+2021-09-19 13:24:48,769 INFO o.a.j.t.JMeterThread: Thread finished: Users 1-34
+2021-09-19 13:24:48,770 INFO o.a.j.t.JMeterThread: Thread finished: Users 1-115
+2021-09-19 13:24:48,771 INFO o.a.j.t.JMeterThread: Thread finished: Users 1-75
+2021-09-19 13:24:48,772 INFO o.a.j.t.JMeterThread: Thread finished: Users 1-93
+2021-09-19 13:24:48,775 INFO o.a.j.t.JMeterThread: Thread finished: Users 1-140
+2021-09-19 13:24:48,840 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Users 1-136
+2021-09-19 13:24:48,850 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Users 1-83
+2021-09-19 13:24:48,851 INFO o.a.j.t.JMeterThread: Thread finished: Users 1-136
+2021-09-19 13:24:48,863 INFO o.a.j.t.JMeterThread: Thread finished: Users 1-83
+2021-09-19 13:24:49,008 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Users 1-55
+2021-09-19 13:24:49,008 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Users 1-105
+2021-09-19 13:24:49,013 INFO o.a.j.t.JMeterThread: Thread finished: Users 1-105
+2021-09-19 13:24:49,014 INFO o.a.j.t.JMeterThread: Thread finished: Users 1-55
+2021-09-19 13:24:49,029 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Users 1-97
+2021-09-19 13:24:49,030 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Users 1-25
+2021-09-19 13:24:49,030 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Users 1-26
+2021-09-19 13:24:49,039 INFO o.a.j.t.JMeterThread: Thread finished: Users 1-25
+2021-09-19 13:24:49,039 INFO o.a.j.t.JMeterThread: Thread finished: Users 1-26
+2021-09-19 13:24:49,043 INFO o.a.j.t.JMeterThread: Thread finished: Users 1-97
+2021-09-19 13:24:49,149 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Users 1-101
+2021-09-19 13:24:49,155 INFO o.a.j.t.JMeterThread: Thread finished: Users 1-101
+2021-09-19 13:24:49,178 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Users 1-122
+2021-09-19 13:24:49,185 INFO o.a.j.t.JMeterThread: Thread finished: Users 1-122
+2021-09-19 13:24:49,350 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Users 1-158
+2021-09-19 13:24:49,356 INFO o.a.j.t.JMeterThread: Thread finished: Users 1-158
+2021-09-19 13:24:49,405 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Users 1-151
+2021-09-19 13:24:49,412 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Users 1-32
+2021-09-19 13:24:49,413 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Users 1-131
+2021-09-19 13:24:49,417 INFO o.a.j.t.JMeterThread: Thread finished: Users 1-151
+2021-09-19 13:24:49,419 INFO o.a.j.t.JMeterThread: Thread finished: Users 1-131
+2021-09-19 13:24:49,420 INFO o.a.j.t.JMeterThread: Thread finished: Users 1-32
+2021-09-19 13:24:49,453 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Users 1-87
+2021-09-19 13:24:49,466 INFO o.a.j.t.JMeterThread: Thread finished: Users 1-87
+2021-09-19 13:24:49,713 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Users 1-95
+2021-09-19 13:24:49,727 INFO o.a.j.t.JMeterThread: Thread finished: Users 1-95
+2021-09-19 13:24:49,777 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Users 1-137
+2021-09-19 13:24:49,782 INFO o.a.j.t.JMeterThread: Thread finished: Users 1-137
+2021-09-19 13:24:49,799 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Users 1-98
+2021-09-19 13:24:49,808 INFO o.a.j.t.JMeterThread: Thread finished: Users 1-98
+2021-09-19 13:24:50,168 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Users 1-156
+2021-09-19 13:24:50,169 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Users 1-134
+2021-09-19 13:24:50,169 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Users 1-141
+2021-09-19 13:24:50,177 INFO o.a.j.t.JMeterThread: Thread finished: Users 1-141
+2021-09-19 13:24:50,177 INFO o.a.j.t.JMeterThread: Thread finished: Users 1-156
+2021-09-19 13:24:50,178 INFO o.a.j.t.JMeterThread: Thread finished: Users 1-134
+2021-09-19 13:24:50,487 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Users 1-138
+2021-09-19 13:24:50,487 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Users 1-149
+2021-09-19 13:24:50,487 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Users 1-130
+2021-09-19 13:24:50,495 INFO o.a.j.t.JMeterThread: Thread finished: Users 1-130
+2021-09-19 13:24:50,502 INFO o.a.j.t.JMeterThread: Thread finished: Users 1-138
+2021-09-19 13:24:50,502 INFO o.a.j.t.JMeterThread: Thread finished: Users 1-149
+2021-09-19 13:24:50,646 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Users 1-133
+2021-09-19 13:24:50,658 INFO o.a.j.t.JMeterThread: Thread finished: Users 1-133
+2021-09-19 13:24:50,659 INFO o.a.j.e.StandardJMeterEngine: Notifying test listeners of end of test
+2021-09-19 13:24:50,659 INFO o.a.j.s.FileServer: Close: /home/panda/LoadTest/ClientFolder/rnd_load_test/users_1000.csv
+2021-09-19 13:24:50,661 INFO o.a.j.r.Summariser: summary +    373 in 00:00:21 =   18.1/s Avg: 10005 Min:   450 Max: 33595 Err:     1 (0.27%) Active: 0 Started: 160 Finished: 160
+2021-09-19 13:24:50,661 INFO o.a.j.r.Summariser: summary =   4688 in 00:05:06 =   15.3/s Avg:  7673 Min:    23 Max: 34738 Err:    24 (0.51%)
+2021-09-19 13:24:50,661 INFO o.a.j.JMeter: Generating Dashboard
+2021-09-19 13:24:50,661 INFO o.a.j.r.d.ReportGenerator: Flushing result collector before report Generation
+2021-09-19 13:24:50,686 INFO o.a.j.r.p.NormalizerSampleConsumer: Using format, 'ms', to parse timeStamp field
+2021-09-19 13:24:51,277 INFO o.a.j.r.p.AbstractSampleConsumer: class org.apache.jmeter.report.processor.AggregateConsumer#stopProducing(): beginDate produced 0 samples
+2021-09-19 13:24:51,277 INFO o.a.j.r.p.AbstractSampleConsumer: class org.apache.jmeter.report.processor.AggregateConsumer#stopProducing(): endDate produced 0 samples
+2021-09-19 13:24:51,280 INFO o.a.j.r.p.AbstractSampleConsumer: class org.apache.jmeter.report.processor.ApdexSummaryConsumer#stopProducing(): apdexSummary produced 0 samples
+2021-09-19 13:24:51,280 INFO o.a.j.r.p.AbstractSampleConsumer: class org.apache.jmeter.report.processor.RequestsSummaryConsumer#stopProducing(): requestsSummary produced 0 samples
+2021-09-19 13:24:51,295 INFO o.a.j.r.p.AbstractSampleConsumer: class org.apache.jmeter.report.processor.StatisticsSummaryConsumer#stopProducing(): statisticsSummary produced 0 samples
+2021-09-19 13:24:51,297 INFO o.a.j.r.p.AbstractSampleConsumer: class org.apache.jmeter.report.processor.Top5ErrorsBySamplerConsumer#stopProducing(): top5ErrorsBySampler produced 0 samples
+2021-09-19 13:24:51,298 INFO o.a.j.r.p.AbstractSampleConsumer: class org.apache.jmeter.report.processor.ErrorsSummaryConsumer#stopProducing(): errorsSummary produced 0 samples
+2021-09-19 13:24:51,298 INFO o.a.j.r.p.AbstractSampleConsumer: class org.apache.jmeter.report.processor.graph.impl.HitsPerSecondGraphConsumer#stopProducing(): hitsPerSecond produced 0 samples
+2021-09-19 13:24:51,406 INFO o.a.j.r.p.AbstractSampleConsumer: class org.apache.jmeter.report.processor.graph.impl.LatencyVSRequestGraphConsumer#stopProducing(): latencyVsRequest produced 0 samples
+2021-09-19 13:24:51,409 INFO o.a.j.r.p.AbstractSampleConsumer: class org.apache.jmeter.report.processor.graph.impl.SyntheticResponseTimeDistributionGraphConsumer#stopProducing(): syntheticResponseTimeDistribution produced 0 samples
+2021-09-19 13:24:51,410 INFO o.a.j.r.p.AbstractSampleConsumer: class org.apache.jmeter.report.processor.graph.impl.BytesThroughputGraphConsumer#stopProducing(): bytesThroughputOverTime produced 0 samples
+2021-09-19 13:24:51,410 INFO o.a.j.r.p.AbstractSampleConsumer: class org.apache.jmeter.report.processor.graph.impl.CodesPerSecondGraphConsumer#stopProducing(): codesPerSecond produced 0 samples
+2021-09-19 13:24:51,460 INFO o.a.j.r.p.AbstractSampleConsumer: class org.apache.jmeter.report.processor.graph.impl.ResponseTimeVSRequestGraphConsumer#stopProducing(): responseTimeVsRequest produced 0 samples
+2021-09-19 13:24:51,462 INFO o.a.j.r.p.AbstractSampleConsumer: class org.apache.jmeter.report.processor.FilterConsumer#stopProducing(): startIntervalControlerFilter produced 32816 samples
+2021-09-19 13:24:51,462 INFO o.a.j.r.p.AbstractSampleConsumer: class org.apache.jmeter.report.processor.graph.impl.TotalTPSGraphConsumer#stopProducing(): totalTPS produced 0 samples
+2021-09-19 13:24:51,463 INFO o.a.j.r.p.AbstractSampleConsumer: class org.apache.jmeter.report.processor.graph.impl.ActiveThreadsGraphConsumer#stopProducing(): activeThreadsOverTime produced 0 samples
+2021-09-19 13:24:51,463 INFO o.a.j.r.p.AbstractSampleConsumer: class org.apache.jmeter.report.processor.graph.impl.TimeVSThreadGraphConsumer#stopProducing(): timeVsThreads produced 0 samples
+2021-09-19 13:24:51,465 INFO o.a.j.r.p.AbstractSampleConsumer: class org.apache.jmeter.report.processor.graph.impl.ResponseTimeDistributionGraphConsumer#stopProducing(): responseTimeDistribution produced 0 samples
+2021-09-19 13:24:51,466 INFO o.a.j.r.p.AbstractSampleConsumer: class org.apache.jmeter.report.processor.graph.impl.TransactionsPerSecondGraphConsumer#stopProducing(): transactionsPerSecond produced 0 samples
+2021-09-19 13:24:51,467 INFO o.a.j.r.p.AbstractSampleConsumer: class org.apache.jmeter.report.processor.graph.impl.ResponseTimePercentilesGraphConsumer#stopProducing(): responseTimePercentiles produced 0 samples
+2021-09-19 13:24:51,478 INFO o.a.j.r.p.AbstractSampleConsumer: class org.apache.jmeter.report.processor.graph.impl.ResponseTimePercentilesOverTimeGraphConsumer#stopProducing(): responseTimePercentilesOverTime produced 0 samples
+2021-09-19 13:24:51,500 INFO o.a.j.r.p.AbstractSampleConsumer: class org.apache.jmeter.report.processor.graph.impl.ResponseTimeOverTimeGraphConsumer#stopProducing(): responseTimesOverTime produced 0 samples
+2021-09-19 13:24:51,500 INFO o.a.j.r.p.AbstractSampleConsumer: class org.apache.jmeter.report.processor.graph.impl.ConnectTimeOverTimeGraphConsumer#stopProducing(): connectTimeOverTime produced 0 samples
+2021-09-19 13:24:51,501 INFO o.a.j.r.p.AbstractSampleConsumer: class org.apache.jmeter.report.processor.graph.impl.LatencyOverTimeGraphConsumer#stopProducing(): latenciesOverTime produced 0 samples
+2021-09-19 13:24:51,501 INFO o.a.j.r.p.AbstractSampleConsumer: class org.apache.jmeter.report.processor.FilterConsumer#stopProducing(): nameFilter produced 70320 samples
+2021-09-19 13:24:51,501 INFO o.a.j.r.p.AbstractSampleConsumer: class org.apache.jmeter.report.processor.FilterConsumer#stopProducing(): dateRangeFilter produced 14064 samples
+2021-09-19 13:24:51,501 INFO o.a.j.r.p.AbstractSampleConsumer: class org.apache.jmeter.report.processor.NormalizerSampleConsumer#stopProducing(): normalizer produced 4688 samples
+2021-09-19 13:24:51,502 INFO o.a.j.r.p.CsvFileSampleSource: produce(): 4688 samples produced in 787ms on channel 0
+2021-09-19 13:24:51,502 INFO o.a.j.r.d.ReportGenerator: Exporting data using exporter:'json' of className:'org.apache.jmeter.report.dashboard.JsonExporter'
+2021-09-19 13:24:51,504 INFO o.a.j.r.d.JsonExporter: Found data for consumer statisticsSummary in context
+2021-09-19 13:24:51,504 INFO o.a.j.r.d.JsonExporter: Creating statistics for overall
+2021-09-19 13:24:51,505 INFO o.a.j.r.d.JsonExporter: Creating statistics for other transactions
+2021-09-19 13:24:51,505 INFO o.a.j.r.d.JsonExporter: Checking output folder
+2021-09-19 13:24:51,505 INFO o.a.j.r.d.JsonExporter: Writing statistics JSON to /home/panda/LoadTest/ClientFolder/rnd_load_test/test_results/users_160_19092021_131941/output/statistics.json
+2021-09-19 13:24:51,721 INFO o.a.j.r.d.ReportGenerator: Exporting data using exporter:'html' of className:'org.apache.jmeter.report.dashboard.HtmlTemplateExporter'
+2021-09-19 13:24:51,723 INFO o.a.j.r.d.HtmlTemplateExporter: Will generate dashboard in folder: /home/panda/LoadTest/ClientFolder/rnd_load_test/test_results/users_160_19092021_131941/output
+2021-09-19 13:24:51,851 ERROR f.configuration: DefaultObjectWrapper.incompatibleImprovements was set to the object returned by Configuration.getVersion(). That defeats the purpose of incompatibleImprovements, and makes upgrading FreeMarker a potentially breaking change. Also, this probably won't be allowed starting from 2.4.0. Instead, set incompatibleImprovements to the highest concrete version that's known to be compatible with your application.
+2021-09-19 13:24:51,853 ERROR f.configuration: Configuration.incompatibleImprovements was set to the object returned by Configuration.getVersion(). That defeats the purpose of incompatibleImprovements, and makes upgrading FreeMarker a potentially breaking change. Also, this probably won't be allowed starting from 2.4.0. Instead, set incompatibleImprovements to the highest concrete version that's known to be compatible with your application.
+2021-09-19 13:24:51,864 INFO o.a.j.r.d.HtmlTemplateExporter: Report will be generated in: /home/panda/LoadTest/ClientFolder/rnd_load_test/test_results/users_160_19092021_131941/output, creating folder structure
+2021-09-19 13:24:51,867 INFO o.a.j.r.d.TemplateVisitor: Copying folder from '/home/panda/LoadTest/ClientFolder/rnd_load_test/apache-jmeter-5.3/bin/report-template' to '/home/panda/LoadTest/ClientFolder/rnd_load_test/test_results/users_160_19092021_131941/output', got message: /home/panda/LoadTest/ClientFolder/rnd_load_test/test_results/users_160_19092021_131941/output, found non empty folder with following content [/home/panda/LoadTest/ClientFolder/rnd_load_test/test_results/users_160_19092021_131941/output/statistics.json], will be ignored
+2021-09-19 13:24:52,206 INFO o.a.j.JMeter: Dashboard generated

@@ -1,0 +1,74 @@
+# To display the perf.data header info, please use --header/--header-only options.
+#
+#
+# Total Lost Samples: 0
+#
+# Samples: 24M of event 'cycles'
+# Event count (approx.): 15332167191144
+#
+# Overhead  Shared Object            
+# ........  .........................
+#
+    70.10%  cc1plus                  
+    12.79%  [kernel.kallsyms]        
+     8.51%  libbfd-2.34-system.so    
+     7.38%  libc-2.31.so             
+     0.86%  x86_64-linux-gnu-as      
+     0.18%  ld-2.31.so               
+     0.15%  x86_64-linux-gnu-ld.bfd  
+     0.01%  x86_64-linux-gnu-g++-9   
+     0.01%  liblto_plugin.so.0.0.0   
+     0.00%  libstdc++.so.6.0.29      
+     0.00%  collect2                 
+     0.00%  libm-2.31.so             
+     0.00%  libdl-2.31.so            
+     0.00%  libz.so.1.2.11           
+     0.00%  [kvm]                    
+     0.00%  diff                     
+     0.00%  [libahci]                
+     0.00%  libmpfr.so.6.0.2         
+     0.00%  libctf.so.0.0.0          
+     0.00%  libisl.so.22.0.1         
+     0.00%  libopcodes-2.34-system.so
+     0.00%  libgmp.so.10.4.0         
+     0.00%  libgcc_s.so.1            
+     0.00%  [binfmt_misc]            
+     0.00%  [igb]                    
+     0.00%  [ip_vs]                  
+     0.00%  libmpc.so.3.1.0          
+     0.00%  [vdso]                   
+     0.00%  bodhi_micro_work_load    
+     0.00%  [mlx5_core]              
+     0.00%  bash                     
+     0.00%  obj_file_0.o             
+     0.00%  [nf_conntrack]           
+     0.00%  obj_file_9.o             
+     0.00%  obj_file_30.o            
+     0.00%  obj_file_31.o            
+     0.00%  obj_file_53.o            
+     0.00%  obj_file_34.o            
+     0.00%  obj_file_22.o            
+     0.00%  obj_file_8.o             
+     0.00%  obj_file_18.o            
+     0.00%  obj_file_52.o            
+     0.00%  obj_file_46.o            
+     0.00%  obj_file_27.o            
+     0.00%  obj_file_43.o            
+     0.00%  obj_file_20.o            
+     0.00%  obj_file_23.o            
+     0.00%  obj_file_10.o            
+     0.00%  obj_file_41.o            
+     0.00%  obj_file_28.o            
+     0.00%  obj_file_12.o            
+     0.00%  obj_file_17.o            
+     0.00%  obj_file_24.o            
+     0.00%  obj_file_29.o            
+     0.00%  obj_file_42.o            
+     0.00%  obj_file_54.o            
+     0.00%  obj_file_1.o             
+     0.00%  obj_file_33.o            
+
+
+#
+# (Tip: To browse sample contexts use perf report --sample 10 and select in context menu)
+#

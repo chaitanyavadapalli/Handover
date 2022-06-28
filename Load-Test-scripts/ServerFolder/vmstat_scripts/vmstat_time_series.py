@@ -1,0 +1,43 @@
+import json
+
+import pandas as pd
+
+import sys
+
+import csv
+
+import matplotlib.pyplot as plt
+plt.style.use("seaborn")
+
+
+f= open(sys.argv[1])
+
+data=json.load(f)
+
+flat_list=data["VmstatSnapshots"]
+
+df = pd.DataFrame(flat_list)
+
+
+df=df.apply(pd.to_numeric,errors='coerce', axis=1)
+
+df["user+system(%)"] = df.us + df.sy
+
+df.rename(columns = {'id':'Idle(%)'}, inplace = True)
+
+df.rename(columns = {'wa':'I/O wait(%)'}, inplace = True)
+
+df.rename(columns = {'free':'Available Memory(Kb)'}, inplace = True)
+
+cols=["user+system(%)","I/O wait(%)","Idle(%)","Available Memory(Kb)"]
+
+df=df[cols]
+
+#print(df.dtypes)
+
+df.plot(subplots= True, figsize=(15, 12), sharex= False, sharey=False)
+
+output_file_name=sys.argv[2]+"/vmstat_time_series_metrics_"+sys.argv[1].split("_")[-1].split(".")[0]+".png"
+plt.savefig(output_file_name)
+
+#print(df)

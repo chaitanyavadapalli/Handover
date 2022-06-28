@@ -1,0 +1,56 @@
+# To display the perf.data header info, please use --header/--header-only options.
+#
+#
+# Total Lost Samples: 0
+#
+# Samples: 28K of event 'LLC-load-misses'
+# Event count (approx.): 7962244
+#
+# Overhead  Shared Object          
+# ........  .......................
+#
+    86.17%  [kernel.kallsyms]      
+     7.27%  cc1plus                
+     3.39%  ld-2.31.so             
+     1.97%  libc-2.31.so           
+     0.63%  x86_64-linux-gnu-g++-9 
+     0.26%  x86_64-linux-gnu-ld.bfd
+     0.15%  x86_64-linux-gnu-as    
+     0.03%  collect2               
+     0.02%  [vdso]                 
+     0.02%  bash                   
+     0.02%  libstdc++.so.6.0.29    
+     0.02%  [libahci]              
+     0.01%  libbfd-2.34-system.so  
+     0.01%  libgmp.so.10.4.0       
+     0.01%  libm-2.31.so           
+     0.01%  libmpc.so.3.1.0        
+     0.00%  libz.so.1.2.11         
+     0.00%  liblto_plugin.so.0.0.0 
+     0.00%  libisl.so.22.0.1       
+     0.00%  libmpfr.so.6.0.2       
+     0.00%  libdl-2.31.so          
+     0.00%  diff                   
+     0.00%  [kvm]                  
+     0.00%  bodhi_micro_work_load  
+
+
+# Samples: 57K of event 'LLC-store-misses'
+# Event count (approx.): 2208914
+#
+# Overhead  Shared Object         
+# ........  ......................
+#
+    97.71%  [kernel.kallsyms]     
+     1.47%  cc1plus               
+     0.40%  libc-2.31.so          
+     0.28%  x86_64-linux-gnu-g++-9
+     0.10%  [kvm]                 
+     0.03%  ld-2.31.so            
+     0.01%  [libahci]             
+     0.01%  bash                  
+
+
+#
+# (Tip: Generate a script for your data: perf script -g <lang>)
+#

@@ -1,0 +1,6 @@
+,user+system(%)_mpstat,%iowait_mpstat,%idle_mpstat,user+system(%)_vmstat,I/O wait(%)_vmstat,Idle(%)_vmstat,Disk Read(KB/s),Disk Write(KB/s),TestCaseResultsThroughput,TestCaseResultsResponseTime,UploadThroughput,UploadResponseTime,# users,ResponseTimeSlope,CPUServiceTime,CalcThinkTime,RequestRate_Upperbound_Calc,RequestRate_Upperbound_Config
+0,7.93,0.61,89.29,10.44,0.69,89.06,444.17,59.51,0.05,6174.45,0.04,1914.91,1.0,0.0,4469.0,15236.27,0.07,0.07
+3,81.02,2.38,13.33,84.22,2.57,13.49,33.43,293.78,0.75,7805.92,0.79,2082.72,20.0,85.87,2252.42,18939.15,1.06,1.33
+4,93.56,1.28,1.51,97.3,1.31,1.52,25.21,331.79,0.8,24244.19,0.91,4540.51,40.0,821.91,2440.53,25920.94,1.54,2.67
+2,93.64,1.18,1.25,97.65,1.19,1.29,25.1,362.81,0.68,44681.6,0.93,7551.8,60.0,1021.87,2880.07,43803.83,1.37,4.0
+1,93.56,1.21,1.27,97.58,1.24,1.29,27.59,358.31,0.59,63069.44,0.93,11414.53,80.0,919.39,3335.68,73664.17,1.09,5.33

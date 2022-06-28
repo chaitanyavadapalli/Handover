@@ -1,0 +1,2 @@
+,# users,%guest_mpstat,%idle_mpstat,%iowait_mpstat,%sys_mpstat,Disk Read(KB/s),Disk Write(KB/s),I/O wait(%)_vmstat,Idle(%)_vmstat,UploadResponseTime,UploadThroughput,sys(%)_vmstat,user+system(%)_mpstat,user+system(%)_vmstat,ResponseTimeSlope,CPUServiceTime,CalcThinkTime,RequestRate_Upperbound_Calc,RequestRate_Upperbound_Config
+0,90.0,11.32,79.92,3.69,2.31,1379.22,240.68,3.85,79.73,136.87,1.38,2.27,4.78,16.4,0,1901.14,65069.93,1.38,6.0

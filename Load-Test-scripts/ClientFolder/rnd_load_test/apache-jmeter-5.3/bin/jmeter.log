@@ -1,0 +1,108 @@
+2022-03-03 23:09:51,745 INFO o.a.j.u.JMeterUtils: Setting Locale to en_EN
+2022-03-03 23:09:51,769 INFO o.a.j.JMeter: Loading user properties from: user.properties
+2022-03-03 23:09:51,769 INFO o.a.j.JMeter: Loading system properties from: system.properties
+2022-03-03 23:09:51,771 INFO o.a.j.JMeter: Copyright (c) 1998-2020 The Apache Software Foundation
+2022-03-03 23:09:51,772 INFO o.a.j.JMeter: Version 5.3
+2022-03-03 23:09:51,772 INFO o.a.j.JMeter: java.version=1.8.0_181
+2022-03-03 23:09:51,772 INFO o.a.j.JMeter: java.vm.name=Java HotSpot(TM) 64-Bit Server VM
+2022-03-03 23:09:51,772 INFO o.a.j.JMeter: os.name=Linux
+2022-03-03 23:09:51,772 INFO o.a.j.JMeter: os.arch=amd64
+2022-03-03 23:09:51,772 INFO o.a.j.JMeter: os.version=4.4.0-210-generic
+2022-03-03 23:09:51,773 INFO o.a.j.JMeter: file.encoding=UTF-8
+2022-03-03 23:09:51,773 INFO o.a.j.JMeter: java.awt.headless=null
+2022-03-03 23:09:51,773 INFO o.a.j.JMeter: Max memory     =1073741824
+2022-03-03 23:09:51,773 INFO o.a.j.JMeter: Available Processors =16
+2022-03-03 23:09:51,781 INFO o.a.j.JMeter: Default Locale=English (EN)
+2022-03-03 23:09:51,782 INFO o.a.j.JMeter: JMeter  Locale=English (EN)
+2022-03-03 23:09:51,782 INFO o.a.j.JMeter: JMeterHome=/home/panda/LoadTest/ClientFolder/rnd_load_test/apache-jmeter-5.3
+2022-03-03 23:09:51,782 INFO o.a.j.JMeter: user.dir  =/home/panda/LoadTest/ClientFolder/rnd_load_test/apache-jmeter-5.3/bin
+2022-03-03 23:09:51,783 INFO o.a.j.JMeter: PWD       =/home/panda/LoadTest/ClientFolder/rnd_load_test/apache-jmeter-5.3/bin
+2022-03-03 23:09:51,783 INFO o.a.j.JMeter: IP: 10.129.131.5 Name: markov FullName: markov
+2022-03-03 23:09:52,815 INFO o.a.j.JMeter: Setting LAF to: com.github.weisj.darklaf.DarkLaf:com.github.weisj.darklaf.theme.DarculaTheme
+2022-03-03 23:09:53,571 INFO o.a.j.JMeter: Loaded icon properties from org/apache/jmeter/images/icon.properties
+2022-03-03 23:10:00,439 WARN o.j.r.PluginManager: Found JAR conflict: /home/panda/LoadTest/ClientFolder/rnd_load_test/apache-jmeter-5.3/lib/ext/jmeter-plugins-manager-1.4.jar and /home/panda/LoadTest/ClientFolder/rnd_load_test/apache-jmeter-5.3/lib/ext/jmeter-plugins-manager-0.20.jar
+2022-03-03 23:10:01,549 INFO k.a.j.JMeterPluginsUtils: JMeter-Plugins.org v.1.4.0
+2022-03-03 23:10:02,686 WARN o.a.j.g.u.MenuFactory: Could not instantiate class: com.googlecode.jmeter.plugins.webdriver.config.gui.RemoteDriverConfigGui
+java.lang.reflect.InvocationTargetException: null
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method) ~[?:1.8.0_181]
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62) ~[?:1.8.0_181]
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45) ~[?:1.8.0_181]
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423) ~[?:1.8.0_181]
+	at org.apache.jmeter.gui.util.MenuFactory.getGUIComponent(MenuFactory.java:207) ~[ApacheJMeter_core.jar:5.3]
+	at org.apache.jmeter.gui.util.MenuFactory.initializeMenus(MenuFactory.java:151) ~[ApacheJMeter_core.jar:5.3]
+	at org.apache.jmeter.gui.util.MenuFactory.<clinit>(MenuFactory.java:107) ~[ApacheJMeter_core.jar:5.3]
+	at org.apache.jmeter.control.gui.TestPlanGui.createPopupMenu(TestPlanGui.java:94) ~[ApacheJMeter_core.jar:5.3]
+	at org.apache.jmeter.gui.tree.JMeterTreeNode.createPopupMenu(JMeterTreeNode.java:184) ~[ApacheJMeter_core.jar:5.3]
+	at org.apache.jmeter.gui.action.EditCommand.doAction(EditCommand.java:46) ~[ApacheJMeter_core.jar:5.3]
+	at org.apache.jmeter.gui.action.ActionRouter.performAction(ActionRouter.java:87) ~[ApacheJMeter_core.jar:5.3]
+	at org.apache.jmeter.gui.action.ActionRouter.lambda$actionPerformed$0(ActionRouter.java:69) ~[ApacheJMeter_core.jar:5.3]
+	at java.awt.event.InvocationEvent.dispatch(InvocationEvent.java:311) [?:1.8.0_181]
+	at java.awt.EventQueue.dispatchEventImpl(EventQueue.java:758) [?:1.8.0_181]
+	at java.awt.EventQueue.access$500(EventQueue.java:97) [?:1.8.0_181]
+	at java.awt.EventQueue$3.run(EventQueue.java:709) [?:1.8.0_181]
+	at java.awt.EventQueue$3.run(EventQueue.java:703) [?:1.8.0_181]
+	at java.security.AccessController.doPrivileged(Native Method) ~[?:1.8.0_181]
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:74) [?:1.8.0_181]
+	at java.awt.EventQueue.dispatchEvent(EventQueue.java:728) [?:1.8.0_181]
+	at java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:205) [?:1.8.0_181]
+	at java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:116) [?:1.8.0_181]
+	at java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:105) [?:1.8.0_181]
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:101) [?:1.8.0_181]
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:93) [?:1.8.0_181]
+	at java.awt.EventDispatchThread.run(EventDispatchThread.java:82) [?:1.8.0_181]
+Caused by: java.lang.NoClassDefFoundError: org/openqa/selenium/remote/LocalFileDetector
+	at com.googlecode.jmeter.plugins.webdriver.config.FileDetectorOption.<clinit>(FileDetectorOption.java:8) ~[jmeter-plugins-webdriver-3.3.jar:?]
+	at com.googlecode.jmeter.plugins.webdriver.config.gui.RemoteDriverConfigGui.createProfilePanel(RemoteDriverConfigGui.java:98) ~[jmeter-plugins-webdriver-3.3.jar:?]
+	at com.googlecode.jmeter.plugins.webdriver.config.gui.RemoteDriverConfigGui.createBrowserPanel(RemoteDriverConfigGui.java:40) ~[jmeter-plugins-webdriver-3.3.jar:?]
+	at com.googlecode.jmeter.plugins.webdriver.config.gui.WebDriverConfigGui.createGui(WebDriverConfigGui.java:196) ~[jmeter-plugins-webdriver-3.3.jar:?]
+	at com.googlecode.jmeter.plugins.webdriver.config.gui.WebDriverConfigGui.<init>(WebDriverConfigGui.java:80) ~[jmeter-plugins-webdriver-3.3.jar:?]
+	at com.googlecode.jmeter.plugins.webdriver.config.gui.RemoteDriverConfigGui.<init>(RemoteDriverConfigGui.java:19) ~[jmeter-plugins-webdriver-3.3.jar:?]
+	... 26 more
+Caused by: java.lang.ClassNotFoundException: org.openqa.selenium.remote.LocalFileDetector
+	at java.net.URLClassLoader.findClass(URLClassLoader.java:381) ~[?:1.8.0_181]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:424) ~[?:1.8.0_181]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:357) ~[?:1.8.0_181]
+	at com.googlecode.jmeter.plugins.webdriver.config.FileDetectorOption.<clinit>(FileDetectorOption.java:8) ~[jmeter-plugins-webdriver-3.3.jar:?]
+	at com.googlecode.jmeter.plugins.webdriver.config.gui.RemoteDriverConfigGui.createProfilePanel(RemoteDriverConfigGui.java:98) ~[jmeter-plugins-webdriver-3.3.jar:?]
+	at com.googlecode.jmeter.plugins.webdriver.config.gui.RemoteDriverConfigGui.createBrowserPanel(RemoteDriverConfigGui.java:40) ~[jmeter-plugins-webdriver-3.3.jar:?]
+	at com.googlecode.jmeter.plugins.webdriver.config.gui.WebDriverConfigGui.createGui(WebDriverConfigGui.java:196) ~[jmeter-plugins-webdriver-3.3.jar:?]
+	at com.googlecode.jmeter.plugins.webdriver.config.gui.WebDriverConfigGui.<init>(WebDriverConfigGui.java:80) ~[jmeter-plugins-webdriver-3.3.jar:?]
+	at com.googlecode.jmeter.plugins.webdriver.config.gui.RemoteDriverConfigGui.<init>(RemoteDriverConfigGui.java:19) ~[jmeter-plugins-webdriver-3.3.jar:?]
+	... 26 more
+2022-03-03 23:10:16,445 INFO o.a.j.s.FileServer: Default base='/home/panda/LoadTest/ClientFolder/rnd_load_test/apache-jmeter-5.3/bin'
+2022-03-03 23:10:16,452 INFO o.a.j.g.a.Load: Loading file: /home/panda/LoadTest/ClientFolder/rnd_load_test/evalpro_load_test.jmx
+2022-03-03 23:10:16,453 INFO o.a.j.s.FileServer: Set new base='/home/panda/LoadTest/ClientFolder/rnd_load_test'
+2022-03-03 23:10:16,649 INFO o.a.j.s.SaveService: Testplan (JMX) version: 2.2. Testlog (JTL) version: 2.2
+2022-03-03 23:10:16,662 INFO o.a.j.s.SaveService: Using SaveService properties file encoding UTF-8
+2022-03-03 23:10:16,665 INFO o.a.j.s.SaveService: Using SaveService properties version 5.0
+2022-03-03 23:10:16,669 INFO o.a.j.s.SaveService: Loading file: /home/panda/LoadTest/ClientFolder/rnd_load_test/evalpro_load_test.jmx
+2022-03-03 23:10:17,025 INFO o.a.j.p.h.c.CookieManager: Settings: Delete null: true Check: true Allow variable: true Save: false Prefix: COOKIE_
+2022-03-03 23:10:17,039 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/html is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2022-03-03 23:10:17,040 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for application/xhtml+xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2022-03-03 23:10:17,040 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for application/xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2022-03-03 23:10:17,040 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2022-03-03 23:10:17,040 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/vnd.wap.wml is org.apache.jmeter.protocol.http.parser.RegexpHTMLParser
+2022-03-03 23:10:17,041 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/css is org.apache.jmeter.protocol.http.parser.CssParser
+2022-03-03 23:10:17,845 INFO o.a.j.s.SampleResult: Note: Sample TimeStamps are START times
+2022-03-03 23:10:17,845 INFO o.a.j.s.SampleResult: sampleresult.default.encoding is set to ISO-8859-1
+2022-03-03 23:10:17,845 INFO o.a.j.s.SampleResult: sampleresult.useNanoTime=true
+2022-03-03 23:10:17,846 INFO o.a.j.s.SampleResult: sampleresult.nanoThreadSleep=5000
+2022-03-03 23:10:18,434 INFO o.a.j.s.FileServer: Set new base='/home/panda/LoadTest/ClientFolder/rnd_load_test'
+2022-03-03 23:10:31,441 WARN o.j.r.PluginManagerMenuItem: Failed to load plugin updates info
+org.apache.http.conn.ConnectTimeoutException: Connect to jmeter-plugins.org:443 timed out
+	at org.apache.http.conn.ssl.SSLSocketFactory.connectSocket(SSLSocketFactory.java:545) ~[httpclient-4.5.12.jar:4.5.12]
+	at org.apache.http.conn.ssl.SSLSocketFactory.connectSocket(SSLSocketFactory.java:415) ~[httpclient-4.5.12.jar:4.5.12]
+	at org.apache.http.impl.conn.DefaultClientConnectionOperator.openConnection(DefaultClientConnectionOperator.java:180) ~[httpclient-4.5.12.jar:4.5.12]
+	at org.apache.http.impl.conn.ManagedClientConnectionImpl.open(ManagedClientConnectionImpl.java:326) ~[httpclient-4.5.12.jar:4.5.12]
+	at org.apache.http.impl.client.DefaultRequestDirector.tryConnect(DefaultRequestDirector.java:605) ~[httpclient-4.5.12.jar:4.5.12]
+	at org.apache.http.impl.client.DefaultRequestDirector.execute(DefaultRequestDirector.java:440) ~[httpclient-4.5.12.jar:4.5.12]
+	at org.apache.http.impl.client.AbstractHttpClient.doExecute(AbstractHttpClient.java:835) ~[httpclient-4.5.12.jar:4.5.12]
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:83) ~[httpclient-4.5.12.jar:4.5.12]
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:56) ~[httpclient-4.5.12.jar:4.5.12]
+	at org.jmeterplugins.repository.JARSourceHTTP.execute(JARSourceHTTP.java:378) ~[jmeter-plugins-manager-0.20.jar:?]
+	at org.jmeterplugins.repository.JARSourceHTTP.execute(JARSourceHTTP.java:373) ~[jmeter-plugins-manager-0.20.jar:?]
+	at org.jmeterplugins.repository.JARSourceHTTP.getJSON(JARSourceHTTP.java:121) ~[jmeter-plugins-manager-0.20.jar:?]
+	at org.jmeterplugins.repository.JARSourceHTTP.getRepositories(JARSourceHTTP.java:172) ~[jmeter-plugins-manager-0.20.jar:?]
+	at org.jmeterplugins.repository.JARSourceHTTP.getRepo(JARSourceHTTP.java:199) ~[jmeter-plugins-manager-0.20.jar:?]
+	at org.jmeterplugins.repository.PluginManager.load(PluginManager.java:69) ~[jmeter-plugins-manager-0.20.jar:?]
+	at org.jmeterplugins.repository.PluginManagerMenuItem$1.run(PluginManagerMenuItem.java:41) [jmeter-plugins-manager-0.20.jar:?]

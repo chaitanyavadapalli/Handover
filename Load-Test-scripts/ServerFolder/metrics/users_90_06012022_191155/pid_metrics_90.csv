@@ -1,0 +1,2396 @@
+PID,SPID,COMMAND,,0
+10909,10909,postgres,CPU time,0.0
+2881,3002,JS,CPU time,0.0
+3091,3098,dconf,CPU time,80.0
+5147,5152,dconf,CPU time,80.0
+10908,10908,awk,CPU time,0.0
+2730,2798,dconf,CPU time,60.0
+14832,14832,sleep,CPU time,0.0
+14833,14833,postgres,CPU time,0.0
+14834,14834,postgres,CPU time,0.0
+14843,14843,sleep,CPU time,0.0
+14844,14844,postgres,CPU time,0.0
+14846,14846,postgres,CPU time,0.0
+14848,14848,postgres,CPU time,0.0
+14849,14849,ps.sh,CPU time,0.0
+14850,14850,ps,CPU time,0.0
+14851,14851,awk,CPU time,0.0
+1266,1481,rs:main,CPU time,241.0
+2753,2754,dconf,CPU time,241.0
+2806,2823,dconf,CPU time,241.0
+2881,2993,dconf,CPU time,241.0
+2881,3001,JS,CPU time,0.0
+8732,8732,postgres,CPU time,0.0
+17454,17454,awk,CPU time,0.0
+8733,8733,postgres,CPU time,0.0
+12448,12448,sleep,CPU time,0.0
+12449,12449,postgres,CPU time,0.0
+12450,12450,postgres,CPU time,0.0
+12451,12451,postgres,CPU time,0.0
+12453,12453,ps.sh,CPU time,0.0
+12454,12454,ps,CPU time,0.0
+12455,12455,awk,CPU time,0.0
+8734,8734,postgres,CPU time,0.0
+8735,8735,postgres,%CPU,0.0
+8735,8735,postgres,CPU time,0.0
+8736,8736,postgres,CPU time,0.0
+13251,13251,postgres,CPU time,0.0
+13252,13252,postgres,CPU time,0.0
+13259,13259,sleep,CPU time,0.0
+13260,13260,postgres,CPU time,0.0
+13261,13261,ps.sh,CPU time,0.0
+13262,13262,ps,CPU time,0.0
+13263,13263,awk,CPU time,0.0
+7038,7038,sshd,%CPU,0.0
+7038,7038,sshd,CPU time,0.0
+7040,7040,scripts.sh,%CPU,0.0
+7040,7040,scripts.sh,CPU time,0.0
+7042,7042,ps.sh,%CPU,0.0
+7042,7042,ps.sh,CPU time,0.0
+7043,7043,iostat.sh,%CPU,0.0
+7043,7043,iostat.sh,CPU time,0.0
+7044,7044,net_stat.sh,%CPU,0.0
+7044,7044,net_stat.sh,CPU time,0.0
+7045,7045,mpstat.sh,%CPU,0.0
+7045,7045,mpstat.sh,CPU time,0.0
+7046,7046,vmstat.sh,%CPU,0.0
+7046,7046,vmstat.sh,CPU time,0.0
+7047,7047,sudo,%CPU,0.0
+7047,7047,sudo,CPU time,0.0
+17453,17453,ps,CPU time,0.0
+8738,8738,postgres,%CPU,0.0
+8738,8738,postgres,CPU time,0.0
+8739,8739,postgres,CPU time,0.0
+8740,8740,postgres,CPU time,0.0
+8741,8741,postgres,%CPU,0.0
+8741,8741,postgres,CPU time,0.0
+8747,8747,sleep,CPU time,0.0
+8754,8754,sleep,CPU time,0.0
+8755,8755,ps.sh,CPU time,0.0
+8756,8756,ps,CPU time,0.0
+8757,8757,awk,CPU time,0.0
+8360,8360,postgres,CPU time,0.0
+8366,8366,sleep,CPU time,0.0
+8367,8367,ps.sh,CPU time,0.0
+8368,8368,ps,CPU time,0.0
+8369,8369,awk,CPU time,0.0
+17452,17452,ps.sh,CPU time,0.0
+17451,17451,postgres,CPU time,0.0
+17450,17450,postgres,CPU time,0.0
+16561,16561,ps,CPU time,0.0
+16560,16560,ps.sh,CPU time,0.0
+16559,16559,postgres,CPU time,0.0
+16558,16558,postgres,CPU time,0.0
+16557,16557,postgres,CPU time,0.0
+16556,16556,postgres,CPU time,0.0
+16554,16554,postgres,CPU time,0.0
+16551,16551,postgres,CPU time,0.0
+16550,16550,sleep,CPU time,0.0
+16542,16542,postgres,CPU time,0.0
+16541,16541,postgres,CPU time,0.0
+16539,16539,sleep,CPU time,0.0
+16562,16562,awk,CPU time,0.0
+16532,16532,postgres,CPU time,0.0
+16528,16528,postgres,CPU time,0.0
+10080,10080,postgres,CPU time,0.0
+10081,10081,postgres,CPU time,0.0
+10084,10084,postgres,CPU time,0.0
+10085,10085,postgres,CPU time,0.0
+10089,10089,postgres,CPU time,0.0
+10090,10090,postgres,CPU time,0.0
+10091,10091,postgres,CPU time,0.0
+10092,10092,postgres,CPU time,0.0
+10094,10094,postgres,CPU time,0.0
+10096,10096,postgres,CPU time,0.0
+10098,10098,postgres,CPU time,0.0
+16530,16530,postgres,CPU time,0.0
+10099,10099,postgres,CPU time,0.0
+15670,15670,postgres,CPU time,0.0
+15671,15671,postgres,CPU time,0.0
+15672,15672,postgres,CPU time,0.0
+15678,15678,sleep,CPU time,0.0
+15679,15679,postgres,CPU time,0.0
+15682,15682,postgres,CPU time,0.0
+15684,15684,postgres,CPU time,0.0
+15686,15686,postgres,CPU time,0.0
+15694,15694,sleep,CPU time,0.0
+15699,15699,ps.sh,CPU time,0.0
+15700,15700,ps,CPU time,0.0
+15701,15701,awk,CPU time,0.0
+15683,15683,postgres,CPU time,0.0
+7048,7048,mpstat.sh,%CPU,0.0
+7048,7048,mpstat.sh,CPU time,0.0
+10101,10101,postgres,CPU time,0.0
+10108,10108,sleep,CPU time,0.0
+8023,8023,sleep,CPU time,0.0
+8024,8024,ps.sh,CPU time,0.0
+8025,8025,ps,CPU time,0.0
+8026,8026,awk,CPU time,0.0
+17414,17414,postgres,CPU time,0.0
+17421,17421,postgres,CPU time,0.0
+17422,17422,sleep,CPU time,0.0
+17427,17427,postgres,CPU time,0.0
+17430,17430,postgres,CPU time,0.0
+17434,17434,postgres,CPU time,0.0
+17441,17441,sleep,CPU time,0.0
+17443,17443,postgres,CPU time,0.0
+17444,17444,postgres,CPU time,0.0
+17445,17445,postgres,CPU time,0.0
+17448,17448,postgres,CPU time,0.0
+10102,10102,postgres,CPU time,0.0
+10115,10115,sleep,CPU time,0.0
+10116,10116,postgres,CPU time,0.0
+10117,10117,postgres,CPU time,0.0
+10118,10118,ps.sh,CPU time,0.0
+10119,10119,ps,CPU time,0.0
+10120,10120,awk,CPU time,0.0
+10121,10121,postgres,CPU time,0.0
+11646,11646,sleep,CPU time,0.0
+11647,11647,postgres,CPU time,0.0
+11648,11648,postgres,CPU time,0.0
+11649,11649,ps.sh,CPU time,0.0
+11650,11650,ps,CPU time,0.0
+11651,11651,awk,CPU time,0.0
+7049,7049,mpstat,%CPU,0.0
+7049,7049,mpstat,CPU time,0.0
+7051,7051,ps.sh,CPU time,0.0
+18342,18342,awk,CPU time,0.0
+18341,18341,ps,CPU time,0.0
+9318,9318,postgres,CPU time,0.0
+9320,9320,postgres,CPU time,0.0
+9321,9321,postgres,CPU time,0.0
+9328,9328,postgres,CPU time,0.0
+9331,9331,postgres,CPU time,0.0
+18340,18340,ps.sh,CPU time,0.0
+18337,18337,postgres,CPU time,0.0
+18307,18307,postgres,CPU time,0.0
+18309,18309,postgres,CPU time,0.0
+18315,18315,sleep,CPU time,0.0
+18316,18316,postgres,CPU time,0.0
+18317,18317,postgres,CPU time,0.0
+18319,18319,postgres,CPU time,0.0
+18338,18338,postgres,CPU time,0.0
+18320,18320,postgres,CPU time,0.0
+18323,18323,postgres,CPU time,0.0
+18324,18324,postgres,CPU time,0.0
+18326,18326,postgres,CPU time,0.0
+18333,18333,sleep,CPU time,0.0
+18335,18335,postgres,CPU time,0.0
+18336,18336,postgres,CPU time,0.0
+18322,18322,postgres,CPU time,0.0
+9332,9332,postgres,CPU time,0.0
+9333,9333,postgres,CPU time,0.0
+9334,9334,postgres,CPU time,0.0
+14065,14065,ps.sh,CPU time,0.0
+14066,14066,ps,CPU time,0.0
+14067,14067,awk,CPU time,0.0
+14063,14063,postgres,CPU time,0.0
+10906,10906,ps.sh,CPU time,0.0
+10907,10907,ps,CPU time,0.0
+14061,14061,postgres,CPU time,0.0
+14058,14058,sleep,CPU time,0.0
+14047,14047,sleep,CPU time,0.0
+9335,9335,postgres,CPU time,0.0
+9341,9341,sleep,CPU time,0.0
+9348,9348,sleep,CPU time,0.0
+9349,9349,ps.sh,CPU time,0.0
+9350,9350,ps,CPU time,0.0
+9351,9351,awk,CPU time,0.0
+7050,7050,awk,%CPU,0.0
+7050,7050,awk,CPU time,0.0
+18302,18302,postgres,CPU time,0.0
+7065,7065,awk,%CPU,0.0
+7065,7065,awk,CPU time,0.0
+7066,7066,sleep,CPU time,0.0
+7067,7067,iotop.sh,%CPU,0.0
+7067,7067,iotop.sh,CPU time,0.0
+7068,7068,iotop.sh,CPU time,0.0
+7069,7069,awk,%CPU,0.0
+7069,7069,awk,CPU time,0.0
+7064,7064,vmstat.sh,CPU time,0.0
+7063,7063,vmstat.sh,%CPU,0.0
+7063,7063,vmstat.sh,CPU time,0.0
+7059,7059,iotop.sh,%CPU,0.0
+7059,7059,iotop.sh,CPU time,0.0
+7053,7053,awk,CPU time,0.0
+7052,7052,ps,CPU time,0.0
+17399,17399,postgres,CPU time,0.0
+17398,17398,postgres,CPU time,0.0
+17401,17401,postgres,CPU time,0.0
+17409,17409,postgres,CPU time,0.0
+17404,17404,postgres,CPU time,0.0
+17408,17408,postgres,CPU time,0.0
+17390,17390,postgres,CPU time,0.0
+17403,17403,postgres,CPU time,0.0
+17388,17388,postgres,CPU time,0.0
+17379,17379,postgres,CPU time,0.0
+17384,17384,postgres,CPU time,0.0
+10886,10886,postgres,CPU time,0.0
+10887,10887,postgres,CPU time,0.0
+10889,10889,postgres,CPU time,0.0
+15665,15665,postgres,CPU time,0.0
+15664,15664,postgres,CPU time,0.0
+15661,15661,postgres,CPU time,0.0
+15659,15659,postgres,CPU time,0.0
+15657,15657,postgres,CPU time,0.0
+17387,17387,postgres,CPU time,0.0
+15656,15656,postgres,CPU time,0.0
+15654,15654,postgres,CPU time,0.0
+15653,15653,postgres,CPU time,0.0
+15652,15652,postgres,CPU time,0.0
+15649,15649,postgres,CPU time,0.0
+15646,15646,postgres,CPU time,0.0
+15642,15642,postgres,CPU time,0.0
+17381,17381,postgres,CPU time,0.0
+17382,17382,postgres,CPU time,0.0
+15655,15655,postgres,CPU time,0.0
+17410,17410,postgres,CPU time,0.0
+14815,14815,postgres,CPU time,0.0
+10882,10882,postgres,CPU time,0.0
+12407,12407,postgres,CPU time,0.0
+12406,12406,postgres,CPU time,0.0
+12403,12403,postgres,CPU time,0.0
+12402,12402,postgres,CPU time,0.0
+12397,12397,postgres,CPU time,0.0
+12396,12396,postgres,CPU time,0.0
+12395,12395,postgres,CPU time,0.0
+12393,12393,postgres,CPU time,0.0
+12392,12392,postgres,CPU time,0.0
+12390,12390,postgres,CPU time,0.0
+9295,9295,postgres,CPU time,0.0
+9299,9299,postgres,CPU time,0.0
+9300,9300,postgres,CPU time,0.0
+9302,9302,postgres,CPU time,0.0
+9304,9304,postgres,CPU time,0.0
+9316,9316,postgres,CPU time,0.0
+13221,13221,postgres,CPU time,0.0
+17412,17412,postgres,CPU time,0.0
+13250,13250,postgres,CPU time,0.0
+13248,13248,sleep,CPU time,0.0
+13242,13242,postgres,CPU time,0.0
+13241,13241,postgres,CPU time,0.0
+13239,13239,postgres,CPU time,0.0
+17411,17411,postgres,CPU time,0.0
+13238,13238,postgres,CPU time,0.0
+13234,13234,postgres,CPU time,0.0
+13229,13229,postgres,CPU time,0.0
+13225,13225,postgres,CPU time,0.0
+13224,13224,postgres,CPU time,0.0
+13223,13223,postgres,CPU time,0.0
+13222,13222,postgres,CPU time,0.0
+13237,13237,postgres,CPU time,0.0
+10880,10880,postgres,CPU time,0.0
+11638,11638,sleep,CPU time,0.0
+10874,10874,postgres,CPU time,0.0
+7000,7000,sshd,%CPU,0.0
+7000,7000,sshd,CPU time,0.0
+10079,10079,postgres,CPU time,0.0
+10071,10071,postgres,CPU time,0.0
+10070,10070,postgres,CPU time,0.0
+10068,10068,postgres,CPU time,0.0
+10066,10066,postgres,CPU time,0.0
+10065,10065,postgres,CPU time,0.0
+10063,10063,postgres,CPU time,0.0
+10061,10061,postgres,CPU time,0.0
+10060,10060,postgres,CPU time,0.0
+10055,10055,postgres,CPU time,0.0
+10054,10054,postgres,CPU time,0.0
+10053,10053,postgres,CPU time,0.0
+10052,10052,postgres,CPU time,0.0
+10048,10048,postgres,CPU time,0.0
+16492,16492,postgres,CPU time,0.0
+16494,16494,postgres,CPU time,0.0
+16524,16524,postgres,CPU time,0.0
+16520,16520,postgres,CPU time,0.0
+16518,16518,postgres,CPU time,0.0
+16517,16517,postgres,CPU time,0.0
+16515,16515,postgres,CPU time,0.0
+16514,16514,postgres,CPU time,0.0
+14041,14041,postgres,CPU time,0.0
+16513,16513,postgres,CPU time,0.0
+16506,16506,postgres,CPU time,0.0
+16505,16505,postgres,CPU time,0.0
+16504,16504,postgres,CPU time,0.0
+16503,16503,postgres,CPU time,0.0
+16496,16496,postgres,CPU time,0.0
+16495,16495,postgres,CPU time,0.0
+16509,16509,postgres,CPU time,0.0
+10878,10878,postgres,CPU time,0.0
+14038,14038,postgres,CPU time,0.0
+14035,14035,postgres,CPU time,0.0
+10873,10873,postgres,CPU time,0.0
+10872,10872,postgres,CPU time,0.0
+10871,10871,postgres,CPU time,0.0
+10870,10870,postgres,CPU time,0.0
+10869,10869,postgres,CPU time,0.0
+11639,11639,postgres,CPU time,0.0
+12408,12408,postgres,CPU time,0.0
+11632,11632,postgres,CPU time,0.0
+11629,11629,postgres,CPU time,0.0
+11627,11627,postgres,CPU time,0.0
+11623,11623,postgres,CPU time,0.0
+11622,11622,postgres,CPU time,0.0
+11620,11620,postgres,CPU time,0.0
+11619,11619,postgres,CPU time,0.0
+11618,11618,postgres,CPU time,0.0
+11617,11617,postgres,CPU time,0.0
+11616,11616,postgres,CPU time,0.0
+14034,14034,postgres,CPU time,0.0
+14033,14033,postgres,CPU time,0.0
+14032,14032,postgres,CPU time,0.0
+14030,14030,postgres,CPU time,0.0
+14029,14029,postgres,CPU time,0.0
+14028,14028,postgres,CPU time,0.0
+14037,14037,postgres,CPU time,0.0
+14027,14027,postgres,CPU time,0.0
+14022,14022,postgres,CPU time,0.0
+11603,11603,postgres,CPU time,0.0
+11607,11607,postgres,CPU time,0.0
+11610,11610,postgres,CPU time,0.0
+11612,11612,postgres,CPU time,0.0
+11613,11613,postgres,CPU time,0.0
+14025,14025,postgres,CPU time,0.0
+12409,12409,postgres,CPU time,0.0
+13235,13235,postgres,CPU time,0.0
+12419,12419,postgres,CPU time,0.0
+13213,13213,postgres,CPU time,0.0
+14810,14810,postgres,CPU time,0.0
+14808,14808,postgres,CPU time,0.0
+14807,14807,postgres,CPU time,0.0
+14806,14806,postgres,CPU time,0.0
+18279,18279,postgres,CPU time,0.0
+18278,18278,postgres,CPU time,0.0
+18276,18276,postgres,CPU time,0.0
+18274,18274,postgres,CPU time,0.0
+18272,18272,postgres,CPU time,0.0
+18270,18270,postgres,CPU time,0.0
+18267,18267,postgres,CPU time,0.0
+18264,18264,postgres,CPU time,0.0
+14805,14805,postgres,CPU time,0.0
+14802,14802,postgres,CPU time,0.0
+14799,14799,postgres,CPU time,0.0
+14798,14798,postgres,CPU time,0.0
+14797,14797,postgres,CPU time,0.0
+18262,18262,postgres,CPU time,0.0
+8338,8338,postgres,CPU time,0.0
+8340,8340,postgres,CPU time,0.0
+8341,8341,postgres,CPU time,0.0
+8342,8342,postgres,CPU time,0.0
+8343,8343,postgres,CPU time,0.0
+13214,13214,postgres,CPU time,0.0
+8344,8344,postgres,CPU time,0.0
+8345,8345,postgres,CPU time,0.0
+8346,8346,postgres,CPU time,0.0
+8347,8347,postgres,CPU time,0.0
+14816,14816,postgres,CPU time,0.0
+8348,8348,postgres,CPU time,0.0
+14817,14817,postgres,CPU time,0.0
+14821,14821,postgres,CPU time,0.0
+8720,8720,postgres,CPU time,0.0
+8719,8719,postgres,%CPU,0.0
+8719,8719,postgres,CPU time,0.0
+8717,8717,postgres,CPU time,0.0
+8711,8711,postgres,%CPU,0.0
+8711,8711,postgres,CPU time,0.0
+8707,8707,postgres,CPU time,0.0
+8706,8706,postgres,%CPU,0.0
+8706,8706,postgres,CPU time,0.0
+10890,10890,postgres,CPU time,0.0
+12411,12411,postgres,CPU time,0.0
+8723,8723,postgres,%CPU,0.0
+8723,8723,postgres,CPU time,0.0
+8725,8725,postgres,CPU time,0.0
+8726,8726,postgres,CPU time,0.0
+8730,8730,postgres,%CPU,0.0
+8730,8730,postgres,CPU time,0.0
+18300,18300,postgres,CPU time,0.0
+18299,18299,postgres,CPU time,0.0
+18291,18291,postgres,CPU time,0.0
+18290,18290,postgres,CPU time,0.0
+18289,18289,postgres,CPU time,0.0
+18286,18286,postgres,CPU time,0.0
+18283,18283,postgres,CPU time,0.0
+18282,18282,postgres,CPU time,0.0
+18281,18281,postgres,CPU time,0.0
+18280,18280,postgres,CPU time,0.0
+13209,13209,postgres,CPU time,0.0
+13211,13211,postgres,CPU time,0.0
+13212,13212,postgres,CPU time,0.0
+14826,14826,postgres,CPU time,0.0
+14825,14825,postgres,CPU time,0.0
+14824,14824,postgres,CPU time,0.0
+14823,14823,postgres,CPU time,0.0
+14819,14819,postgres,CPU time,0.0
+8349,8349,postgres,CPU time,0.0
+8339,8339,postgres,CPU time,0.0
+10898,10898,postgres,CPU time,0.0
+12428,12428,postgres,CPU time,0.0
+12430,12430,postgres,CPU time,0.0
+12424,12424,postgres,CPU time,0.0
+12439,12439,sleep,CPU time,0.0
+12440,12440,postgres,CPU time,0.0
+12429,12429,postgres,CPU time,0.0
+12426,12426,postgres,CPU time,0.0
+12425,12425,postgres,CPU time,0.0
+10897,10897,sleep,CPU time,0.0
+12423,12423,postgres,CPU time,0.0
+8351,8351,postgres,CPU time,0.0
+12427,12427,postgres,CPU time,0.0
+10905,10905,sleep,CPU time,0.0
+12421,12421,postgres,CPU time,0.0
+8350,8350,postgres,CPU time,0.0
+10891,10891,postgres,CPU time,0.0
+13219,13219,postgres,CPU time,0.0
+13218,13218,postgres,CPU time,0.0
+13217,13217,postgres,CPU time,0.0
+13216,13216,postgres,CPU time,0.0
+13215,13215,postgres,CPU time,0.0
+12422,12422,postgres,CPU time,0.0
+14018,14018,postgres,CPU time,0.0
+14017,14017,postgres,CPU time,0.0
+10044,10044,postgres,CPU time,0.0
+13178,13178,postgres,CPU time,0.0
+13182,13182,postgres,CPU time,0.0
+14015,14015,postgres,CPU time,0.0
+18231,18231,postgres,CPU time,0.0
+13185,13185,postgres,CPU time,0.0
+14014,14014,postgres,CPU time,0.0
+10854,10854,postgres,CPU time,0.0
+10847,10847,postgres,CPU time,0.0
+10849,10849,postgres,CPU time,0.0
+10850,10850,postgres,CPU time,0.0
+10852,10852,postgres,CPU time,0.0
+10853,10853,postgres,CPU time,0.0
+18238,18238,postgres,CPU time,0.0
+10855,10855,postgres,CPU time,0.0
+10856,10856,postgres,CPU time,0.0
+11572,11572,postgres,CPU time,0.0
+11576,11576,postgres,CPU time,0.0
+11577,11577,postgres,CPU time,0.0
+11578,11578,postgres,CPU time,0.0
+11580,11580,postgres,CPU time,0.0
+11582,11582,postgres,CPU time,0.0
+14012,14012,postgres,CPU time,0.0
+18243,18243,postgres,CPU time,0.0
+18253,18253,postgres,CPU time,0.0
+18245,18245,postgres,CPU time,0.0
+16460,16460,postgres,CPU time,0.0
+16459,16459,postgres,CPU time,0.0
+13177,13177,postgres,CPU time,0.0
+16458,16458,postgres,CPU time,0.0
+10843,10843,postgres,CPU time,0.0
+10845,10845,postgres,CPU time,0.0
+10846,10846,postgres,CPU time,0.0
+16464,16464,postgres,CPU time,0.0
+10012,10012,postgres,CPU time,0.0
+10023,10023,postgres,CPU time,0.0
+11583,11583,postgres,CPU time,0.0
+10026,10026,postgres,CPU time,0.0
+10029,10029,postgres,CPU time,0.0
+10035,10035,postgres,CPU time,0.0
+10040,10040,postgres,CPU time,0.0
+10041,10041,postgres,CPU time,0.0
+10022,10022,postgres,CPU time,0.0
+16469,16469,postgres,CPU time,0.0
+16471,16471,postgres,CPU time,0.0
+16472,16472,postgres,CPU time,0.0
+18246,18246,postgres,CPU time,0.0
+18247,18247,postgres,CPU time,0.0
+18252,18252,postgres,CPU time,0.0
+18254,18254,postgres,CPU time,0.0
+18256,18256,postgres,CPU time,0.0
+18257,18257,postgres,CPU time,0.0
+18258,18258,postgres,CPU time,0.0
+18259,18259,postgres,CPU time,0.0
+16490,16490,postgres,CPU time,0.0
+16489,16489,postgres,CPU time,0.0
+16488,16488,postgres,CPU time,0.0
+16487,16487,postgres,CPU time,0.0
+16486,16486,postgres,CPU time,0.0
+16483,16483,postgres,CPU time,0.0
+16479,16479,postgres,CPU time,0.0
+16478,16478,postgres,CPU time,0.0
+16477,16477,postgres,CPU time,0.0
+18244,18244,postgres,CPU time,0.0
+11589,11589,postgres,CPU time,0.0
+13189,13189,postgres,CPU time,0.0
+11598,11598,postgres,CPU time,0.0
+12379,12379,postgres,CPU time,0.0
+18228,18228,postgres,CPU time,0.0
+18225,18225,postgres,CPU time,0.0
+15635,15635,postgres,CPU time,0.0
+12381,12381,postgres,CPU time,0.0
+12382,12382,postgres,CPU time,0.0
+11596,11596,postgres,CPU time,0.0
+12384,12384,postgres,CPU time,0.0
+12378,12378,postgres,CPU time,0.0
+14779,14779,postgres,CPU time,0.0
+14782,14782,postgres,CPU time,0.0
+14785,14785,postgres,CPU time,0.0
+14789,14789,postgres,CPU time,0.0
+14793,14793,postgres,CPU time,0.0
+14796,14796,postgres,CPU time,0.0
+17377,17377,postgres,CPU time,0.0
+17375,17375,postgres,CPU time,0.0
+15616,15616,postgres,CPU time,0.0
+14780,14780,postgres,CPU time,0.0
+12376,12376,postgres,CPU time,0.0
+12375,12375,postgres,CPU time,0.0
+12373,12373,postgres,CPU time,0.0
+9285,9285,postgres,CPU time,0.0
+9288,9288,postgres,CPU time,0.0
+15617,15617,postgres,CPU time,0.0
+15621,15621,postgres,CPU time,0.0
+15622,15622,postgres,CPU time,0.0
+15623,15623,postgres,CPU time,0.0
+15625,15625,postgres,CPU time,0.0
+15630,15630,postgres,CPU time,0.0
+15631,15631,postgres,CPU time,0.0
+15634,15634,postgres,CPU time,0.0
+9292,9292,postgres,CPU time,0.0
+9294,9294,postgres,CPU time,0.0
+9270,9270,postgres,CPU time,0.0
+15608,15608,postgres,CPU time,0.0
+9269,9269,postgres,CPU time,0.0
+9267,9267,postgres,CPU time,0.0
+12356,12356,postgres,CPU time,0.0
+12365,12365,postgres,CPU time,0.0
+12367,12367,postgres,CPU time,0.0
+17369,17369,postgres,CPU time,0.0
+17364,17364,postgres,CPU time,0.0
+17374,17374,postgres,CPU time,0.0
+17355,17355,postgres,CPU time,0.0
+14006,14006,postgres,CPU time,0.0
+14009,14009,postgres,CPU time,0.0
+14011,14011,postgres,CPU time,0.0
+13190,13190,postgres,CPU time,0.0
+12386,12386,postgres,CPU time,0.0
+9283,9283,postgres,CPU time,0.0
+9276,9276,postgres,CPU time,0.0
+13188,13188,postgres,CPU time,0.0
+17360,17360,postgres,CPU time,0.0
+13187,13187,postgres,CPU time,0.0
+9279,9279,postgres,CPU time,0.0
+8688,8688,postgres,CPU time,0.0
+8700,8700,postgres,CPU time,0.0
+8703,8703,postgres,CPU time,0.0
+8704,8704,postgres,%CPU,0.0
+8704,8704,postgres,CPU time,0.0
+11601,11601,postgres,CPU time,0.0
+11600,11600,postgres,CPU time,0.0
+11599,11599,postgres,CPU time,0.0
+13186,13186,postgres,CPU time,0.0
+14000,14000,postgres,CPU time,0.0
+14005,14005,postgres,CPU time,0.0
+13994,13994,postgres,CPU time,0.0
+17354,17354,postgres,CPU time,0.0
+15639,15639,postgres,CPU time,0.0
+13207,13207,postgres,CPU time,0.0
+13204,13204,postgres,CPU time,0.0
+13203,13203,postgres,CPU time,0.0
+13201,13201,postgres,CPU time,0.0
+13200,13200,postgres,CPU time,0.0
+13198,13198,postgres,CPU time,0.0
+13196,13196,postgres,CPU time,0.0
+13195,13195,postgres,CPU time,0.0
+13194,13194,postgres,CPU time,0.0
+13193,13193,postgres,CPU time,0.0
+13191,13191,postgres,CPU time,0.0
+10867,10867,postgres,CPU time,0.0
+10866,10866,postgres,CPU time,0.0
+10865,10865,postgres,CPU time,0.0
+10862,10862,postgres,CPU time,0.0
+10859,10859,postgres,CPU time,0.0
+13993,13993,postgres,CPU time,0.0
+13995,13995,postgres,CPU time,0.0
+9284,9284,postgres,CPU time,0.0
+15606,15606,postgres,CPU time,0.0
+15605,15605,postgres,CPU time,0.0
+15603,15603,postgres,CPU time,0.0
+15601,15601,postgres,CPU time,0.0
+15567,15567,postgres,CPU time,0.0
+10836,10836,postgres,CPU time,0.0
+15561,15561,postgres,CPU time,0.0
+9977,9977,postgres,%CPU,0.0
+9977,9977,postgres,CPU time,0.0
+9979,9979,postgres,CPU time,0.0
+9985,9985,postgres,CPU time,0.0
+15562,15562,postgres,CPU time,0.0
+15571,15571,postgres,CPU time,0.0
+15572,15572,postgres,CPU time,0.0
+15573,15573,postgres,CPU time,0.0
+10834,10834,postgres,CPU time,0.0
+15579,15579,postgres,CPU time,0.0
+15580,15580,postgres,CPU time,0.0
+15581,15581,postgres,CPU time,0.0
+15582,15582,postgres,CPU time,0.0
+15586,15586,postgres,CPU time,0.0
+15587,15587,postgres,CPU time,0.0
+15597,15597,postgres,CPU time,0.0
+15598,15598,postgres,CPU time,0.0
+10837,10837,postgres,CPU time,0.0
+10826,10826,postgres,CPU time,0.0
+10825,10825,postgres,CPU time,0.0
+13170,13170,postgres,CPU time,0.0
+10809,10809,postgres,CPU time,0.0
+12351,12351,postgres,CPU time,0.0
+12345,12345,postgres,CPU time,0.0
+12344,12344,postgres,CPU time,0.0
+12341,12341,postgres,CPU time,0.0
+12339,12339,postgres,CPU time,0.0
+12338,12338,postgres,CPU time,0.0
+12335,12335,postgres,CPU time,0.0
+12333,12333,postgres,CPU time,0.0
+12352,12352,postgres,CPU time,0.0
+12331,12331,postgres,CPU time,0.0
+12329,12329,postgres,CPU time,0.0
+12327,12327,postgres,CPU time,0.0
+12325,12325,postgres,CPU time,0.0
+18219,18219,postgres,CPU time,0.0
+17341,17341,postgres,CPU time,0.0
+17340,17340,postgres,CPU time,0.0
+17335,17335,postgres,CPU time,0.0
+17329,17329,postgres,CPU time,0.0
+12330,12330,postgres,CPU time,0.0
+17328,17328,postgres,CPU time,0.0
+9263,9263,postgres,CPU time,0.0
+9259,9259,postgres,CPU time,0.0
+13162,13162,postgres,CPU time,0.0
+13159,13159,postgres,CPU time,0.0
+13158,13158,postgres,CPU time,0.0
+13151,13151,postgres,CPU time,0.0
+13149,13149,postgres,CPU time,0.0
+13139,13139,postgres,CPU time,0.0
+8679,8679,postgres,CPU time,0.0
+8671,8671,postgres,CPU time,0.0
+9260,9260,postgres,CPU time,0.0
+14760,14760,postgres,CPU time,0.0
+14751,14751,postgres,CPU time,0.0
+14747,14747,postgres,CPU time,0.0
+14744,14744,postgres,CPU time,0.0
+9245,9245,postgres,CPU time,0.0
+9248,9248,postgres,CPU time,0.0
+9249,9249,postgres,CPU time,0.0
+9254,9254,postgres,CPU time,0.0
+9257,9257,postgres,CPU time,0.0
+14755,14755,postgres,CPU time,0.0
+10816,10816,postgres,CPU time,0.0
+17325,17325,postgres,CPU time,0.0
+17320,17320,postgres,CPU time,0.0
+13987,13987,postgres,CPU time,0.0
+11565,11565,postgres,CPU time,0.0
+11564,11564,postgres,CPU time,0.0
+11562,11562,postgres,CPU time,0.0
+11560,11560,postgres,CPU time,0.0
+11557,11557,postgres,CPU time,0.0
+11554,11554,postgres,CPU time,0.0
+11553,11553,postgres,CPU time,0.0
+13984,13984,postgres,CPU time,0.0
+11551,11551,postgres,CPU time,0.0
+11547,11547,postgres,CPU time,0.0
+11544,11544,postgres,CPU time,0.0
+9996,9996,postgres,CPU time,0.0
+9992,9992,postgres,CPU time,0.0
+9991,9991,postgres,CPU time,0.0
+9989,9989,postgres,CPU time,0.0
+9988,9988,postgres,CPU time,0.0
+9987,9987,postgres,CPU time,0.0
+11550,11550,postgres,CPU time,0.0
+17324,17324,postgres,CPU time,0.0
+13981,13981,postgres,CPU time,0.0
+13977,13977,postgres,CPU time,0.0
+13171,13171,postgres,CPU time,0.0
+17301,17301,postgres,CPU time,0.0
+17300,17300,postgres,CPU time,0.0
+17299,17299,postgres,CPU time,0.0
+18218,18218,postgres,CPU time,0.0
+18215,18215,postgres,CPU time,0.0
+18190,18190,postgres,CPU time,0.0
+13934,13934,postgres,CPU time,0.0
+13978,13978,postgres,CPU time,0.0
+13935,13935,postgres,CPU time,0.0
+13940,13940,postgres,CPU time,0.0
+13945,13945,postgres,CPU time,0.0
+13946,13946,postgres,CPU time,0.0
+13955,13955,postgres,CPU time,0.0
+13960,13960,postgres,CPU time,0.0
+13964,13964,postgres,CPU time,0.0
+13966,13966,postgres,CPU time,0.0
+13970,13970,postgres,CPU time,0.0
+13939,13939,postgres,CPU time,0.0
+17318,17318,postgres,CPU time,0.0
+14764,14764,postgres,CPU time,0.0
+16408,16408,postgres,CPU time,0.0
+16409,16409,postgres,CPU time,0.0
+16410,16410,postgres,CPU time,0.0
+16419,16419,postgres,CPU time,0.0
+16427,16427,postgres,CPU time,0.0
+16431,16431,postgres,CPU time,0.0
+16432,16432,postgres,CPU time,0.0
+16433,16433,postgres,CPU time,0.0
+16441,16441,postgres,CPU time,0.0
+16438,16438,postgres,CPU time,0.0
+15518,15518,postgres,CPU time,0.0
+12305,12305,postgres,CPU time,0.0
+12299,12299,postgres,CPU time,0.0
+17292,17292,postgres,CPU time,0.0
+17290,17290,postgres,CPU time,0.0
+17285,17285,postgres,CPU time,0.0
+17282,17282,postgres,CPU time,0.0
+17271,17271,postgres,CPU time,0.0
+12314,12314,postgres,CPU time,0.0
+12321,12321,postgres,CPU time,0.0
+12313,12313,postgres,CPU time,0.0
+14687,14687,sleep,CPU time,0.0
+14732,14732,postgres,CPU time,0.0
+14698,14698,sleep,CPU time,0.0
+14711,14711,postgres,CPU time,0.0
+14715,14715,postgres,CPU time,0.0
+17268,17268,postgres,CPU time,0.0
+14716,14716,postgres,CPU time,0.0
+14722,14722,postgres,CPU time,0.0
+14726,14726,postgres,CPU time,0.0
+14729,14729,postgres,CPU time,0.0
+14731,14731,postgres,CPU time,0.0
+14733,14733,postgres,CPU time,0.0
+8632,8632,postgres,CPU time,0.0
+8659,8659,sleep,CPU time,0.0
+14691,14691,postgres,CPU time,0.0
+17266,17266,sleep,CPU time,0.0
+7928,7928,sleep,CPU time,0.0
+17257,17257,postgres,CPU time,0.0
+15526,15526,postgres,CPU time,0.0
+15527,15527,sleep,CPU time,0.0
+15538,15538,postgres,CPU time,0.0
+15541,15541,postgres,CPU time,0.0
+15543,15543,postgres,CPU time,0.0
+15558,15558,postgres,CPU time,0.0
+9959,9959,sleep,CPU time,0.0
+9967,9967,sleep,CPU time,0.0
+16395,16395,postgres,CPU time,0.0
+16384,16384,postgres,CPU time,0.0
+16375,16375,sleep,CPU time,0.0
+17258,17258,postgres,CPU time,0.0
+16361,16361,sleep,CPU time,0.0
+11516,11516,postgres,CPU time,0.0
+11519,11519,postgres,CPU time,0.0
+11522,11522,postgres,CPU time,0.0
+11529,11529,postgres,CPU time,0.0
+11532,11532,postgres,CPU time,0.0
+11536,11536,postgres,CPU time,0.0
+11540,11540,postgres,CPU time,0.0
+11542,11542,postgres,CPU time,0.0
+8667,8667,sleep,CPU time,0.0
+7932,7932,sleep,CPU time,0.0
+17256,17256,sleep,CPU time,0.0
+11510,11510,postgres,CPU time,0.0
+8303,8303,postgres,CPU time,0.0
+15517,15517,sleep,CPU time,0.0
+8314,8314,postgres,%CPU,0.0
+8314,8314,postgres,CPU time,0.0
+13892,13892,sleep,CPU time,0.0
+13897,13897,postgres,CPU time,0.0
+13901,13901,postgres,CPU time,0.0
+13917,13917,postgres,CPU time,0.0
+13918,13918,postgres,CPU time,0.0
+13923,13923,postgres,CPU time,0.0
+13926,13926,postgres,CPU time,0.0
+13930,13930,postgres,CPU time,0.0
+18146,18146,sleep,CPU time,0.0
+18156,18156,sleep,CPU time,0.0
+18170,18170,postgres,CPU time,0.0
+18171,18171,postgres,CPU time,0.0
+18173,18173,postgres,CPU time,0.0
+18175,18175,postgres,CPU time,0.0
+18176,18176,postgres,CPU time,0.0
+13931,13931,postgres,CPU time,0.0
+13932,13932,postgres,CPU time,0.0
+9234,9234,sleep,CPU time,0.0
+8304,8304,postgres,%CPU,0.0
+8304,8304,postgres,CPU time,0.0
+9227,9227,sleep,CPU time,0.0
+13134,13134,postgres,CPU time,0.0
+13135,13135,postgres,CPU time,0.0
+9199,9199,postgres,CPU time,0.0
+13119,13119,postgres,CPU time,0.0
+10779,10779,postgres,CPU time,0.0
+10783,10783,postgres,CPU time,0.0
+13121,13121,postgres,CPU time,0.0
+13124,13124,postgres,CPU time,0.0
+13118,13118,postgres,CPU time,0.0
+8327,8327,sleep,CPU time,0.0
+10792,10792,postgres,CPU time,0.0
+13130,13130,postgres,CPU time,0.0
+10793,10793,postgres,CPU time,0.0
+10797,10797,postgres,CPU time,0.0
+10799,10799,postgres,CPU time,0.0
+10800,10800,postgres,CPU time,0.0
+10775,10775,postgres,%CPU,0.0
+10775,10775,postgres,CPU time,0.0
+10801,10801,postgres,CPU time,0.0
+8320,8320,sleep,CPU time,0.0
+13108,13108,sleep,CPU time,0.0
+9877,9877,postgres,CPU time,0.0
+9886,9886,postgres,CPU time,0.0
+9892,9892,postgres,CPU time,0.0
+9896,9896,postgres,CPU time,0.0
+10760,10760,sleep,CPU time,0.0
+11499,11499,sleep,CPU time,0.0
+11492,11492,postgres,CPU time,0.0
+11490,11490,postgres,CPU time,0.0
+11477,11477,postgres,CPU time,0.0
+11476,11476,postgres,CPU time,0.0
+13882,13882,sleep,CPU time,0.0
+13853,13853,postgres,CPU time,0.0
+13851,13851,postgres,CPU time,0.0
+13842,13842,postgres,CPU time,0.0
+13841,13841,postgres,CPU time,0.0
+10734,10734,postgres,CPU time,0.0
+10740,10740,postgres,CPU time,0.0
+10753,10753,postgres,CPU time,0.0
+10769,10769,sleep,CPU time,0.0
+11508,11508,sleep,CPU time,0.0
+17230,17230,postgres,CPU time,0.0
+14646,14646,postgres,CPU time,0.0
+12292,12292,sleep,CPU time,0.0
+18103,18103,postgres,CPU time,0.0
+18094,18094,postgres,CPU time,0.0
+18092,18092,postgres,CPU time,0.0
+14621,14621,postgres,CPU time,0.0
+14629,14629,postgres,CPU time,0.0
+13075,13075,postgres,CPU time,0.0
+14645,14645,postgres,CPU time,0.0
+14672,14672,postgres,CPU time,0.0
+14678,14678,postgres,CPU time,0.0
+14679,14679,postgres,CPU time,0.0
+13099,13099,sleep,CPU time,0.0
+13098,13098,postgres,CPU time,0.0
+13082,13082,postgres,CPU time,0.0
+14665,14665,postgres,CPU time,0.0
+8298,8298,postgres,%CPU,0.0
+8298,8298,postgres,CPU time,0.0
+13064,13064,postgres,CPU time,0.0
+12282,12282,sleep,CPU time,0.0
+17229,17229,postgres,CPU time,0.0
+17232,17232,postgres,CPU time,0.0
+17235,17235,postgres,CPU time,0.0
+17240,17240,postgres,CPU time,0.0
+18123,18123,postgres,CPU time,0.0
+18121,18121,postgres,CPU time,0.0
+18111,18111,postgres,CPU time,0.0
+8300,8300,postgres,%CPU,0.0
+8300,8300,postgres,CPU time,0.0
+12229,12229,postgres,CPU time,0.0
+8299,8299,postgres,CPU time,0.0
+12242,12242,postgres,CPU time,0.0
+12253,12253,postgres,CPU time,0.0
+12255,12255,postgres,CPU time,0.0
+12259,12259,postgres,CPU time,0.0
+12272,12272,postgres,CPU time,0.0
+12276,12276,postgres,CPU time,0.0
+9864,9864,postgres,CPU time,0.0
+9845,9845,postgres,%CPU,0.0
+9845,9845,postgres,CPU time,0.0
+9843,9843,postgres,CPU time,0.0
+13039,13039,postgres,CPU time,0.0
+8271,8271,postgres,%CPU,0.0
+8271,8271,postgres,CPU time,0.0
+9852,9852,postgres,CPU time,0.0
+8254,8254,postgres,%CPU,0.0
+8254,8254,postgres,CPU time,0.0
+17171,17171,postgres,CPU time,0.0
+13800,13800,postgres,CPU time,0.0
+14615,14615,postgres,CPU time,0.0
+17169,17169,postgres,CPU time,0.0
+16294,16294,postgres,CPU time,0.0
+16291,16291,postgres,CPU time,0.0
+11413,11413,postgres,CPU time,0.0
+11417,11417,postgres,CPU time,0.0
+11421,11421,postgres,CPU time,0.0
+11429,11429,postgres,CPU time,0.0
+12193,12193,postgres,CPU time,0.0
+13816,13816,postgres,CPU time,0.0
+18075,18075,postgres,CPU time,0.0
+13822,13822,postgres,CPU time,0.0
+10707,10707,postgres,CPU time,0.0
+10731,10731,postgres,CPU time,0.0
+10722,10722,postgres,CPU time,0.0
+10678,10678,postgres,CPU time,0.0
+10682,10682,postgres,CPU time,0.0
+18027,18027,postgres,CPU time,0.0
+18025,18025,postgres,CPU time,0.0
+14575,14575,postgres,CPU time,0.0
+11388,11388,postgres,CPU time,0.0
+18008,18008,postgres,CPU time,0.0
+12978,12978,postgres,CPU time,0.0
+9805,9805,postgres,CPU time,0.0
+9823,9823,postgres,CPU time,0.0
+12186,12186,postgres,CPU time,0.0
+14573,14573,postgres,CPU time,0.0
+11384,11384,postgres,CPU time,0.0
+12972,12972,postgres,CPU time,0.0
+9829,9829,postgres,CPU time,0.0
+10653,10653,postgres,CPU time,0.0
+10651,10651,postgres,CPU time,0.0
+11395,11395,postgres,CPU time,0.0
+15390,15390,postgres,CPU time,0.0
+13797,13797,postgres,CPU time,0.0
+13795,13795,postgres,CPU time,0.0
+13768,13768,postgres,CPU time,0.0
+15388,15388,postgres,CPU time,0.0
+15382,15382,postgres,CPU time,0.0
+10657,10657,postgres,CPU time,0.0
+15377,15377,postgres,CPU time,0.0
+13767,13767,postgres,CPU time,0.0
+14558,14558,postgres,CPU time,0.0
+14553,14553,postgres,CPU time,0.0
+14536,14536,postgres,CPU time,0.0
+14530,14530,postgres,CPU time,0.0
+11360,11360,postgres,CPU time,0.0
+11362,11362,postgres,CPU time,0.0
+11363,11363,postgres,CPU time,0.0
+14538,14538,postgres,CPU time,0.0
+17086,17086,postgres,CPU time,0.0
+15360,15360,postgres,CPU time,0.0
+12958,12958,postgres,CPU time,0.0
+13751,13751,postgres,CPU time,0.0
+13745,13745,postgres,CPU time,0.0
+13740,13740,postgres,CPU time,0.0
+15337,15337,postgres,CPU time,0.0
+12964,12964,postgres,CPU time,0.0
+10632,10632,postgres,CPU time,0.0
+12962,12962,postgres,CPU time,0.0
+12936,12936,postgres,CPU time,0.0
+12957,12957,postgres,CPU time,0.0
+12953,12953,postgres,CPU time,0.0
+10625,10625,postgres,CPU time,0.0
+10599,10599,postgres,CPU time,0.0
+10624,10624,postgres,CPU time,0.0
+10606,10606,postgres,CPU time,0.0
+10605,10605,postgres,CPU time,0.0
+10602,10602,postgres,CPU time,0.0
+10600,10600,postgres,CPU time,0.0
+11344,11344,postgres,CPU time,0.0
+11354,11354,postgres,CPU time,0.0
+10608,10608,postgres,CPU time,0.0
+12901,12901,postgres,CPU time,0.0
+13727,13727,postgres,CPU time,0.0
+15316,15316,postgres,CPU time,0.0
+13722,13722,postgres,CPU time,0.0
+17044,17044,postgres,CPU time,0.0
+12910,12910,postgres,CPU time,0.0
+12061,12061,postgres,CPU time,0.0
+8521,8521,postgres,%CPU,0.0
+8521,8521,postgres,CPU time,0.0
+11282,11282,postgres,CPU time,0.0
+11290,11290,postgres,CPU time,0.0
+10579,10579,postgres,CPU time,0.0
+17901,17901,postgres,CPU time,0.0
+8520,8520,postgres,%CPU,0.0
+8520,8520,postgres,CPU time,0.0
+12840,12840,postgres,CPU time,0.0
+10578,10578,postgres,CPU time,0.0
+12883,12883,postgres,CPU time,0.0
+16086,16086,postgres,CPU time,0.0
+16092,16092,postgres,CPU time,0.0
+11255,11255,postgres,CPU time,0.0
+10516,10516,postgres,CPU time,0.0
+15221,15221,postgres,CPU time,0.0
+8499,8499,postgres,%CPU,0.0
+8499,8499,postgres,CPU time,0.0
+8514,8514,postgres,%CPU,0.0
+8514,8514,postgres,CPU time,0.0
+11254,11254,postgres,CPU time,0.0
+11249,11249,postgres,CPU time,0.0
+11232,11232,postgres,CPU time,0.0
+10505,10505,postgres,CPU time,0.0
+14419,14419,postgres,CPU time,0.0
+10506,10506,postgres,CPU time,0.0
+8516,8516,postgres,%CPU,0.0
+8516,8516,postgres,CPU time,0.0
+10523,10523,postgres,CPU time,0.0
+14385,14385,postgres,CPU time,0.0
+10496,10496,postgres,CPU time,0.0
+12796,12796,postgres,CPU time,0.0
+10476,10476,postgres,CPU time,0.0
+11184,11184,postgres,CPU time,0.0
+10486,10486,postgres,CPU time,0.0
+10478,10478,postgres,CPU time,0.0
+15170,15170,postgres,CPU time,0.0
+15151,15151,postgres,CPU time,0.0
+8484,8484,postgres,CPU time,0.0
+8489,8489,postgres,CPU time,0.0
+10455,10455,postgres,CPU time,0.0
+10432,10432,postgres,CPU time,0.0
+8469,8469,postgres,CPU time,0.0
+15970,15970,postgres,CPU time,0.0
+3895,8871,registry,%CPU,0.0
+3895,8871,registry,CPU time,0.0
+15029,15029,postgres,CPU time,0.0
+11086,11086,postgres,CPU time,0.0
+12674,12674,postgres,CPU time,0.0
+12695,12695,postgres,CPU time,0.0
+8443,8443,postgres,CPU time,0.0
+10287,10287,postgres,CPU time,0.0
+9476,9476,postgres,CPU time,0.0
+8423,8423,postgres,%CPU,0.0
+8423,8423,postgres,CPU time,0.0
+8426,8426,postgres,%CPU,0.0
+8426,8426,postgres,CPU time,0.0
+8408,8408,postgres,CPU time,0.0
+8437,8437,postgres,%CPU,0.0
+8437,8437,postgres,CPU time,0.0
+8845,8845,postgres,CPU time,0.0
+8843,8843,postgres,CPU time,0.0
+8419,8419,postgres,%CPU,0.0
+8419,8419,postgres,CPU time,0.0
+8840,8840,postgres,CPU time,0.0
+8407,8407,postgres,CPU time,0.0
+8406,8406,postgres,CPU time,0.0
+8405,8405,postgres,CPU time,0.0
+16640,16640,postgres,CPU time,0.0
+10971,10971,postgres,CPU time,0.0
+8827,8827,postgres,CPU time,0.0
+8823,8823,postgres,%CPU,0.0
+8823,8823,postgres,CPU time,0.0
+8817,8817,postgres,CPU time,0.0
+8809,8809,postgres,CPU time,0.0
+8803,8803,postgres,CPU time,0.0
+10974,10974,postgres,CPU time,0.0
+10957,10957,sleep,CPU time,0.0
+15756,15756,sleep,CPU time,0.0
+10189,10189,postgres,CPU time,0.0
+8799,8799,postgres,CPU time,0.0
+8128,8128,sleep,CPU time,0.0
+14112,14112,sleep,CPU time,0.0
+8798,8798,sleep,CPU time,0.0
+14895,14895,sleep,CPU time,0.0
+7123,7123,vmstat.sh,%CPU,0.0
+7123,7123,vmstat.sh,CPU time,0.0
+7124,7124,sudo,%CPU,0.0
+7124,7124,sudo,CPU time,0.0
+7127,7127,mpstat.sh,%CPU,0.0
+7127,7127,mpstat.sh,CPU time,0.0
+7130,7130,vmstat.sh,%CPU,0.0
+7130,7130,vmstat.sh,CPU time,0.0
+7134,7134,mpstat,%CPU,0.0
+7134,7134,mpstat,CPU time,0.0
+7137,7137,awk,%CPU,0.0
+7137,7137,awk,CPU time,0.0
+7138,7138,vmstat,%CPU,0.0
+7138,7138,vmstat,CPU time,0.0
+7140,7140,awk,%CPU,0.0
+7140,7140,awk,CPU time,0.0
+7147,7147,iotop.sh,%CPU,0.0
+7147,7147,iotop.sh,CPU time,0.0
+17515,17515,sleep,CPU time,0.0
+7148,7148,iotop.sh,%CPU,0.0
+7148,7148,iotop.sh,CPU time,0.0
+7150,7150,awk,%CPU,0.0
+7150,7150,awk,CPU time,0.0
+7151,7151,sleep,CPU time,0.0
+9403,9403,sleep,CPU time,0.0
+8396,8396,sleep,CPU time,0.0
+11701,11701,sleep,CPU time,0.0
+16618,16618,sleep,CPU time,0.0
+12517,12517,sleep,CPU time,0.0
+13314,13314,sleep,CPU time,0.0
+7149,7149,iotop,%CPU,1.4234875444839858
+7149,7149,iotop,CPU time,4.0
+7122,7122,mpstat.sh,%CPU,0.0
+7122,7122,mpstat.sh,CPU time,0.0
+7119,7119,ps.sh,%CPU,0.0
+7119,7119,ps.sh,CPU time,0.0
+7120,7120,iostat.sh,%CPU,0.0
+7120,7120,iostat.sh,CPU time,0.0
+7117,7117,scripts.sh,%CPU,0.0
+7117,7117,scripts.sh,CPU time,0.0
+7115,7115,sshd,%CPU,0.0
+7115,7115,sshd,CPU time,0.0
+7077,7077,sshd,%CPU,0.0
+7077,7077,sshd,CPU time,0.0
+7121,7121,net_stat.sh,%CPU,0.0
+7121,7121,net_stat.sh,CPU time,0.0
+10142,10142,postgres,CPU time,0.0
+10173,10173,sleep,CPU time,0.0
+7064,7064,vmstat,%CPU,0.0
+7064,7064,vmstat,CPU time,0.0
+10929,10929,postgres,CPU time,0.0
+7068,7068,iotop,%CPU,1.4234875444839858
+7068,7068,iotop,CPU time,4.0
+8759,8759,postgres,%CPU,0.0
+8759,8759,postgres,CPU time,0.0
+6898,6898,kworker/9:2,%CPU,0.0
+6898,6898,kworker/9:2,CPU time,0.0
+6895,6895,kworker/10:1,%CPU,0.0
+6895,6895,kworker/10:1,CPU time,0.0
+5399,6666,qemu-system-x86,%CPU,0.0
+5399,6666,qemu-system-x86,CPU time,0.0
+6498,6498,kworker/12:0,%CPU,0.0
+6498,6498,kworker/12:0,CPU time,0.0
+6458,6458,kworker/u272:1,%CPU,0.0
+6458,6458,kworker/u272:1,CPU time,0.0
+5320,6457,qemu-system-x86,%CPU,0.0
+5320,6457,qemu-system-x86,CPU time,0.0
+3895,6429,registry,%CPU,0.0
+3895,6429,registry,CPU time,0.0
+3895,6347,registry,%CPU,0.0
+3895,6347,registry,CPU time,0.0
+3895,6275,registry,%CPU,0.0
+3895,6275,registry,CPU time,0.0
+5979,5979,kworker/u272:0,%CPU,0.0
+5979,5979,kworker/u272:0,CPU time,0.0
+3895,5978,registry,%CPU,0.0
+3895,5978,registry,CPU time,0.0
+3895,5599,registry,%CPU,0.0
+3895,5599,registry,CPU time,0.0
+5562,5562,kworker/10:0,%CPU,0.0
+5562,5562,kworker/10:0,CPU time,0.0
+5551,5551,ssh,%CPU,0.0
+5551,5551,ssh,CPU time,0.0
+5525,5525,ssh,%CPU,0.0
+5525,5525,ssh,CPU time,0.0
+3895,5491,registry,%CPU,0.0
+3895,5491,registry,CPU time,0.0
+5399,5414,qemu-system-x86,%CPU,52.49169435215947
+5399,5414,qemu-system-x86,CPU time,158.0
+5399,5421,qemu-system-x86,%CPU,53.15614617940199
+5399,5421,qemu-system-x86,CPU time,160.0
+5399,5420,qemu-system-x86,%CPU,55.14950166112957
+5399,5420,qemu-system-x86,CPU time,166.0
+5399,5399,qemu-system-x86,%CPU,4.651162790697675
+5399,5399,qemu-system-x86,CPU time,14.0
+5423,5423,kvm-pit/5399,%CPU,0.0
+5423,5423,kvm-pit/5399,CPU time,0.0
+5412,5412,kvm-nx-lpage-re,%CPU,0.0
+5412,5412,kvm-nx-lpage-re,CPU time,0.0
+5399,5416,qemu-system-x86,%CPU,56.478405315614616
+5399,5416,qemu-system-x86,CPU time,170.0
+5399,5422,qemu-system-x86,%CPU,53.48837209302326
+5399,5422,qemu-system-x86,CPU time,161.0
+5399,5424,qemu-system-x86,%CPU,0.0
+5399,5424,qemu-system-x86,CPU time,0.0
+5399,5405,qemu-system-x86,%CPU,0.0
+5399,5405,qemu-system-x86,CPU time,0.0
+5399,5417,qemu-system-x86,%CPU,52.82392026578073
+5399,5417,qemu-system-x86,CPU time,159.0
+5399,5418,qemu-system-x86,%CPU,52.159468438538205
+5399,5418,qemu-system-x86,CPU time,157.0
+5399,5419,qemu-system-x86,%CPU,53.820598006644516
+5399,5419,qemu-system-x86,CPU time,162.0
+5320,5341,qemu-system-x86,%CPU,55.48172757475083
+5320,5341,qemu-system-x86,CPU time,167.0
+5320,5342,qemu-system-x86,%CPU,53.15614617940199
+5320,5342,qemu-system-x86,CPU time,160.0
+5320,5343,qemu-system-x86,%CPU,53.48837209302326
+5320,5343,qemu-system-x86,CPU time,161.0
+5320,5345,qemu-system-x86,%CPU,54.48504983388705
+5320,5345,qemu-system-x86,CPU time,164.0
+5320,5344,qemu-system-x86,%CPU,53.15614617940199
+5320,5344,qemu-system-x86,CPU time,160.0
+5320,5339,qemu-system-x86,%CPU,53.48837209302326
+5320,5339,qemu-system-x86,CPU time,161.0
+5320,5347,qemu-system-x86,%CPU,52.159468438538205
+5320,5347,qemu-system-x86,CPU time,157.0
+5348,5348,kvm-pit/5320,%CPU,0.0
+5348,5348,kvm-pit/5320,CPU time,0.0
+5320,5346,qemu-system-x86,%CPU,53.15614617940199
+5320,5346,qemu-system-x86,CPU time,160.0
+5320,5331,qemu-system-x86,%CPU,0.0
+5320,5331,qemu-system-x86,CPU time,0.0
+5335,5335,kvm-nx-lpage-re,%CPU,0.0
+5335,5335,kvm-nx-lpage-re,CPU time,0.0
+5320,5349,qemu-system-x86,%CPU,0.33222591362126247
+5320,5349,qemu-system-x86,CPU time,1.0
+5311,5311,kworker/9:0,%CPU,0.0
+5311,5311,kworker/9:0,CPU time,0.0
+5320,5320,qemu-system-x86,%CPU,4.318936877076412
+5320,5320,qemu-system-x86,CPU time,13.0
+5184,5184,virtlogd,%CPU,0.0
+5184,5184,virtlogd,CPU time,0.0
+5184,5195,virtlogd,%CPU,0.0
+5184,5195,virtlogd,CPU time,0.0
+5162,5164,gdbus,%CPU,0.0
+5162,5164,gdbus,CPU time,0.0
+5157,5157,dbus-daemon,%CPU,0.0
+5157,5157,dbus-daemon,CPU time,0.0
+5156,5156,dbus-launch,%CPU,0.0
+5156,5156,dbus-launch,CPU time,0.0
+5147,5160,virt-manager,%CPU,0.0
+5147,5160,virt-manager,CPU time,0.0
+5147,5159,gdbus,%CPU,0.0
+5147,5159,gdbus,CPU time,0.0
+5147,5158,gmain,%CPU,0.0
+5147,5158,gmain,CPU time,0.0
+5147,5147,virt-manager,%CPU,0.6644518272425249
+5147,5147,virt-manager,CPU time,2.0
+5162,5163,gmain,%CPU,0.0
+5162,5163,gmain,CPU time,0.0
+5162,5162,dconf-service,%CPU,0.0
+5162,5162,dconf-service,CPU time,0.0
+5111,5111,sshd,%CPU,0.0
+5111,5111,sshd,CPU time,0.0
+5112,5112,zsh,%CPU,0.0
+5112,5112,zsh,CPU time,0.0
+5060,5060,sshd,%CPU,0.0
+5060,5060,sshd,CPU time,0.0
+3895,5018,registry,%CPU,0.0
+3895,5018,registry,CPU time,0.0
+4932,4932,sshd,%CPU,0.0
+4932,4932,sshd,CPU time,0.0
+4933,4933,zsh,%CPU,0.0
+4933,4933,zsh,CPU time,0.0
+4894,4894,sshd,%CPU,0.0
+4894,4894,sshd,CPU time,0.0
+4861,4861,sshd,%CPU,0.0
+4861,4861,sshd,CPU time,0.0
+4862,4862,zsh,%CPU,0.0
+4862,4862,zsh,CPU time,0.0
+4816,4816,sshd,%CPU,0.0
+4816,4816,sshd,CPU time,0.0
+4815,4815,kworker/u272:3,%CPU,0.0
+4815,4815,kworker/u272:3,CPU time,0.0
+3895,4767,registry,%CPU,0.0
+3895,4767,registry,CPU time,0.0
+3895,4768,registry,%CPU,0.0
+3895,4768,registry,CPU time,0.0
+3895,4645,registry,%CPU,0.0
+3895,4645,registry,CPU time,0.0
+3895,4646,registry,%CPU,0.0
+3895,4646,registry,CPU time,0.0
+3895,4644,registry,%CPU,0.0
+3895,4644,registry,CPU time,0.0
+3895,4567,registry,%CPU,0.0
+3895,4567,registry,CPU time,0.0
+3895,4568,registry,%CPU,0.0
+3895,4568,registry,CPU time,0.0
+3895,4569,registry,%CPU,0.0
+3895,4569,registry,CPU time,0.0
+1806,4550,containerd,%CPU,0.0
+1806,4550,containerd,CPU time,0.0
+3895,4480,registry,%CPU,0.0
+3895,4480,registry,CPU time,0.0
+3895,4481,registry,%CPU,0.0
+3895,4481,registry,CPU time,0.0
+3895,4479,registry,%CPU,0.0
+3895,4479,registry,CPU time,0.0
+1806,4471,containerd,%CPU,0.0
+1806,4471,containerd,CPU time,0.0
+3860,4438,containerd-shim,%CPU,0.0
+3860,4438,containerd-shim,CPU time,0.0
+3895,3973,registry,%CPU,0.0
+3895,3973,registry,CPU time,0.0
+3895,3970,registry,%CPU,0.0
+3895,3970,registry,CPU time,0.0
+3895,3971,registry,%CPU,0.0
+3895,3971,registry,CPU time,0.0
+3895,3974,registry,%CPU,0.0
+3895,3974,registry,CPU time,0.0
+3895,3969,registry,%CPU,0.0
+3895,3969,registry,CPU time,0.0
+3895,3972,registry,%CPU,0.0
+3895,3972,registry,CPU time,0.0
+3895,3968,registry,%CPU,0.0
+3895,3968,registry,CPU time,0.0
+3860,3947,containerd-shim,%CPU,0.0
+3860,3947,containerd-shim,CPU time,0.0
+3860,3946,containerd-shim,%CPU,0.0
+3860,3946,containerd-shim,CPU time,0.0
+3895,3959,registry,%CPU,0.0
+3895,3959,registry,CPU time,0.0
+3895,3957,registry,%CPU,0.0
+3895,3957,registry,CPU time,0.0
+3895,3956,registry,%CPU,0.0
+3895,3956,registry,CPU time,0.0
+3895,3895,registry,%CPU,0.0
+3895,3895,registry,CPU time,0.0
+3895,3967,registry,%CPU,0.0
+3895,3967,registry,CPU time,0.0
+3895,3958,registry,%CPU,0.0
+3895,3958,registry,CPU time,0.0
+1806,3844,containerd,%CPU,0.0
+1806,3844,containerd,CPU time,0.0
+1806,3847,containerd,%CPU,0.0
+1806,3847,containerd,CPU time,0.0
+3836,3837,docker-proxy,%CPU,0.0
+3836,3837,docker-proxy,CPU time,0.0
+3860,3869,containerd-shim,%CPU,0.0
+3860,3869,containerd-shim,CPU time,0.0
+1806,3846,containerd,%CPU,0.0
+1806,3846,containerd,CPU time,0.0
+3836,3838,docker-proxy,%CPU,0.0
+3836,3838,docker-proxy,CPU time,0.0
+3836,3839,docker-proxy,%CPU,0.0
+3836,3839,docker-proxy,CPU time,0.0
+3836,3840,docker-proxy,%CPU,0.0
+3836,3840,docker-proxy,CPU time,0.0
+3836,3841,docker-proxy,%CPU,0.0
+3836,3841,docker-proxy,CPU time,0.0
+3836,3842,docker-proxy,%CPU,0.0
+3836,3842,docker-proxy,CPU time,0.0
+3836,3843,docker-proxy,%CPU,0.0
+3836,3843,docker-proxy,CPU time,0.0
+3836,3836,docker-proxy,%CPU,0.0
+3836,3836,docker-proxy,CPU time,0.0
+3860,3860,containerd-shim,%CPU,0.0
+3860,3860,containerd-shim,CPU time,0.0
+3860,3862,containerd-shim,%CPU,0.0
+3860,3862,containerd-shim,CPU time,0.0
+3860,3863,containerd-shim,%CPU,0.0
+3860,3863,containerd-shim,CPU time,0.0
+3860,3864,containerd-shim,%CPU,0.0
+3860,3864,containerd-shim,CPU time,0.0
+3860,3865,containerd-shim,%CPU,0.0
+3860,3865,containerd-shim,CPU time,0.0
+3860,3866,containerd-shim,%CPU,0.0
+3860,3866,containerd-shim,CPU time,0.0
+3860,3867,containerd-shim,%CPU,0.0
+3860,3867,containerd-shim,CPU time,0.0
+3860,3868,containerd-shim,%CPU,0.0
+3860,3868,containerd-shim,CPU time,0.0
+3860,3861,containerd-shim,%CPU,0.0
+3860,3861,containerd-shim,CPU time,0.0
+1806,3845,containerd,%CPU,0.0
+1806,3845,containerd,CPU time,0.0
+2433,3413,dockerd,%CPU,0.0
+2433,3413,dockerd,CPU time,0.0
+2433,3410,dockerd,%CPU,0.0
+2433,3410,dockerd,CPU time,0.0
+2433,3412,dockerd,%CPU,0.0
+2433,3412,dockerd,CPU time,0.0
+2433,3406,dockerd,%CPU,0.0
+2433,3406,dockerd,CPU time,0.0
+2433,3407,dockerd,%CPU,0.0
+2433,3407,dockerd,CPU time,0.0
+2433,3408,dockerd,%CPU,0.0
+2433,3408,dockerd,CPU time,0.0
+2433,3409,dockerd,%CPU,0.0
+2433,3409,dockerd,CPU time,0.0
+2433,3411,dockerd,%CPU,0.0
+2433,3411,dockerd,CPU time,0.0
+1806,3393,containerd,%CPU,0.0
+1806,3393,containerd,CPU time,0.0
+1806,3394,containerd,%CPU,0.0
+1806,3394,containerd,CPU time,0.0
+1806,3395,containerd,%CPU,0.0
+1806,3395,containerd,CPU time,0.0
+2433,3354,dockerd,%CPU,0.0
+2433,3354,dockerd,CPU time,0.0
+2433,3353,dockerd,%CPU,0.0
+2433,3353,dockerd,CPU time,0.0
+2433,3352,dockerd,%CPU,0.0
+2433,3352,dockerd,CPU time,0.0
+2433,3355,dockerd,%CPU,0.0
+2433,3355,dockerd,CPU time,0.0
+2433,3356,dockerd,%CPU,0.0
+2433,3356,dockerd,CPU time,0.0
+2433,3351,dockerd,%CPU,0.0
+2433,3351,dockerd,CPU time,0.0
+2433,3387,dockerd,%CPU,0.0
+2433,3387,dockerd,CPU time,0.0
+2433,3341,dockerd,%CPU,0.0
+2433,3341,dockerd,CPU time,0.0
+2433,3349,dockerd,%CPU,0.0
+2433,3349,dockerd,CPU time,0.0
+2433,3348,dockerd,%CPU,0.0
+2433,3348,dockerd,CPU time,0.0
+2433,3347,dockerd,%CPU,0.0
+2433,3347,dockerd,CPU time,0.0
+2433,3346,dockerd,%CPU,0.0
+2433,3346,dockerd,CPU time,0.0
+2433,3345,dockerd,%CPU,0.0
+2433,3345,dockerd,CPU time,0.0
+2433,3344,dockerd,%CPU,0.0
+2433,3344,dockerd,CPU time,0.0
+2433,3343,dockerd,%CPU,0.0
+2433,3343,dockerd,CPU time,0.0
+2433,3342,dockerd,%CPU,0.0
+2433,3342,dockerd,CPU time,0.0
+2433,3357,dockerd,%CPU,0.0
+2433,3357,dockerd,CPU time,0.0
+2433,3334,dockerd,%CPU,0.0
+2433,3334,dockerd,CPU time,0.0
+2433,3335,dockerd,%CPU,0.0
+2433,3335,dockerd,CPU time,0.0
+2433,3336,dockerd,%CPU,0.0
+2433,3336,dockerd,CPU time,0.0
+2433,3337,dockerd,%CPU,0.0
+2433,3337,dockerd,CPU time,0.0
+2433,3338,dockerd,%CPU,0.0
+2433,3338,dockerd,CPU time,0.0
+2433,3350,dockerd,%CPU,0.0
+2433,3350,dockerd,CPU time,0.0
+2433,3358,dockerd,%CPU,0.0
+2433,3358,dockerd,CPU time,0.0
+2433,3376,dockerd,%CPU,0.0
+2433,3376,dockerd,CPU time,0.0
+2433,3360,dockerd,%CPU,0.0
+2433,3360,dockerd,CPU time,0.0
+2433,3380,dockerd,%CPU,0.0
+2433,3380,dockerd,CPU time,0.0
+2433,3381,dockerd,%CPU,0.0
+2433,3381,dockerd,CPU time,0.0
+2433,3382,dockerd,%CPU,0.0
+2433,3382,dockerd,CPU time,0.0
+2433,3383,dockerd,%CPU,0.0
+2433,3383,dockerd,CPU time,0.0
+2433,3384,dockerd,%CPU,0.0
+2433,3384,dockerd,CPU time,0.0
+2433,3379,dockerd,%CPU,0.0
+2433,3379,dockerd,CPU time,0.0
+2433,3385,dockerd,%CPU,0.0
+2433,3385,dockerd,CPU time,0.0
+2433,3388,dockerd,%CPU,0.0
+2433,3388,dockerd,CPU time,0.0
+2433,3389,dockerd,%CPU,0.0
+2433,3389,dockerd,CPU time,0.0
+2433,3390,dockerd,%CPU,0.0
+2433,3390,dockerd,CPU time,0.0
+2433,3359,dockerd,%CPU,0.0
+2433,3359,dockerd,CPU time,0.0
+2433,3392,dockerd,%CPU,0.0
+2433,3392,dockerd,CPU time,0.0
+2433,3386,dockerd,%CPU,0.0
+2433,3386,dockerd,CPU time,0.0
+2433,3378,dockerd,%CPU,0.0
+2433,3378,dockerd,CPU time,0.0
+2433,3340,dockerd,%CPU,0.0
+2433,3340,dockerd,CPU time,0.0
+2433,3339,dockerd,%CPU,0.0
+2433,3339,dockerd,CPU time,0.0
+2433,3377,dockerd,%CPU,0.0
+2433,3377,dockerd,CPU time,0.0
+2433,3363,dockerd,%CPU,0.0
+2433,3363,dockerd,CPU time,0.0
+2433,3361,dockerd,%CPU,0.0
+2433,3361,dockerd,CPU time,0.0
+2433,3364,dockerd,%CPU,0.0
+2433,3364,dockerd,CPU time,0.0
+2433,3365,dockerd,%CPU,0.0
+2433,3365,dockerd,CPU time,0.0
+2433,3367,dockerd,%CPU,0.0
+2433,3367,dockerd,CPU time,0.0
+2433,3368,dockerd,%CPU,0.0
+2433,3368,dockerd,CPU time,0.0
+2433,3362,dockerd,%CPU,0.0
+2433,3362,dockerd,CPU time,0.0
+2433,3370,dockerd,%CPU,0.0
+2433,3370,dockerd,CPU time,0.0
+2433,3371,dockerd,%CPU,0.0
+2433,3371,dockerd,CPU time,0.0
+2433,3372,dockerd,%CPU,0.0
+2433,3372,dockerd,CPU time,0.0
+2433,3373,dockerd,%CPU,0.0
+2433,3373,dockerd,CPU time,0.0
+2433,3374,dockerd,%CPU,0.0
+2433,3374,dockerd,CPU time,0.0
+2433,3375,dockerd,%CPU,0.0
+2433,3375,dockerd,CPU time,0.0
+2433,3369,dockerd,%CPU,0.0
+2433,3369,dockerd,CPU time,0.0
+2433,3324,dockerd,%CPU,0.0
+2433,3324,dockerd,CPU time,0.0
+2433,3325,dockerd,%CPU,0.0
+2433,3325,dockerd,CPU time,0.0
+2433,3326,dockerd,%CPU,0.0
+2433,3326,dockerd,CPU time,0.0
+2433,3327,dockerd,%CPU,0.0
+2433,3327,dockerd,CPU time,0.0
+2433,3330,dockerd,%CPU,0.0
+2433,3330,dockerd,CPU time,0.0
+2433,3329,dockerd,%CPU,0.0
+2433,3329,dockerd,CPU time,0.0
+2433,3331,dockerd,%CPU,0.0
+2433,3331,dockerd,CPU time,0.0
+2433,3332,dockerd,%CPU,0.0
+2433,3332,dockerd,CPU time,0.0
+2433,3333,dockerd,%CPU,0.0
+2433,3333,dockerd,CPU time,0.0
+2433,3323,dockerd,%CPU,0.0
+2433,3323,dockerd,CPU time,0.0
+2433,3328,dockerd,%CPU,0.0
+2433,3328,dockerd,CPU time,0.0
+2433,3322,dockerd,%CPU,0.0
+2433,3322,dockerd,CPU time,0.0
+2433,3316,dockerd,%CPU,0.0
+2433,3316,dockerd,CPU time,0.0
+2433,3320,dockerd,%CPU,0.0
+2433,3320,dockerd,CPU time,0.0
+2433,3306,dockerd,%CPU,0.0
+2433,3306,dockerd,CPU time,0.0
+2433,3308,dockerd,%CPU,0.0
+2433,3308,dockerd,CPU time,0.0
+2433,3309,dockerd,%CPU,0.0
+2433,3309,dockerd,CPU time,0.0
+2433,3321,dockerd,%CPU,0.0
+2433,3321,dockerd,CPU time,0.0
+2433,3311,dockerd,%CPU,0.0
+2433,3311,dockerd,CPU time,0.0
+2433,3312,dockerd,%CPU,0.0
+2433,3312,dockerd,CPU time,0.0
+2433,3310,dockerd,%CPU,0.0
+2433,3310,dockerd,CPU time,0.0
+2433,3314,dockerd,%CPU,0.0
+2433,3314,dockerd,CPU time,0.0
+2433,3315,dockerd,%CPU,0.0
+2433,3315,dockerd,CPU time,0.0
+2433,3317,dockerd,%CPU,0.0
+2433,3317,dockerd,CPU time,0.0
+2433,3318,dockerd,%CPU,0.0
+2433,3318,dockerd,CPU time,0.0
+2433,3319,dockerd,%CPU,0.0
+2433,3319,dockerd,CPU time,0.0
+2433,3313,dockerd,%CPU,0.0
+2433,3313,dockerd,CPU time,0.0
+2433,3307,dockerd,%CPU,0.0
+2433,3307,dockerd,CPU time,0.0
+2433,3305,dockerd,%CPU,0.0
+2433,3305,dockerd,CPU time,0.0
+2433,3272,dockerd,%CPU,0.0
+2433,3272,dockerd,CPU time,0.0
+2433,3271,dockerd,%CPU,0.0
+2433,3271,dockerd,CPU time,0.0
+2433,3270,dockerd,%CPU,0.0
+2433,3270,dockerd,CPU time,0.0
+2433,3269,dockerd,%CPU,0.0
+2433,3269,dockerd,CPU time,0.0
+2433,3273,dockerd,%CPU,0.0
+2433,3273,dockerd,CPU time,0.0
+3257,3257,dnsmasq,%CPU,0.0
+3257,3257,dnsmasq,CPU time,0.0
+3258,3258,dnsmasq,%CPU,0.0
+3258,3258,dnsmasq,CPU time,0.0
+3227,3227,zsh,%CPU,0.0
+3227,3227,zsh,CPU time,0.0
+3222,3222,sshd,%CPU,0.0
+3222,3222,sshd,CPU time,0.0
+3155,3157,gdbus,%CPU,0.0
+3155,3157,gdbus,CPU time,0.0
+3155,3155,ibus-engine-sim,%CPU,0.0
+3155,3155,ibus-engine-sim,CPU time,0.0
+3155,3156,gmain,%CPU,0.0
+3155,3156,gmain,CPU time,0.0
+3113,3113,systemd,%CPU,0.0
+3113,3113,systemd,CPU time,0.0
+3114,3114,(sd-pam),%CPU,0.0
+3114,3114,(sd-pam),CPU time,0.0
+3086,3089,gmain,%CPU,0.0
+3086,3089,gmain,CPU time,0.0
+3091,3095,gmain,%CPU,0.0
+3091,3095,gmain,CPU time,0.0
+3091,3097,gdbus,%CPU,0.0
+3091,3097,gdbus,CPU time,0.0
+3094,3094,ibus-x11,%CPU,0.0
+3094,3094,ibus-x11,CPU time,0.0
+3094,3099,gmain,%CPU,0.0
+3094,3099,gmain,CPU time,0.0
+3094,3100,gdbus,%CPU,0.0
+3094,3100,gdbus,CPU time,0.0
+3086,3092,gdbus,%CPU,0.0
+3086,3092,gdbus,CPU time,0.0
+3086,3086,ibus-daemon,%CPU,0.0
+3086,3086,ibus-daemon,CPU time,0.0
+3091,3091,ibus-dconf,%CPU,0.0
+3091,3091,ibus-dconf,CPU time,0.0
+3010,3010,kworker/7:1H,%CPU,0.0
+3010,3010,kworker/7:1H,CPU time,0.0
+3009,3009,kworker/6:1H,%CPU,0.0
+3009,3009,kworker/6:1H,CPU time,0.0
+2881,3000,threaded-ml,%CPU,0.0
+2881,3000,threaded-ml,CPU time,0.0
+2881,2968,llvmpipe-15,%CPU,0.0
+2881,2968,llvmpipe-15,CPU time,0.0
+2881,2954,llvmpipe-1,%CPU,0.0
+2881,2954,llvmpipe-1,CPU time,0.0
+2881,2955,llvmpipe-2,%CPU,0.0
+2881,2955,llvmpipe-2,CPU time,0.0
+2881,2956,llvmpipe-3,%CPU,0.0
+2881,2956,llvmpipe-3,CPU time,0.0
+2881,2957,llvmpipe-4,%CPU,0.0
+2881,2957,llvmpipe-4,CPU time,0.0
+2881,2958,llvmpipe-5,%CPU,0.0
+2881,2958,llvmpipe-5,CPU time,0.0
+2881,2959,llvmpipe-6,%CPU,0.0
+2881,2959,llvmpipe-6,CPU time,0.0
+2881,2960,llvmpipe-7,%CPU,0.0
+2881,2960,llvmpipe-7,CPU time,0.0
+2881,2961,llvmpipe-8,%CPU,0.0
+2881,2961,llvmpipe-8,CPU time,0.0
+2881,2962,llvmpipe-9,%CPU,0.0
+2881,2962,llvmpipe-9,CPU time,0.0
+2881,2963,llvmpipe-10,%CPU,0.0
+2881,2963,llvmpipe-10,CPU time,0.0
+2881,2964,llvmpipe-11,%CPU,0.0
+2881,2964,llvmpipe-11,CPU time,0.0
+2881,2965,llvmpipe-12,%CPU,0.0
+2881,2965,llvmpipe-12,CPU time,0.0
+2881,2966,llvmpipe-13,%CPU,0.0
+2881,2966,llvmpipe-13,CPU time,0.0
+2881,2967,llvmpipe-14,%CPU,0.0
+2881,2967,llvmpipe-14,CPU time,0.0
+2881,2945,gmain,%CPU,0.0
+2881,2945,gmain,CPU time,0.0
+2881,2980,gdbus,%CPU,0.0
+2881,2980,gdbus,CPU time,0.0
+2806,2979,pool,%CPU,0.0
+2806,2979,pool,CPU time,0.0
+2898,2946,snapd-glib,%CPU,0.0
+2898,2946,snapd-glib,CPU time,0.0
+2881,2953,llvmpipe-0,%CPU,0.0
+2881,2953,llvmpipe-0,CPU time,0.0
+2898,2937,null-sink,%CPU,0.0
+2898,2937,null-sink,CPU time,0.0
+2905,2920,rtkit-daemon,%CPU,0.0
+2905,2920,rtkit-daemon,CPU time,0.0
+2905,2921,rtkit-daemon,%CPU,0.0
+2905,2921,rtkit-daemon,CPU time,0.0
+2925,2925,sshd,%CPU,0.0
+2925,2925,sshd,CPU time,0.0
+2884,2884,colord,%CPU,0.0
+2884,2884,colord,CPU time,0.0
+2884,2899,gmain,%CPU,0.0
+2884,2899,gmain,CPU time,0.0
+2905,2905,rtkit-daemon,%CPU,0.0
+2905,2905,rtkit-daemon,CPU time,0.0
+2898,2898,pulseaudio,%CPU,0.0
+2898,2898,pulseaudio,CPU time,0.0
+2884,2904,gdbus,%CPU,0.0
+2884,2904,gdbus,CPU time,0.0
+2881,2881,gnome-shell,%CPU,0.0
+2881,2881,gnome-shell,CPU time,0.0
+2833,2853,gdbus,%CPU,0.0
+2833,2853,gdbus,CPU time,0.0
+2833,2851,gmain,%CPU,0.0
+2833,2851,gmain,CPU time,0.0
+2833,2833,upowerd,%CPU,0.0
+2833,2833,upowerd,CPU time,0.0
+2806,2822,gdbus,%CPU,0.0
+2806,2822,gdbus,CPU time,0.0
+2806,2815,gmain,%CPU,0.0
+2806,2815,gmain,CPU time,0.0
+2806,2806,gnome-settings-,%CPU,0.0
+2806,2806,gnome-settings-,CPU time,0.0
+2730,2794,gmain,%CPU,0.0
+2730,2794,gmain,CPU time,0.0
+2730,2795,gdbus,%CPU,0.0
+2730,2795,gdbus,CPU time,0.0
+2753,2753,at-spi-bus-laun,%CPU,0.0
+2753,2753,at-spi-bus-laun,CPU time,0.0
+2753,2755,gmain,%CPU,0.0
+2753,2755,gmain,CPU time,0.0
+2753,2757,gdbus,%CPU,0.0
+2753,2757,gdbus,CPU time,0.0
+2758,2758,dbus-daemon,%CPU,0.0
+2758,2758,dbus-daemon,CPU time,0.0
+2760,2760,at-spi2-registr,%CPU,0.0
+2760,2760,at-spi2-registr,CPU time,0.0
+2760,2780,gdbus,%CPU,0.0
+2760,2780,gdbus,CPU time,0.0
+2760,2779,gmain,%CPU,0.0
+2760,2779,gmain,CPU time,0.0
+2730,2730,gnome-session-b,%CPU,0.0
+2730,2730,gnome-session-b,CPU time,0.0
+2570,2728,gdbus,%CPU,0.0
+2570,2728,gdbus,CPU time,0.0
+2682,2682,postgres,%CPU,0.33222591362126247
+2682,2682,postgres,CPU time,1.0
+2684,2684,postgres,%CPU,0.0
+2684,2684,postgres,CPU time,0.0
+2679,2679,postgres,%CPU,0.0
+2679,2679,postgres,CPU time,0.0
+2678,2678,postgres,%CPU,0.0
+2678,2678,postgres,CPU time,0.0
+2677,2677,postgres,%CPU,0.0
+2677,2677,postgres,CPU time,0.0
+2676,2676,dbus-daemon,%CPU,0.0
+2676,2676,dbus-daemon,CPU time,0.0
+2680,2680,postgres,%CPU,0.0
+2680,2680,postgres,CPU time,0.0
+2572,2654,llvmpipe-11,%CPU,0.0
+2572,2654,llvmpipe-11,CPU time,0.0
+2572,2656,llvmpipe-13,%CPU,0.0
+2572,2656,llvmpipe-13,CPU time,0.0
+2572,2643,llvmpipe-0,%CPU,0.0
+2572,2643,llvmpipe-0,CPU time,0.0
+2572,2644,llvmpipe-1,%CPU,0.0
+2572,2644,llvmpipe-1,CPU time,0.0
+2572,2645,llvmpipe-2,%CPU,0.0
+2572,2645,llvmpipe-2,CPU time,0.0
+2572,2657,llvmpipe-14,%CPU,0.0
+2572,2657,llvmpipe-14,CPU time,0.0
+2572,2646,llvmpipe-3,%CPU,0.0
+2572,2646,llvmpipe-3,CPU time,0.0
+2572,2648,llvmpipe-5,%CPU,0.0
+2572,2648,llvmpipe-5,CPU time,0.0
+2572,2649,llvmpipe-6,%CPU,0.0
+2572,2649,llvmpipe-6,CPU time,0.0
+2572,2650,llvmpipe-7,%CPU,0.0
+2572,2650,llvmpipe-7,CPU time,0.0
+2572,2651,llvmpipe-8,%CPU,0.0
+2572,2651,llvmpipe-8,CPU time,0.0
+2572,2652,llvmpipe-9,%CPU,0.0
+2572,2652,llvmpipe-9,CPU time,0.0
+2572,2653,llvmpipe-10,%CPU,0.0
+2572,2653,llvmpipe-10,CPU time,0.0
+2572,2647,llvmpipe-4,%CPU,0.0
+2572,2647,llvmpipe-4,CPU time,0.0
+2572,2658,llvmpipe-15,%CPU,0.0
+2572,2658,llvmpipe-15,CPU time,0.0
+2642,2642,kworker/10:1H,%CPU,0.0
+2642,2642,kworker/10:1H,CPU time,0.0
+2572,2655,llvmpipe-12,%CPU,0.0
+2572,2655,llvmpipe-12,CPU time,0.0
+2634,2634,postgres,%CPU,0.0
+2634,2634,postgres,CPU time,0.0
+2633,2633,postgres,%CPU,0.0
+2633,2633,postgres,CPU time,0.0
+2632,2632,postgres,%CPU,0.0
+2632,2632,postgres,CPU time,0.0
+2631,2631,postgres,%CPU,0.0
+2631,2631,postgres,CPU time,0.0
+2630,2630,postgres,%CPU,0.0
+2630,2630,postgres,CPU time,0.0
+2433,2635,dockerd,%CPU,0.0
+2433,2635,dockerd,CPU time,0.0
+2433,2591,dockerd,%CPU,0.0
+2433,2591,dockerd,CPU time,0.0
+2433,2596,dockerd,%CPU,0.0
+2433,2596,dockerd,CPU time,0.0
+2433,2597,dockerd,%CPU,0.0
+2433,2597,dockerd,CPU time,0.0
+2433,2598,dockerd,%CPU,0.0
+2433,2598,dockerd,CPU time,0.0
+2433,2599,dockerd,%CPU,0.0
+2433,2599,dockerd,CPU time,0.0
+2433,2593,dockerd,%CPU,0.0
+2433,2593,dockerd,CPU time,0.0
+2433,2601,dockerd,%CPU,0.0
+2433,2601,dockerd,CPU time,0.0
+2433,2592,dockerd,%CPU,0.0
+2433,2592,dockerd,CPU time,0.0
+2433,2595,dockerd,%CPU,0.0
+2433,2595,dockerd,CPU time,0.0
+2433,2600,dockerd,%CPU,0.0
+2433,2600,dockerd,CPU time,0.0
+2433,2594,dockerd,%CPU,0.0
+2433,2594,dockerd,CPU time,0.0
+2433,2585,dockerd,%CPU,0.0
+2433,2585,dockerd,CPU time,0.0
+2433,2576,dockerd,%CPU,0.0
+2433,2576,dockerd,CPU time,0.0
+2433,2577,dockerd,%CPU,0.0
+2433,2577,dockerd,CPU time,0.0
+2570,2571,gmain,%CPU,0.0
+2570,2571,gmain,CPU time,0.0
+2572,2572,Xorg,%CPU,0.0
+2572,2572,Xorg,CPU time,0.0
+2433,2575,dockerd,%CPU,0.0
+2433,2575,dockerd,CPU time,0.0
+2570,2570,gdm-x-session,%CPU,0.0
+2570,2570,gdm-x-session,CPU time,0.0
+2433,2573,dockerd,%CPU,0.0
+2433,2573,dockerd,CPU time,0.0
+2433,2574,dockerd,%CPU,0.0
+2433,2574,dockerd,CPU time,0.0
+2550,2550,(sd-pam),%CPU,0.0
+2550,2550,(sd-pam),CPU time,0.0
+2549,2549,systemd,%CPU,0.0
+2549,2549,systemd,CPU time,0.0
+2486,2486,postgres,%CPU,2.3255813953488373
+2486,2486,postgres,CPU time,7.0
+2474,2474,kworker/4:1H,%CPU,0.0
+2474,2474,kworker/4:1H,CPU time,0.0
+2476,2476,postgres,%CPU,0.0
+2476,2476,postgres,CPU time,0.0
+2477,2477,ntpd,%CPU,0.0
+2477,2477,ntpd,CPU time,0.0
+1931,2469,libvirtd,%CPU,0.0
+1931,2469,libvirtd,CPU time,0.0
+1931,2470,libvirtd,%CPU,0.0
+1931,2470,libvirtd,CPU time,0.0
+1931,2471,libvirtd,%CPU,0.0
+1931,2471,libvirtd,CPU time,0.0
+1931,2472,libvirtd,%CPU,0.0
+1931,2472,libvirtd,CPU time,0.0
+1931,2473,libvirtd,%CPU,0.0
+1931,2473,libvirtd,CPU time,0.0
+1738,2461,gmain,%CPU,0.0
+1738,2461,gmain,CPU time,0.0
+1806,2430,containerd,%CPU,0.0
+1806,2430,containerd,CPU time,0.0
+1806,2431,containerd,%CPU,0.0
+1806,2431,containerd,CPU time,0.0
+1806,2432,containerd,%CPU,0.0
+1806,2432,containerd,CPU time,0.0
+1931,2415,libvirtd,%CPU,0.0
+1931,2415,libvirtd,CPU time,0.0
+1931,2425,libvirtd,%CPU,0.0
+1931,2425,libvirtd,CPU time,0.0
+1931,2424,libvirtd,%CPU,0.0
+1931,2424,libvirtd,CPU time,0.0
+1931,2423,libvirtd,%CPU,0.0
+1931,2423,libvirtd,CPU time,0.0
+1931,2421,libvirtd,%CPU,0.0
+1931,2421,libvirtd,CPU time,0.0
+1931,2420,libvirtd,%CPU,0.0
+1931,2420,libvirtd,CPU time,0.0
+1931,2419,libvirtd,%CPU,0.0
+1931,2419,libvirtd,CPU time,0.0
+2433,2433,dockerd,%CPU,0.0
+2433,2433,dockerd,CPU time,0.0
+1931,2418,libvirtd,%CPU,0.0
+1931,2418,libvirtd,CPU time,0.0
+1931,2417,libvirtd,%CPU,0.0
+1931,2417,libvirtd,CPU time,0.0
+1931,2416,libvirtd,%CPU,0.0
+1931,2416,libvirtd,CPU time,0.0
+1806,2361,containerd,%CPU,0.0
+1806,2361,containerd,CPU time,0.0
+1806,2336,containerd,%CPU,0.0
+1806,2336,containerd,CPU time,0.0
+2388,2388,irqbalance,%CPU,0.0
+2388,2388,irqbalance,CPU time,0.0
+2391,2391,kworker/0:1H,%CPU,0.0
+2391,2391,kworker/0:1H,CPU time,0.0
+1806,2335,containerd,%CPU,0.0
+1806,2335,containerd,CPU time,0.0
+1806,2381,containerd,%CPU,0.0
+1806,2381,containerd,CPU time,0.0
+1806,2380,containerd,%CPU,0.0
+1806,2380,containerd,CPU time,0.0
+1806,2378,containerd,%CPU,0.0
+1806,2378,containerd,CPU time,0.0
+1806,2377,containerd,%CPU,0.0
+1806,2377,containerd,CPU time,0.0
+1806,2375,containerd,%CPU,0.0
+1806,2375,containerd,CPU time,0.0
+1806,2379,containerd,%CPU,0.0
+1806,2379,containerd,CPU time,0.0
+2250,2253,gdbus,%CPU,0.0
+2250,2253,gdbus,CPU time,0.0
+2250,2252,gmain,%CPU,0.0
+2250,2252,gmain,CPU time,0.0
+2208,2208,gdm3,%CPU,0.0
+2208,2208,gdm3,CPU time,0.0
+2208,2244,gmain,%CPU,0.0
+2208,2244,gmain,CPU time,0.0
+2250,2250,gdm-session-wor,%CPU,0.0
+2250,2250,gdm-session-wor,CPU time,0.0
+2216,2216,dbus,%CPU,0.0
+2216,2216,dbus,CPU time,0.0
+2208,2245,gdbus,%CPU,0.0
+2208,2245,gdbus,CPU time,0.0
+2218,2218,dbus,%CPU,0.0
+2218,2218,dbus,CPU time,0.0
+1806,2196,containerd,%CPU,0.0
+1806,2196,containerd,CPU time,0.0
+2077,2077,nginx,%CPU,0.0
+2077,2077,nginx,CPU time,0.0
+2076,2076,nginx,%CPU,0.0
+2076,2076,nginx,CPU time,0.0
+2074,2074,nginx,%CPU,0.0
+2074,2074,nginx,CPU time,0.0
+2072,2072,nginx,%CPU,0.0
+2072,2072,nginx,CPU time,0.0
+2070,2070,nginx,%CPU,0.0
+2070,2070,nginx,CPU time,0.0
+2068,2068,nginx,%CPU,0.0
+2068,2068,nginx,CPU time,0.0
+2067,2067,nginx,%CPU,0.0
+2067,2067,nginx,CPU time,0.0
+2065,2065,nginx,%CPU,0.0
+2065,2065,nginx,CPU time,0.0
+1806,2200,containerd,%CPU,0.0
+1806,2200,containerd,CPU time,0.0
+1806,2198,containerd,%CPU,0.0
+1806,2198,containerd,CPU time,0.0
+1806,2197,containerd,%CPU,0.0
+1806,2197,containerd,CPU time,0.0
+1806,2195,containerd,%CPU,0.0
+1806,2195,containerd,CPU time,0.0
+1469,2043,gdbus,%CPU,0.0
+1469,2043,gdbus,CPU time,0.0
+1469,2042,gmain,%CPU,0.0
+1469,2042,gmain,CPU time,0.0
+2078,2078,nginx,%CPU,0.0
+2078,2078,nginx,CPU time,0.0
+2080,2080,nginx,%CPU,0.0
+2080,2080,nginx,CPU time,0.0
+2066,2066,nginx,%CPU,0.0
+2066,2066,nginx,CPU time,0.0
+2083,2083,nginx,%CPU,0.0
+2083,2083,nginx,CPU time,0.0
+2152,2152,agetty,%CPU,0.0
+2152,2152,agetty,CPU time,0.0
+2082,2082,nginx,%CPU,0.0
+2082,2082,nginx,CPU time,0.0
+2086,2086,nginx,%CPU,0.0
+2086,2086,nginx,CPU time,0.0
+2085,2085,nginx,%CPU,0.0
+2085,2085,nginx,CPU time,0.0
+2084,2084,nginx,%CPU,0.0
+2084,2084,nginx,CPU time,0.0
+2087,2087,nginx,%CPU,0.0
+2087,2087,nginx,CPU time,0.0
+1931,1931,libvirtd,%CPU,0.0
+1931,1931,libvirtd,CPU time,0.0
+1858,1858,nfsd,%CPU,0.0
+1858,1858,nfsd,CPU time,0.0
+1893,1893,zabbix_agentd,%CPU,0.0
+1893,1893,zabbix_agentd,CPU time,0.0
+1892,1892,zabbix_agentd,%CPU,0.0
+1892,1892,zabbix_agentd,CPU time,0.0
+1890,1890,zabbix_agentd,%CPU,0.0
+1890,1890,zabbix_agentd,CPU time,0.0
+1889,1889,zabbix_agentd,%CPU,0.0
+1889,1889,zabbix_agentd,CPU time,0.0
+1852,1852,nfsd,%CPU,0.0
+1852,1852,nfsd,CPU time,0.0
+1853,1853,nfsd,%CPU,0.0
+1853,1853,nfsd,CPU time,0.0
+1855,1855,nfsd,%CPU,0.0
+1855,1855,nfsd,CPU time,0.0
+1856,1856,nfsd,%CPU,0.0
+1856,1856,nfsd,CPU time,0.0
+1857,1857,nfsd,%CPU,0.0
+1857,1857,nfsd,CPU time,0.0
+1860,1860,nfsd,%CPU,0.0
+1860,1860,nfsd,CPU time,0.0
+1859,1859,nfsd,%CPU,0.0
+1859,1859,nfsd,CPU time,0.0
+1888,1888,zabbix_agentd,%CPU,0.0
+1888,1888,zabbix_agentd,CPU time,0.0
+1811,1811,iscsid,%CPU,0.0
+1811,1811,iscsid,CPU time,0.0
+1814,1814,iscsid,%CPU,0.0
+1814,1814,iscsid,CPU time,0.0
+1832,1832,sshd,%CPU,0.0
+1832,1832,sshd,CPU time,0.0
+1840,1840,lockd,%CPU,0.0
+1840,1840,lockd,CPU time,0.0
+1847,1847,zabbix_agentd,%CPU,0.0
+1847,1847,zabbix_agentd,CPU time,0.0
+1762,1762,rpc.mountd,%CPU,0.0
+1762,1762,rpc.mountd,CPU time,0.0
+1738,1738,unattended-upgr,%CPU,0.0
+1738,1738,unattended-upgr,CPU time,0.0
+1806,1806,containerd,%CPU,0.0
+1806,1806,containerd,CPU time,0.0
+1534,1563,gdbus,%CPU,0.0
+1534,1563,gdbus,CPU time,0.0
+1534,1558,gmain,%CPU,0.0
+1534,1558,gmain,CPU time,0.0
+1534,1534,polkitd,%CPU,0.0
+1534,1534,polkitd,CPU time,0.0
+1519,1519,kworker/5:1H,%CPU,0.0
+1519,1519,kworker/5:1H,CPU time,0.0
+1266,1479,in:imuxsock,%CPU,0.0
+1266,1479,in:imuxsock,CPU time,0.0
+1266,1480,in:imklog,%CPU,0.0
+1266,1480,in:imklog,CPU time,0.0
+1491,1491,mdadm,%CPU,0.0
+1491,1491,mdadm,CPU time,0.0
+1369,1369,cron,%CPU,0.0
+1369,1369,cron,CPU time,0.0
+1286,1425,lxcfs,%CPU,0.0
+1286,1425,lxcfs,CPU time,0.0
+1286,1424,lxcfs,%CPU,0.0
+1286,1424,lxcfs,CPU time,0.0
+1469,1469,cups-browsed,%CPU,0.0
+1469,1469,cups-browsed,CPU time,0.0
+1464,1464,avahi-daemon,%CPU,0.0
+1464,1464,avahi-daemon,CPU time,0.0
+1254,1458,gmain,%CPU,0.0
+1254,1458,gmain,CPU time,0.0
+1254,1476,gdbus,%CPU,0.0
+1254,1476,gdbus,CPU time,0.0
+1260,1260,cgmanager,%CPU,0.0
+1260,1260,cgmanager,CPU time,0.0
+1266,1266,rsyslogd,%CPU,0.0
+1266,1266,rsyslogd,CPU time,0.0
+1254,1254,accounts-daemon,%CPU,0.0
+1254,1254,accounts-daemon,CPU time,0.0
+1341,1341,avahi-daemon,%CPU,0.0
+1341,1341,avahi-daemon,CPU time,0.0
+1286,1286,lxcfs,%CPU,0.0
+1286,1286,lxcfs,CPU time,0.0
+1279,1279,cupsd,%CPU,0.0
+1279,1279,cupsd,CPU time,0.0
+1247,1247,acpid,%CPU,0.0
+1247,1247,acpid,CPU time,0.0
+1233,1233,atd,%CPU,0.0
+1233,1233,atd,CPU time,0.0
+1114,1114,kworker/11:1H,%CPU,0.0
+1114,1114,kworker/11:1H,CPU time,0.0
+1148,1148,dbus-daemon,%CPU,0.0
+1148,1148,dbus-daemon,CPU time,0.0
+1136,1136,systemd-logind,%CPU,0.0
+1136,1136,systemd-logind,CPU time,0.0
+1099,1099,rpcbind,%CPU,0.0
+1099,1099,rpcbind,CPU time,0.0
+1094,1094,kworker/9:1H,%CPU,0.33222591362126247
+1094,1094,kworker/9:1H,CPU time,1.0
+1009,1009,kworker/8:1H,%CPU,0.0
+1009,1009,kworker/8:1H,CPU time,0.0
+888,888,kworker/2:1H,%CPU,0.0
+888,888,kworker/2:1H,CPU time,0.0
+818,818,kipmi0,%CPU,0.0
+818,818,kipmi0,CPU time,0.0
+645,645,rpc.idmapd,%CPU,0.0
+645,645,rpc.idmapd,CPU time,0.0
+632,632,kworker/8:2,%CPU,0.0
+632,632,kworker/8:2,CPU time,0.0
+590,590,ib_nl_sa_wq,%CPU,0.0
+590,590,ib_nl_sa_wq,CPU time,0.0
+589,589,ib_mcast,%CPU,0.0
+589,589,ib_mcast,CPU time,0.0
+599,599,kworker/5:2,%CPU,0.0
+599,599,kworker/5:2,CPU time,0.0
+588,588,ib-comp-unb-wq,%CPU,0.0
+588,588,ib-comp-unb-wq,CPU time,0.0
+587,587,ib-comp-wq,%CPU,0.0
+587,587,ib-comp-wq,CPU time,0.0
+591,591,rdma_cm,%CPU,0.0
+591,591,rdma_cm,CPU time,0.0
+601,601,kworker/15:2,%CPU,0.0
+601,601,kworker/15:2,CPU time,0.0
+595,595,kworker/4:2,%CPU,0.0
+595,595,kworker/4:2,CPU time,0.0
+609,609,systemd-udevd,%CPU,0.0
+609,609,systemd-udevd,CPU time,0.0
+605,605,kworker/2:2,%CPU,0.0
+605,605,kworker/2:2,CPU time,0.0
+569,569,kworker/7:2,%CPU,0.0
+569,569,kworker/7:2,CPU time,0.0
+586,586,iscsi_eh,%CPU,0.0
+586,586,iscsi_eh,CPU time,0.0
+575,575,lvmetad,%CPU,0.0
+575,575,lvmetad,CPU time,0.0
+555,555,xprtiod,%CPU,0.0
+555,555,xprtiod,CPU time,0.0
+554,554,rpciod,%CPU,0.0
+554,554,rpciod,CPU time,0.0
+551,551,systemd-journal,%CPU,0.0
+551,551,systemd-journal,CPU time,0.0
+545,545,kworker/12:1H,%CPU,0.0
+545,545,kworker/12:1H,CPU time,0.0
+528,528,kworker/13:2,%CPU,0.0
+528,528,kworker/13:2,CPU time,0.0
+541,541,kworker/11:2,%CPU,0.0
+541,541,kworker/11:2,CPU time,0.0
+542,542,kworker/14:1H,%CPU,0.0
+542,542,kworker/14:1H,CPU time,0.0
+533,533,kworker/14:2,%CPU,0.0
+533,533,kworker/14:2,CPU time,0.0
+557,557,kworker/1:1H,%CPU,0.0
+557,557,kworker/1:1H,CPU time,0.0
+548,548,kworker/10:2,%CPU,0.0
+548,548,kworker/10:2,CPU time,0.0
+561,561,kworker/6:2,%CPU,0.0
+561,561,kworker/6:2,CPU time,0.0
+517,517,kworker/3:1H,%CPU,0.0
+517,517,kworker/3:1H,CPU time,0.0
+516,516,kworker/15:1H,%CPU,0.0
+516,516,kworker/15:1H,CPU time,0.0
+471,471,ext4-rsv-conver,%CPU,0.0
+471,471,ext4-rsv-conver,CPU time,0.0
+470,470,jbd2/sda1-8,%CPU,0.0
+470,470,jbd2/sda1-8,CPU time,0.0
+418,418,raid5wq,%CPU,0.0
+418,418,raid5wq,CPU time,0.0
+348,348,ttm_swap,%CPU,0.0
+348,348,ttm_swap,CPU time,0.0
+350,350,kworker/13:1H,%CPU,0.0
+350,350,kworker/13:1H,CPU time,0.0
+314,314,scsi_tmf_6,%CPU,0.0
+314,314,scsi_tmf_6,CPU time,0.0
+313,313,scsi_eh_6,%CPU,0.0
+313,313,scsi_eh_6,CPU time,0.0
+307,307,scsi_tmf_3,%CPU,0.0
+307,307,scsi_tmf_3,CPU time,0.0
+309,309,scsi_eh_4,%CPU,0.0
+309,309,scsi_eh_4,CPU time,0.0
+311,311,scsi_eh_5,%CPU,0.0
+311,311,scsi_eh_5,CPU time,0.0
+312,312,scsi_tmf_5,%CPU,0.0
+312,312,scsi_tmf_5,CPU time,0.0
+310,310,scsi_tmf_4,%CPU,0.0
+310,310,scsi_tmf_4,CPU time,0.0
+306,306,scsi_eh_3,%CPU,0.0
+306,306,scsi_eh_3,CPU time,0.0
+305,305,scsi_tmf_2,%CPU,0.0
+305,305,scsi_tmf_2,CPU time,0.0
+304,304,0000:06:00.0_di,%CPU,0.0
+304,304,0000:06:00.0_di,CPU time,0.0
+303,303,scsi_eh_2,%CPU,0.0
+303,303,scsi_eh_2,CPU time,0.0
+302,302,0000:06:00.0_ev,%CPU,0.0
+302,302,0000:06:00.0_ev,CPU time,0.0
+301,301,scsi_tmf_1,%CPU,0.0
+301,301,scsi_tmf_1,CPU time,0.0
+300,300,scsi_wq_0,%CPU,0.0
+300,300,scsi_wq_0,CPU time,0.0
+299,299,scsi_eh_1,%CPU,0.0
+299,299,scsi_eh_1,CPU time,0.0
+298,298,scsi_tmf_0,%CPU,0.0
+298,298,scsi_tmf_0,CPU time,0.0
+297,297,scsi_eh_0,%CPU,0.0
+297,297,scsi_eh_0,CPU time,0.0
+221,221,charger_manager,%CPU,0.0
+221,221,charger_manager,CPU time,0.0
+195,195,ipv6_addrconf,%CPU,0.0
+195,195,ipv6_addrconf,CPU time,0.0
+204,204,kstrp,%CPU,0.0
+204,204,kstrp,CPU time,0.0
+191,191,kworker/3:2,%CPU,0.0
+191,191,kworker/3:2,CPU time,0.0
+190,190,kworker/1:2,%CPU,0.0
+190,190,kworker/1:2,CPU time,0.0
+140,140,kworker/u273:0,%CPU,0.0
+140,140,kworker/u273:0,CPU time,0.0
+141,141,ecryptfs-kthrea,%CPU,0.0
+141,141,ecryptfs-kthrea,CPU time,0.0
+183,183,kthrotld,%CPU,0.0
+183,183,kthrotld,CPU time,0.0
+185,185,kworker/0:3,%CPU,0.0
+185,185,kworker/0:3,CPU time,0.0
+186,186,kworker/0:4,%CPU,0.0
+186,186,kworker/0:4,CPU time,0.0
+188,188,acpi_thermal_pm,%CPU,0.0
+188,188,acpi_thermal_pm,CPU time,0.0
+139,139,kswapd0,%CPU,0.0
+139,139,kswapd0,CPU time,0.0
+36,36,kworker/4:0H,%CPU,0.0
+36,36,kworker/4:0H,CPU time,0.0
+103,103,kdevtmpfs,%CPU,0.0
+103,103,kdevtmpfs,CPU time,0.0
+104,104,netns,%CPU,0.0
+104,104,netns,CPU time,0.0
+102,102,kworker/15:0H,%CPU,0.0
+102,102,kworker/15:0H,CPU time,0.0
+100,100,ksoftirqd/15,%CPU,0.0
+100,100,ksoftirqd/15,CPU time,0.0
+99,99,migration/15,%CPU,0.0
+99,99,migration/15,CPU time,0.0
+98,98,watchdog/15,%CPU,0.0
+98,98,watchdog/15,CPU time,0.0
+97,97,cpuhp/15,%CPU,0.0
+97,97,cpuhp/15,CPU time,0.0
+96,96,kworker/14:0H,%CPU,0.0
+96,96,kworker/14:0H,CPU time,0.0
+94,94,ksoftirqd/14,%CPU,0.0
+94,94,ksoftirqd/14,CPU time,0.0
+93,93,migration/14,%CPU,0.0
+93,93,migration/14,CPU time,0.0
+92,92,watchdog/14,%CPU,0.0
+92,92,watchdog/14,CPU time,0.0
+91,91,cpuhp/14,%CPU,0.0
+91,91,cpuhp/14,CPU time,0.0
+90,90,kworker/13:0H,%CPU,0.0
+90,90,kworker/13:0H,CPU time,0.0
+88,88,ksoftirqd/13,%CPU,0.0
+88,88,ksoftirqd/13,CPU time,0.0
+87,87,migration/13,%CPU,0.0
+87,87,migration/13,CPU time,0.0
+86,86,watchdog/13,%CPU,0.0
+86,86,watchdog/13,CPU time,0.0
+85,85,cpuhp/13,%CPU,0.0
+85,85,cpuhp/13,CPU time,0.0
+84,84,kworker/12:0H,%CPU,0.0
+84,84,kworker/12:0H,CPU time,0.0
+82,82,ksoftirqd/12,%CPU,0.0
+82,82,ksoftirqd/12,CPU time,0.0
+81,81,migration/12,%CPU,0.0
+81,81,migration/12,CPU time,0.0
+80,80,watchdog/12,%CPU,0.0
+80,80,watchdog/12,CPU time,0.0
+79,79,cpuhp/12,%CPU,0.0
+79,79,cpuhp/12,CPU time,0.0
+78,78,kworker/11:0H,%CPU,0.0
+78,78,kworker/11:0H,CPU time,0.0
+76,76,ksoftirqd/11,%CPU,0.0
+76,76,ksoftirqd/11,CPU time,0.0
+75,75,migration/11,%CPU,0.0
+75,75,migration/11,CPU time,0.0
+74,74,watchdog/11,%CPU,0.0
+74,74,watchdog/11,CPU time,0.0
+105,105,rcu_tasks_kthre,%CPU,0.0
+105,105,rcu_tasks_kthre,CPU time,0.0
+73,73,cpuhp/11,%CPU,0.0
+73,73,cpuhp/11,CPU time,0.0
+106,106,kauditd,%CPU,0.0
+106,106,kauditd,CPU time,0.0
+109,109,kworker/2:1,%CPU,0.0
+109,109,kworker/2:1,CPU time,0.0
+135,135,kworker/15:1,%CPU,0.0
+135,135,kworker/15:1,CPU time,0.0
+134,134,kworker/14:1,%CPU,0.0
+134,134,kworker/14:1,CPU time,0.0
+133,133,kworker/13:1,%CPU,0.0
+133,133,kworker/13:1,CPU time,0.0
+132,132,kworker/12:1,%CPU,0.0
+132,132,kworker/12:1,CPU time,0.0
+131,131,kworker/11:1,%CPU,0.0
+131,131,kworker/11:1,CPU time,0.0
+129,129,kworker/9:1,%CPU,0.0
+129,129,kworker/9:1,CPU time,0.0
+128,128,kworker/8:1,%CPU,0.0
+128,128,kworker/8:1,CPU time,0.0
+127,127,kworker/3:1,%CPU,0.0
+127,127,kworker/3:1,CPU time,0.0
+126,126,kworker/4:1,%CPU,0.0
+126,126,kworker/4:1,CPU time,0.0
+125,125,watchdogd,%CPU,0.0
+125,125,watchdogd,CPU time,0.0
+124,124,devfreq_wq,%CPU,0.0
+124,124,devfreq_wq,CPU time,0.0
+123,123,edac-poller,%CPU,0.0
+123,123,edac-poller,CPU time,0.0
+122,122,md,%CPU,0.0
+122,122,md,CPU time,0.0
+121,121,ata_sff,%CPU,0.0
+121,121,ata_sff,CPU time,0.0
+120,120,kworker/6:1,%CPU,0.0
+120,120,kworker/6:1,CPU time,0.0
+119,119,kworker/5:1,%CPU,0.0
+119,119,kworker/5:1,CPU time,0.0
+118,118,kblockd,%CPU,0.0
+118,118,kblockd,CPU time,0.0
+117,117,kintegrityd,%CPU,0.0
+117,117,kintegrityd,CPU time,0.0
+116,116,crypto,%CPU,0.0
+116,116,crypto,CPU time,0.0
+115,115,khugepaged,%CPU,0.0
+115,115,khugepaged,CPU time,0.0
+114,114,ksmd,%CPU,0.0
+114,114,ksmd,CPU time,0.0
+113,113,kcompactd0,%CPU,0.0
+113,113,kcompactd0,CPU time,0.0
+112,112,writeback,%CPU,0.0
+112,112,writeback,CPU time,0.0
+111,111,oom_reaper,%CPU,0.0
+111,111,oom_reaper,CPU time,0.0
+110,110,khungtaskd,%CPU,0.0
+110,110,khungtaskd,CPU time,0.0
+108,108,kworker/1:1,%CPU,0.0
+108,108,kworker/1:1,CPU time,0.0
+136,136,kworker/7:1,%CPU,0.0
+136,136,kworker/7:1,CPU time,0.0
+72,72,kworker/10:0H,%CPU,0.0
+72,72,kworker/10:0H,CPU time,0.0
+69,69,migration/10,%CPU,0.0
+69,69,migration/10,CPU time,0.0
+16,16,ksoftirqd/1,%CPU,0.0
+16,16,ksoftirqd/1,CPU time,0.0
+18,18,kworker/1:0H,%CPU,0.0
+18,18,kworker/1:0H,CPU time,0.0
+19,19,cpuhp/2,%CPU,0.0
+19,19,cpuhp/2,CPU time,0.0
+20,20,watchdog/2,%CPU,0.0
+20,20,watchdog/2,CPU time,0.0
+21,21,migration/2,%CPU,0.0
+21,21,migration/2,CPU time,0.0
+22,22,ksoftirqd/2,%CPU,0.0
+22,22,ksoftirqd/2,CPU time,0.0
+24,24,kworker/2:0H,%CPU,0.0
+24,24,kworker/2:0H,CPU time,0.0
+25,25,cpuhp/3,%CPU,0.0
+25,25,cpuhp/3,CPU time,0.0
+26,26,watchdog/3,%CPU,0.0
+26,26,watchdog/3,CPU time,0.0
+27,27,migration/3,%CPU,0.0
+27,27,migration/3,CPU time,0.0
+28,28,ksoftirqd/3,%CPU,0.0
+28,28,ksoftirqd/3,CPU time,0.0
+30,30,kworker/3:0H,%CPU,0.0
+30,30,kworker/3:0H,CPU time,0.0
+31,31,cpuhp/4,%CPU,0.0
+31,31,cpuhp/4,CPU time,0.0
+32,32,watchdog/4,%CPU,0.0
+32,32,watchdog/4,CPU time,0.0
+33,33,migration/4,%CPU,0.0
+33,33,migration/4,CPU time,0.0
+34,34,ksoftirqd/4,%CPU,0.0
+34,34,ksoftirqd/4,CPU time,0.0
+49,49,cpuhp/7,%CPU,0.0
+49,49,cpuhp/7,CPU time,0.0
+37,37,cpuhp/5,%CPU,0.0
+37,37,cpuhp/5,CPU time,0.0
+38,38,watchdog/5,%CPU,0.0
+38,38,watchdog/5,CPU time,0.0
+39,39,migration/5,%CPU,0.0
+39,39,migration/5,CPU time,0.0
+40,40,ksoftirqd/5,%CPU,0.0
+40,40,ksoftirqd/5,CPU time,0.0
+42,42,kworker/5:0H,%CPU,0.0
+42,42,kworker/5:0H,CPU time,0.0
+43,43,cpuhp/6,%CPU,0.0
+43,43,cpuhp/6,CPU time,0.0
+44,44,watchdog/6,%CPU,0.0
+44,44,watchdog/6,CPU time,0.0
+45,45,migration/6,%CPU,0.0
+45,45,migration/6,CPU time,0.0
+15,15,migration/1,%CPU,0.0
+15,15,migration/1,CPU time,0.0
+70,70,ksoftirqd/10,%CPU,0.0
+70,70,ksoftirqd/10,CPU time,0.0
+14,14,watchdog/1,%CPU,0.0
+14,14,watchdog/1,CPU time,0.0
+12,12,cpuhp/0,%CPU,0.0
+12,12,cpuhp/0,CPU time,0.0
+68,68,watchdog/10,%CPU,0.0
+68,68,watchdog/10,CPU time,0.0
+67,67,cpuhp/10,%CPU,0.0
+67,67,cpuhp/10,CPU time,0.0
+66,66,kworker/9:0H,%CPU,0.0
+66,66,kworker/9:0H,CPU time,0.0
+64,64,ksoftirqd/9,%CPU,0.0
+64,64,ksoftirqd/9,CPU time,0.0
+63,63,migration/9,%CPU,0.0
+63,63,migration/9,CPU time,0.0
+62,62,watchdog/9,%CPU,0.0
+62,62,watchdog/9,CPU time,0.0
+61,61,cpuhp/9,%CPU,0.0
+61,61,cpuhp/9,CPU time,0.0
+60,60,kworker/8:0H,%CPU,0.0
+60,60,kworker/8:0H,CPU time,0.0
+58,58,ksoftirqd/8,%CPU,0.0
+58,58,ksoftirqd/8,CPU time,0.0
+57,57,migration/8,%CPU,0.0
+57,57,migration/8,CPU time,0.0
+56,56,watchdog/8,%CPU,0.0
+56,56,watchdog/8,CPU time,0.0
+55,55,cpuhp/8,%CPU,0.0
+55,55,cpuhp/8,CPU time,0.0
+54,54,kworker/7:0H,%CPU,0.0
+54,54,kworker/7:0H,CPU time,0.0
+52,52,ksoftirqd/7,%CPU,0.0
+52,52,ksoftirqd/7,CPU time,0.0
+51,51,migration/7,%CPU,0.0
+51,51,migration/7,CPU time,0.0
+50,50,watchdog/7,%CPU,0.0
+50,50,watchdog/7,CPU time,0.0
+1,1,systemd,%CPU,0.0
+1,1,systemd,CPU time,0.0
+2,2,kthreadd,%CPU,0.0
+2,2,kthreadd,CPU time,0.0
+4,4,kworker/0:0H,%CPU,0.0
+4,4,kworker/0:0H,CPU time,0.0
+6,6,mm_percpu_wq,%CPU,0.0
+6,6,mm_percpu_wq,CPU time,0.0
+7,7,ksoftirqd/0,%CPU,0.0
+7,7,ksoftirqd/0,CPU time,0.0
+8,8,rcu_sched,%CPU,0.33222591362126247
+8,8,rcu_sched,CPU time,1.0
+9,9,rcu_bh,%CPU,0.0
+9,9,rcu_bh,CPU time,0.0
+10,10,migration/0,%CPU,0.0
+10,10,migration/0,CPU time,0.0
+11,11,watchdog/0,%CPU,0.0
+11,11,watchdog/0,CPU time,0.0
+13,13,cpuhp/1,%CPU,0.0
+13,13,cpuhp/1,CPU time,0.0
+46,46,ksoftirqd/6,%CPU,0.0
+46,46,ksoftirqd/6,CPU time,0.0
+48,48,kworker/6:0H,%CPU,0.0
+48,48,kworker/6:0H,CPU time,0.0

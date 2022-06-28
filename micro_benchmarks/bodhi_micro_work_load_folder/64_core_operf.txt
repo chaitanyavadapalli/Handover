@@ -1,0 +1,762 @@
+CPU: Intel Broadwell microarchitecture, speed 3000 MHz (estimated)
+Counted CPU_CLK_UNHALTED events (Clock cycles when not halted) with a unit mask of 0x00 (No unit mask) count 100000
+CPU_CLK_UNHALT...|
+  samples|      %|
+------------------
+  5289929 81.2173 cc1plus
+	CPU_CLK_UNHALT...|
+	  samples|      %|
+	------------------
+	  4340918 82.0600 cc1plus
+	   647961 12.2490 kallsyms
+	   294624  5.5695 libc-2.31.so
+	     6200  0.1172 ld-2.31.so
+	       62  0.0012 libm-2.31.so
+	       30 5.7e-04 libmpfr.so.6.0.2
+	       18 3.4e-04 ip_vs
+	       16 3.0e-04 kvm
+	       15 2.8e-04 igb
+	       15 2.8e-04 libgmp.so.10.4.0
+	       12 2.3e-04 libisl.so.22.0.1
+	       11 2.1e-04 libdl-2.31.so
+	       11 2.1e-04 libz.so.1.2.11
+	       10 1.9e-04 binfmt_misc
+	        9 1.7e-04 libmpc.so.3.1.0
+	        2 3.8e-05 mlx5_core
+	        2 3.8e-05 nf_conntrack
+	        1 1.9e-05 [vdso] (tgid:937376 range:0x7ffef4598000-0x7ffef4599fff)
+	        1 1.9e-05 [vdso] (tgid:940658 range:0x7ffeb1fbb000-0x7ffeb1fbcfff)
+	        1 1.9e-05 [vdso] (tgid:946069 range:0x7ffd32d00000-0x7ffd32d01fff)
+	        1 1.9e-05 [vdso] (tgid:953476 range:0x7ffca6bdf000-0x7ffca6be0fff)
+	        1 1.9e-05 [vdso] (tgid:963714 range:0x7ffc56f45000-0x7ffc56f46fff)
+	        1 1.9e-05 [vdso] (tgid:983365 range:0x7ffdb697c000-0x7ffdb697dfff)
+	        1 1.9e-05 [vdso] (tgid:987514 range:0x7ffd64bea000-0x7ffd64bebfff)
+	        1 1.9e-05 [vdso] (tgid:990160 range:0x7fff6a4c2000-0x7fff6a4c3fff)
+	        1 1.9e-05 [vdso] (tgid:993572 range:0x7ffec53e2000-0x7ffec53e3fff)
+	        1 1.9e-05 br_netfilter
+	        1 1.9e-05 ip_tables
+	        1 1.9e-05 iptable_filter
+	        1 1.9e-05 nf_defrag_ipv4
+   947618 14.5490 libbfd-2.34-system.so
+	CPU_CLK_UNHALT...|
+	  samples|      %|
+	------------------
+	   567670 59.9049 libbfd-2.34-system.so
+	   182846 19.2953 kallsyms
+	   181610 19.1649 libc-2.31.so
+	    10534  1.1116 x86_64-linux-gnu-ld.bfd
+	     4508  0.4757 ld-2.31.so
+	      411  0.0434 liblto_plugin.so.0.0.0
+	       19  0.0020 libdl-2.31.so
+	       12  0.0013 libctf.so.0.0.0
+	        4 4.2e-04 libz.so.1.2.11
+	        2 2.1e-04 binfmt_misc
+	        1 1.1e-04 igb
+	        1 1.1e-04 ip_vs
+   165427  2.5398 as
+	CPU_CLK_UNHALT...|
+	  samples|      %|
+	------------------
+	   131054 79.2217 kallsyms
+	    12866  7.7774 x86_64-linux-gnu-as
+	    11083  6.6996 libc-2.31.so
+	     9091  5.4955 ld-2.31.so
+	     1252  0.7568 libbfd-2.34-system.so
+	       25  0.0151 libz.so.1.2.11
+	       24  0.0145 libopcodes-2.34-system.so
+	       19  0.0115 binfmt_misc
+	       13  0.0079 libdl-2.31.so
+    22881  0.3513 sh
+	CPU_CLK_UNHALT...|
+	  samples|      %|
+	------------------
+	    19254 84.1484 kallsyms
+	     2035  8.8938 ld-2.31.so
+	     1164  5.0872 libc-2.31.so
+	      407  1.7788 dash
+	       21  0.0918 binfmt_misc
+    13985  0.2147 g++
+	CPU_CLK_UNHALT...|
+	  samples|      %|
+	------------------
+	     9723 69.5245 kallsyms
+	     1891 13.5216 x86_64-linux-gnu-g++-9
+	     1704 12.1845 libc-2.31.so
+	      652  4.6621 ld-2.31.so
+	        6  0.0429 binfmt_misc
+	        1  0.0072 [vdso] (tgid:949302 range:0x7ffff257e000-0x7ffff257ffff)
+	        1  0.0072 [vdso] (tgid:953668 range:0x7fff497be000-0x7fff497bffff)
+	        1  0.0072 [vdso] (tgid:954423 range:0x7ffd90ef0000-0x7ffd90ef1fff)
+	        1  0.0072 [vdso] (tgid:954945 range:0x7ffecd90d000-0x7ffecd90efff)
+	        1  0.0072 [vdso] (tgid:959983 range:0x7ffff8bfa000-0x7ffff8bfbfff)
+	        1  0.0072 [vdso] (tgid:968170 range:0x7ffc5cb95000-0x7ffc5cb96fff)
+	        1  0.0072 [vdso] (tgid:974180 range:0x7ffe437be000-0x7ffe437bffff)
+	        1  0.0072 [vdso] (tgid:982060 range:0x7fff75b19000-0x7fff75b1afff)
+	        1  0.0072 [vdso] (tgid:993529 range:0x7fff129ce000-0x7fff129cffff)
+    12159  0.1867 collect2
+	CPU_CLK_UNHALT...|
+	  samples|      %|
+	------------------
+	     9763 80.2944 kallsyms
+	     1224 10.0666 libc-2.31.so
+	      879  7.2292 ld-2.31.so
+	      278  2.2864 collect2
+	       10  0.0822 binfmt_misc
+	        1  0.0082 [vdso] (tgid:954283 range:0x7ffc66346000-0x7ffc66347fff)
+	        1  0.0082 [vdso] (tgid:969233 range:0x7ffdbc592000-0x7ffdbc593fff)
+	        1  0.0082 [vdso] (tgid:980257 range:0x7ffefdd1b000-0x7ffefdd1cfff)
+	        1  0.0082 [vdso] (tgid:988835 range:0x7ffd50fc5000-0x7ffd50fc6fff)
+	        1  0.0082 [vdso] (tgid:994392 range:0x7ffe64f5f000-0x7ffe64f60fff)
+     9778  0.1501 bodhi_micro_work_load
+	CPU_CLK_UNHALT...|
+	  samples|      %|
+	------------------
+	     8274 84.6185 kallsyms
+	     1150 11.7611 ld-2.31.so
+	      295  3.0170 libc-2.31.so
+	       41  0.4193 libstdc++.so.6.0.29
+	       10  0.1023 bodhi_micro_work_load
+	        3  0.0307 libgcc_s.so.1
+	        2  0.0205 binfmt_misc
+	        1  0.0102 vxlan
+	        1  0.0102 libm-2.31.so
+	        1  0.0102 taskset
+     9700  0.1489 cpu_affinity_script.sh
+	CPU_CLK_UNHALT...|
+	  samples|      %|
+	------------------
+	     9700 100.000 kallsyms
+     8404  0.1290 x86_64-linux-gnu-ld.bfd
+	CPU_CLK_UNHALT...|
+	  samples|      %|
+	------------------
+	     4836 57.5440 libbfd-2.34-system.so
+	     2103 25.0238 kallsyms
+	     1283 15.2665 libc-2.31.so
+	      133  1.5826 x86_64-linux-gnu-ld.bfd
+	       45  0.5355 ld-2.31.so
+	        4  0.0476 liblto_plugin.so.0.0.0
+     8161  0.1253 dash
+	CPU_CLK_UNHALT...|
+	  samples|      %|
+	------------------
+	     6196 75.9221 kallsyms
+	     1042 12.7680 libc-2.31.so
+	      774  9.4841 ld-2.31.so
+	      125  1.5317 diff
+	       22  0.2696 dash
+	        2  0.0245 binfmt_misc
+     4410  0.0677 ld-2.31.so
+	CPU_CLK_UNHALT...|
+	  samples|      %|
+	------------------
+	     2803 63.5601 libbfd-2.34-system.so
+	      810 18.3673 libc-2.31.so
+	      727 16.4853 kallsyms
+	       48  1.0884 x86_64-linux-gnu-ld.bfd
+	       19  0.4308 ld-2.31.so
+	        3  0.0680 liblto_plugin.so.0.0.0
+     2567  0.0394 x86_64-linux-gnu-g++-9
+	CPU_CLK_UNHALT...|
+	  samples|      %|
+	------------------
+	     1917 74.6786 kallsyms
+	      321 12.5049 x86_64-linux-gnu-g++-9
+	      254  9.8948 libc-2.31.so
+	       74  2.8827 ld-2.31.so
+	        1  0.0390 [vdso] (tgid:994934 range:0x7ffde0d48000-0x7ffde0d49fff)
+     2431  0.0373 unknown
+	CPU_CLK_UNHALT...|
+	  samples|      %|
+	------------------
+	     1230 50.5965 libbfd-2.34-system.so
+	      692 28.4657 kallsyms
+	      507 20.8556 libc-2.31.so
+	        1  0.0411 libz.so.1.2.11
+	        1  0.0411 liblto_plugin.so.0.0.0
+      691  0.0106 bash
+	CPU_CLK_UNHALT...|
+	  samples|      %|
+	------------------
+	      622 90.0145 kallsyms
+	       41  5.9334 bash
+	       22  3.1838 libc-2.31.so
+	        6  0.8683 ld-2.31.so
+      613  0.0094 obj_file_16.o
+	CPU_CLK_UNHALT...|
+	  samples|      %|
+	------------------
+	      340 55.4649 kallsyms
+	      244 39.8042 ld-2.31.so
+	       18  2.9364 libc-2.31.so
+	       11  1.7945 libstdc++.so.6.0.29
+      499  0.0077 obj_file_0.o
+	CPU_CLK_UNHALT...|
+	  samples|      %|
+	------------------
+	      267 53.5070 kallsyms
+	      205 41.0822 ld-2.31.so
+	       13  2.6052 libc-2.31.so
+	       11  2.2044 libstdc++.so.6.0.29
+	        2  0.4008 libgcc_s.so.1
+	        1  0.2004 obj_file_0.o
+      447  0.0069 obj_file_48.o
+	CPU_CLK_UNHALT...|
+	  samples|      %|
+	------------------
+	      246 55.0336 kallsyms
+	      173 38.7025 ld-2.31.so
+	       15  3.3557 libc-2.31.so
+	       11  2.4609 libstdc++.so.6.0.29
+	        1  0.2237 libgcc_s.so.1
+	        1  0.2237 libm-2.31.so
+      400  0.0061 obj_file_13.o
+	CPU_CLK_UNHALT...|
+	  samples|      %|
+	------------------
+	      213 53.2500 kallsyms
+	      163 40.7500 ld-2.31.so
+	       12  3.0000 libc-2.31.so
+	       10  2.5000 libstdc++.so.6.0.29
+	        1  0.2500 obj_file_13.o
+	        1  0.2500 libgcc_s.so.1
+      369  0.0057 obj_file_14.o
+	CPU_CLK_UNHALT...|
+	  samples|      %|
+	------------------
+	      208 56.3686 kallsyms
+	      145 39.2954 ld-2.31.so
+	       10  2.7100 libc-2.31.so
+	        4  1.0840 libstdc++.so.6.0.29
+	        2  0.5420 libgcc_s.so.1
+      366  0.0056 obj_file_5.o
+	CPU_CLK_UNHALT...|
+	  samples|      %|
+	------------------
+	      204 55.7377 kallsyms
+	      149 40.7104 ld-2.31.so
+	        7  1.9126 libc-2.31.so
+	        3  0.8197 libstdc++.so.6.0.29
+	        2  0.5464 libgcc_s.so.1
+	        1  0.2732 binfmt_misc
+      361  0.0055 obj_file_4.o
+	CPU_CLK_UNHALT...|
+	  samples|      %|
+	------------------
+	      185 51.2465 kallsyms
+	      150 41.5512 ld-2.31.so
+	       14  3.8781 libc-2.31.so
+	        9  2.4931 libstdc++.so.6.0.29
+	        2  0.5540 libgcc_s.so.1
+	        1  0.2770 libm-2.31.so
+      360  0.0055 obj_file_46.o
+	CPU_CLK_UNHALT...|
+	  samples|      %|
+	------------------
+	      195 54.1667 kallsyms
+	      148 41.1111 ld-2.31.so
+	       11  3.0556 libc-2.31.so
+	        5  1.3889 libstdc++.so.6.0.29
+	        1  0.2778 libgcc_s.so.1
+      343  0.0053 obj_file_47.o
+	CPU_CLK_UNHALT...|
+	  samples|      %|
+	------------------
+	      186 54.2274 kallsyms
+	      136 39.6501 ld-2.31.so
+	       10  2.9155 libc-2.31.so
+	        8  2.3324 libstdc++.so.6.0.29
+	        2  0.5831 libm-2.31.so
+	        1  0.2915 libgcc_s.so.1
+      335  0.0051 obj_file_18.o
+	CPU_CLK_UNHALT...|
+	  samples|      %|
+	------------------
+	      178 53.1343 kallsyms
+	      138 41.1940 ld-2.31.so
+	       11  3.2836 libstdc++.so.6.0.29
+	        7  2.0896 libc-2.31.so
+	        1  0.2985 libgcc_s.so.1
+      323  0.0050 obj_file_61.o
+	CPU_CLK_UNHALT...|
+	  samples|      %|
+	------------------
+	      166 51.3932 kallsyms
+	      144 44.5820 ld-2.31.so
+	       10  3.0960 libc-2.31.so
+	        3  0.9288 libstdc++.so.6.0.29
+      321  0.0049 obj_file_62.o
+	CPU_CLK_UNHALT...|
+	  samples|      %|
+	------------------
+	      179 55.7632 kallsyms
+	      123 38.3178 ld-2.31.so
+	       13  4.0498 libc-2.31.so
+	        4  1.2461 libstdc++.so.6.0.29
+	        2  0.6231 libm-2.31.so
+      286  0.0044 obj_file_30.o
+	CPU_CLK_UNHALT...|
+	  samples|      %|
+	------------------
+	      157 54.8951 kallsyms
+	      118 41.2587 ld-2.31.so
+	        6  2.0979 libc-2.31.so
+	        3  1.0490 libstdc++.so.6.0.29
+	        1  0.3497 libgcc_s.so.1
+	        1  0.3497 libm-2.31.so
+      285  0.0044 obj_file_26.o
+	CPU_CLK_UNHALT...|
+	  samples|      %|
+	------------------
+	      153 53.6842 kallsyms
+	      119 41.7544 ld-2.31.so
+	        8  2.8070 libc-2.31.so
+	        4  1.4035 libstdc++.so.6.0.29
+	        1  0.3509 libgcc_s.so.1
+      280  0.0043 obj_file_11.o
+	CPU_CLK_UNHALT...|
+	  samples|      %|
+	------------------
+	      160 57.1429 kallsyms
+	      107 38.2143 ld-2.31.so
+	        8  2.8571 libstdc++.so.6.0.29
+	        5  1.7857 libc-2.31.so
+      278  0.0043 obj_file_39.o
+	CPU_CLK_UNHALT...|
+	  samples|      %|
+	------------------
+	      151 54.3165 kallsyms
+	      113 40.6475 ld-2.31.so
+	        8  2.8777 libc-2.31.so
+	        5  1.7986 libstdc++.so.6.0.29
+	        1  0.3597 libm-2.31.so
+      278  0.0043 obj_file_40.o
+	CPU_CLK_UNHALT...|
+	  samples|      %|
+	------------------
+	      140 50.3597 kallsyms
+	      125 44.9640 ld-2.31.so
+	        8  2.8777 libc-2.31.so
+	        3  1.0791 libstdc++.so.6.0.29
+	        2  0.7194 libm-2.31.so
+      276  0.0042 obj_file_50.o
+	CPU_CLK_UNHALT...|
+	  samples|      %|
+	------------------
+	      150 54.3478 kallsyms
+	      113 40.9420 ld-2.31.so
+	        8  2.8986 libc-2.31.so
+	        5  1.8116 libstdc++.so.6.0.29
+      274  0.0042 obj_file_21.o
+	CPU_CLK_UNHALT...|
+	  samples|      %|
+	------------------
+	      149 54.3796 kallsyms
+	      104 37.9562 ld-2.31.so
+	       10  3.6496 libstdc++.so.6.0.29
+	        9  3.2847 libc-2.31.so
+	        1  0.3650 binfmt_misc
+	        1  0.3650 libm-2.31.so
+      274  0.0042 obj_file_44.o
+	CPU_CLK_UNHALT...|
+	  samples|      %|
+	------------------
+	      154 56.2044 kallsyms
+	      106 38.6861 ld-2.31.so
+	        8  2.9197 libc-2.31.so
+	        6  2.1898 libstdc++.so.6.0.29
+      269  0.0041 obj_file_49.o
+	CPU_CLK_UNHALT...|
+	  samples|      %|
+	------------------
+	      150 55.7621 kallsyms
+	      104 38.6617 ld-2.31.so
+	        9  3.3457 libc-2.31.so
+	        4  1.4870 libstdc++.so.6.0.29
+	        1  0.3717 libgcc_s.so.1
+	        1  0.3717 libm-2.31.so
+      267  0.0041 obj_file_34.o
+	CPU_CLK_UNHALT...|
+	  samples|      %|
+	------------------
+	      139 52.0599 kallsyms
+	      114 42.6966 ld-2.31.so
+	        7  2.6217 libstdc++.so.6.0.29
+	        6  2.2472 libc-2.31.so
+	        1  0.3745 libm-2.31.so
+      264  0.0041 obj_file_31.o
+	CPU_CLK_UNHALT...|
+	  samples|      %|
+	------------------
+	      134 50.7576 kallsyms
+	      119 45.0758 ld-2.31.so
+	        6  2.2727 libc-2.31.so
+	        4  1.5152 libstdc++.so.6.0.29
+	        1  0.3788 libgcc_s.so.1
+      262  0.0040 obj_file_37.o
+	CPU_CLK_UNHALT...|
+	  samples|      %|
+	------------------
+	      140 53.4351 kallsyms
+	      110 41.9847 ld-2.31.so
+	        8  3.0534 libc-2.31.so
+	        4  1.5267 libstdc++.so.6.0.29
+      261  0.0040 obj_file_45.o
+	CPU_CLK_UNHALT...|
+	  samples|      %|
+	------------------
+	      136 52.1073 kallsyms
+	      111 42.5287 ld-2.31.so
+	        9  3.4483 libc-2.31.so
+	        5  1.9157 libstdc++.so.6.0.29
+      241  0.0037 obj_file_43.o
+	CPU_CLK_UNHALT...|
+	  samples|      %|
+	------------------
+	      128 53.1120 kallsyms
+	      103 42.7386 ld-2.31.so
+	        6  2.4896 libc-2.31.so
+	        4  1.6598 libstdc++.so.6.0.29
+      238  0.0037 obj_file_54.o
+	CPU_CLK_UNHALT...|
+	  samples|      %|
+	------------------
+	      125 52.5210 kallsyms
+	       99 41.5966 ld-2.31.so
+	        7  2.9412 libc-2.31.so
+	        4  1.6807 libstdc++.so.6.0.29
+	        3  1.2605 libm-2.31.so
+      229  0.0035 obj_file_25.o
+	CPU_CLK_UNHALT...|
+	  samples|      %|
+	------------------
+	      123 53.7118 kallsyms
+	       95 41.4847 ld-2.31.so
+	        7  3.0568 libc-2.31.so
+	        3  1.3100 libstdc++.so.6.0.29
+	        1  0.4367 libm-2.31.so
+      229  0.0035 obj_file_9.o
+	CPU_CLK_UNHALT...|
+	  samples|      %|
+	------------------
+	      123 53.7118 kallsyms
+	       91 39.7380 ld-2.31.so
+	        9  3.9301 libc-2.31.so
+	        5  2.1834 libstdc++.so.6.0.29
+	        1  0.4367 obj_file_9.o
+      227  0.0035 obj_file_41.o
+	CPU_CLK_UNHALT...|
+	  samples|      %|
+	------------------
+	      124 54.6256 kallsyms
+	       91 40.0881 ld-2.31.so
+	        7  3.0837 libc-2.31.so
+	        4  1.7621 libstdc++.so.6.0.29
+	        1  0.4405 libgcc_s.so.1
+      226  0.0035 obj_file_51.o
+	CPU_CLK_UNHALT...|
+	  samples|      %|
+	------------------
+	      115 50.8850 kallsyms
+	       99 43.8053 ld-2.31.so
+	        4  1.7699 libc-2.31.so
+	        4  1.7699 libstdc++.so.6.0.29
+	        1  0.4425 obj_file_51.o
+	        1  0.4425 binfmt_misc
+	        1  0.4425 libgcc_s.so.1
+	        1  0.4425 libm-2.31.so
+      225  0.0035 obj_file_35.o
+	CPU_CLK_UNHALT...|
+	  samples|      %|
+	------------------
+	      121 53.7778 kallsyms
+	       96 42.6667 ld-2.31.so
+	        4  1.7778 libc-2.31.so
+	        3  1.3333 libstdc++.so.6.0.29
+	        1  0.4444 libm-2.31.so
+      219  0.0034 obj_file_57.o
+	CPU_CLK_UNHALT...|
+	  samples|      %|
+	------------------
+	      117 53.4247 kallsyms
+	       91 41.5525 ld-2.31.so
+	        6  2.7397 libc-2.31.so
+	        5  2.2831 libstdc++.so.6.0.29
+      217  0.0033 obj_file_63.o
+	CPU_CLK_UNHALT...|
+	  samples|      %|
+	------------------
+	      109 50.2304 kallsyms
+	       93 42.8571 ld-2.31.so
+	        9  4.1475 libc-2.31.so
+	        4  1.8433 libstdc++.so.6.0.29
+	        1  0.4608 libgcc_s.so.1
+	        1  0.4608 libm-2.31.so
+      214  0.0033 obj_file_60.o
+	CPU_CLK_UNHALT...|
+	  samples|      %|
+	------------------
+	      113 52.8037 kallsyms
+	       87 40.6542 ld-2.31.so
+	        7  3.2710 libstdc++.so.6.0.29
+	        6  2.8037 libc-2.31.so
+	        1  0.4673 libgcc_s.so.1
+      213  0.0033 obj_file_22.o
+	CPU_CLK_UNHALT...|
+	  samples|      %|
+	------------------
+	      109 51.1737 kallsyms
+	       94 44.1315 ld-2.31.so
+	        5  2.3474 libc-2.31.so
+	        3  1.4085 libstdc++.so.6.0.29
+	        2  0.9390 libgcc_s.so.1
+      212  0.0033 obj_file_15.o
+	CPU_CLK_UNHALT...|
+	  samples|      %|
+	------------------
+	      124 58.4906 kallsyms
+	       78 36.7925 ld-2.31.so
+	        8  3.7736 libc-2.31.so
+	        1  0.4717 libm-2.31.so
+	        1  0.4717 libstdc++.so.6.0.29
+      211  0.0032 obj_file_6.o
+	CPU_CLK_UNHALT...|
+	  samples|      %|
+	------------------
+	      116 54.9763 kallsyms
+	       80 37.9147 ld-2.31.so
+	        8  3.7915 libstdc++.so.6.0.29
+	        5  2.3697 libc-2.31.so
+	        1  0.4739 obj_file_6.o
+	        1  0.4739 libgcc_s.so.1
+      208  0.0032 obj_file_55.o
+	CPU_CLK_UNHALT...|
+	  samples|      %|
+	------------------
+	      116 55.7692 kallsyms
+	       85 40.8654 ld-2.31.so
+	        5  2.4038 libc-2.31.so
+	        2  0.9615 libstdc++.so.6.0.29
+      181  0.0028 obj_file_19.o
+	CPU_CLK_UNHALT...|
+	  samples|      %|
+	------------------
+	      103 56.9061 kallsyms
+	       71 39.2265 ld-2.31.so
+	        3  1.6575 libc-2.31.so
+	        3  1.6575 libstdc++.so.6.0.29
+	        1  0.5525 libgcc_s.so.1
+      181  0.0028 obj_file_23.o
+	CPU_CLK_UNHALT...|
+	  samples|      %|
+	------------------
+	       96 53.0387 kallsyms
+	       75 41.4365 ld-2.31.so
+	        7  3.8674 libc-2.31.so
+	        3  1.6575 libstdc++.so.6.0.29
+      181  0.0028 obj_file_29.o
+	CPU_CLK_UNHALT...|
+	  samples|      %|
+	------------------
+	       96 53.0387 kallsyms
+	       73 40.3315 ld-2.31.so
+	        6  3.3149 libc-2.31.so
+	        5  2.7624 libstdc++.so.6.0.29
+	        1  0.5525 libgcc_s.so.1
+      181  0.0028 obj_file_32.o
+	CPU_CLK_UNHALT...|
+	  samples|      %|
+	------------------
+	       92 50.8287 kallsyms
+	       82 45.3039 ld-2.31.so
+	        3  1.6575 libc-2.31.so
+	        3  1.6575 libstdc++.so.6.0.29
+	        1  0.5525 libgcc_s.so.1
+      180  0.0028 obj_file_20.o
+	CPU_CLK_UNHALT...|
+	  samples|      %|
+	------------------
+	       99 55.0000 kallsyms
+	       70 38.8889 ld-2.31.so
+	        5  2.7778 libc-2.31.so
+	        4  2.2222 libstdc++.so.6.0.29
+	        2  1.1111 libm-2.31.so
+      178  0.0027 obj_file_27.o
+	CPU_CLK_UNHALT...|
+	  samples|      %|
+	------------------
+	       94 52.8090 kallsyms
+	       73 41.0112 ld-2.31.so
+	        6  3.3708 libstdc++.so.6.0.29
+	        5  2.8090 libc-2.31.so
+      176  0.0027 obj_file_38.o
+	CPU_CLK_UNHALT...|
+	  samples|      %|
+	------------------
+	       97 55.1136 kallsyms
+	       69 39.2045 ld-2.31.so
+	        5  2.8409 libc-2.31.so
+	        5  2.8409 libstdc++.so.6.0.29
+      176  0.0027 obj_file_7.o
+	CPU_CLK_UNHALT...|
+	  samples|      %|
+	------------------
+	       91 51.7045 kallsyms
+	       78 44.3182 ld-2.31.so
+	        3  1.7045 libc-2.31.so
+	        3  1.7045 libstdc++.so.6.0.29
+	        1  0.5682 libgcc_s.so.1
+      173  0.0027 obj_file_1.o
+	CPU_CLK_UNHALT...|
+	  samples|      %|
+	------------------
+	       92 53.1792 kallsyms
+	       75 43.3526 ld-2.31.so
+	        3  1.7341 libc-2.31.so
+	        3  1.7341 libstdc++.so.6.0.29
+      173  0.0027 obj_file_2.o
+	CPU_CLK_UNHALT...|
+	  samples|      %|
+	------------------
+	       84 48.5549 ld-2.31.so
+	       77 44.5087 kallsyms
+	        5  2.8902 libstdc++.so.6.0.29
+	        4  2.3121 libc-2.31.so
+	        2  1.1561 libgcc_s.so.1
+	        1  0.5780 libm-2.31.so
+      173  0.0027 obj_file_28.o
+	CPU_CLK_UNHALT...|
+	  samples|      %|
+	------------------
+	       88 50.8671 kallsyms
+	       73 42.1965 ld-2.31.so
+	        8  4.6243 libc-2.31.so
+	        3  1.7341 libstdc++.so.6.0.29
+	        1  0.5780 libm-2.31.so
+      173  0.0027 obj_file_56.o
+	CPU_CLK_UNHALT...|
+	  samples|      %|
+	------------------
+	       91 52.6012 kallsyms
+	       73 42.1965 ld-2.31.so
+	        5  2.8902 libc-2.31.so
+	        2  1.1561 libstdc++.so.6.0.29
+	        1  0.5780 libgcc_s.so.1
+	        1  0.5780 libm-2.31.so
+      173  0.0027 obj_file_8.o
+	CPU_CLK_UNHALT...|
+	  samples|      %|
+	------------------
+	       95 54.9133 kallsyms
+	       69 39.8844 ld-2.31.so
+	        6  3.4682 libc-2.31.so
+	        2  1.1561 libstdc++.so.6.0.29
+	        1  0.5780 libgcc_s.so.1
+      156  0.0024 obj_file_24.o
+	CPU_CLK_UNHALT...|
+	  samples|      %|
+	------------------
+	       86 55.1282 kallsyms
+	       59 37.8205 ld-2.31.so
+	        7  4.4872 libc-2.31.so
+	        2  1.2821 libgcc_s.so.1
+	        2  1.2821 libstdc++.so.6.0.29
+      154  0.0024 x86_64-linux-gnu-as
+	CPU_CLK_UNHALT...|
+	  samples|      %|
+	------------------
+	      121 78.5714 kallsyms
+	       16 10.3896 x86_64-linux-gnu-as
+	        8  5.1948 ld-2.31.so
+	        8  5.1948 libc-2.31.so
+	        1  0.6494 libbfd-2.34-system.so
+      151  0.0023 obj_file_58.o
+	CPU_CLK_UNHALT...|
+	  samples|      %|
+	------------------
+	       81 53.6424 kallsyms
+	       60 39.7351 ld-2.31.so
+	        7  4.6358 libstdc++.so.6.0.29
+	        2  1.3245 libc-2.31.so
+	        1  0.6623 libgcc_s.so.1
+      118  0.0018 obj_file_33.o
+	CPU_CLK_UNHALT...|
+	  samples|      %|
+	------------------
+	       62 52.5424 kallsyms
+	       51 43.2203 ld-2.31.so
+	        5  4.2373 libc-2.31.so
+      118  0.0018 obj_file_42.o
+	CPU_CLK_UNHALT...|
+	  samples|      %|
+	------------------
+	       66 55.9322 kallsyms
+	       46 38.9831 ld-2.31.so
+	        4  3.3898 libstdc++.so.6.0.29
+	        2  1.6949 libc-2.31.so
+      117  0.0018 obj_file_3.o
+	CPU_CLK_UNHALT...|
+	  samples|      %|
+	------------------
+	       63 53.8462 kallsyms
+	       47 40.1709 ld-2.31.so
+	        5  4.2735 libstdc++.so.6.0.29
+	        2  1.7094 libc-2.31.so
+      114  0.0018 obj_file_10.o
+	CPU_CLK_UNHALT...|
+	  samples|      %|
+	------------------
+	       59 51.7544 kallsyms
+	       49 42.9825 ld-2.31.so
+	        3  2.6316 libc-2.31.so
+	        2  1.7544 libstdc++.so.6.0.29
+	        1  0.8772 libgcc_s.so.1
+      114  0.0018 obj_file_36.o
+	CPU_CLK_UNHALT...|
+	  samples|      %|
+	------------------
+	       65 57.0175 kallsyms
+	       41 35.9649 ld-2.31.so
+	        5  4.3860 libc-2.31.so
+	        3  2.6316 libstdc++.so.6.0.29
+      103  0.0016 obj_file_12.o
+	CPU_CLK_UNHALT...|
+	  samples|      %|
+	------------------
+	       58 56.3107 kallsyms
+	       38 36.8932 ld-2.31.so
+	        4  3.8835 libstdc++.so.6.0.29
+	        3  2.9126 libc-2.31.so
+      101  0.0016 obj_file_53.o
+	CPU_CLK_UNHALT...|
+	  samples|      %|
+	------------------
+	       57 56.4356 kallsyms
+	       37 36.6337 ld-2.31.so
+	        3  2.9703 libstdc++.so.6.0.29
+	        2  1.9802 libc-2.31.so
+	        2  1.9802 libgcc_s.so.1
+      100  0.0015 obj_file_59.o
+	CPU_CLK_UNHALT...|
+	  samples|      %|
+	------------------
+	       54 54.0000 kallsyms
+	       42 42.0000 ld-2.31.so
+	        2  2.0000 libstdc++.so.6.0.29
+	        1  1.0000 libc-2.31.so
+	        1  1.0000 libgcc_s.so.1
+       59 9.1e-04 obj_file_17.o
+	CPU_CLK_UNHALT...|
+	  samples|      %|
+	------------------
+	       32 54.2373 kallsyms
+	       26 44.0678 ld-2.31.so
+	        1  1.6949 libgcc_s.so.1
+       59 9.1e-04 obj_file_52.o
+	CPU_CLK_UNHALT...|
+	  samples|      %|
+	------------------
+	       34 57.6271 kallsyms
+	       22 37.2881 ld-2.31.so
+	        2  3.3898 libc-2.31.so
+	        1  1.6949 libstdc++.so.6.0.29

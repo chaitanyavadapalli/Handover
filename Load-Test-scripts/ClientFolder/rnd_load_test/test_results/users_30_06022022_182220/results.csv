@@ -1,0 +1,470 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1644151944173,339,Get CSRF Token,200,OK,Users 1-14,text,true,,33317,137,30,30,http://10.129.131.6:9763/accounts/login/,339,0,1
+1644151944147,358,Get CSRF Token,200,OK,Users 1-12,text,true,,33317,137,30,30,http://10.129.131.6:9763/accounts/login/,353,0,2
+1644151944160,345,Get CSRF Token,200,OK,Users 1-13,text,true,,33317,137,30,30,http://10.129.131.6:9763/accounts/login/,340,0,2
+1644151944114,391,Get CSRF Token,200,OK,Users 1-11,text,true,,33317,137,30,30,http://10.129.131.6:9763/accounts/login/,386,0,24
+1644151944183,381,Get CSRF Token,200,OK,Users 1-15,text,true,,33317,137,30,30,http://10.129.131.6:9763/accounts/login/,373,0,2
+1644151944196,380,Get CSRF Token,200,OK,Users 1-16,text,true,,33317,137,30,30,http://10.129.131.6:9763/accounts/login/,380,0,1
+1644151944202,377,Get CSRF Token,200,OK,Users 1-17,text,true,,33317,137,30,30,http://10.129.131.6:9763/accounts/login/,375,0,2
+1644151944221,369,Get CSRF Token,200,OK,Users 1-19,text,true,,33317,137,30,30,http://10.129.131.6:9763/accounts/login/,369,0,5
+1644151944211,379,Get CSRF Token,200,OK,Users 1-18,text,true,,33317,137,30,30,http://10.129.131.6:9763/accounts/login/,379,0,1
+1644151944231,361,Get CSRF Token,200,OK,Users 1-20,text,true,,33317,137,30,30,http://10.129.131.6:9763/accounts/login/,360,0,1
+1644151944241,360,Get CSRF Token,200,OK,Users 1-21,text,true,,33317,137,30,30,http://10.129.131.6:9763/accounts/login/,358,0,1
+1644151944250,354,Get CSRF Token,200,OK,Users 1-22,text,true,,33317,137,30,30,http://10.129.131.6:9763/accounts/login/,354,0,2
+1644151944261,350,Get CSRF Token,200,OK,Users 1-23,text,true,,33317,137,30,30,http://10.129.131.6:9763/accounts/login/,350,0,2
+1644151944272,342,Get CSRF Token,200,OK,Users 1-24,text,true,,33317,137,30,30,http://10.129.131.6:9763/accounts/login/,342,0,2
+1644151944284,332,Get CSRF Token,200,OK,Users 1-25,text,true,,33317,137,30,30,http://10.129.131.6:9763/accounts/login/,331,0,2
+1644151944294,323,Get CSRF Token,200,OK,Users 1-26,text,true,,33317,137,30,30,http://10.129.131.6:9763/accounts/login/,322,0,1
+1644151944317,301,Get CSRF Token,200,OK,Users 1-28,text,true,,33317,137,30,30,http://10.129.131.6:9763/accounts/login/,301,0,1
+1644151944304,315,Get CSRF Token,200,OK,Users 1-27,text,true,,33317,137,30,30,http://10.129.131.6:9763/accounts/login/,315,0,3
+1644151944336,285,Get CSRF Token,200,OK,Users 1-30,text,true,,33317,137,30,30,http://10.129.131.6:9763/accounts/login/,284,0,1
+1644151944327,297,Get CSRF Token,200,OK,Users 1-29,text,true,,33317,137,30,30,http://10.129.131.6:9763/accounts/login/,297,0,1
+1644151944068,564,Get CSRF Token,200,OK,Users 1-3,text,true,,33317,137,30,30,http://10.129.131.6:9763/accounts/login/,563,0,70
+1644151944068,584,Get CSRF Token,200,OK,Users 1-9,text,true,,33317,137,30,30,http://10.129.131.6:9763/accounts/login/,583,0,70
+1644151944068,604,Get CSRF Token,200,OK,Users 1-5,text,true,,33317,137,30,30,http://10.129.131.6:9763/accounts/login/,604,0,70
+1644151944068,624,Get CSRF Token,200,OK,Users 1-8,text,true,,33317,137,30,30,http://10.129.131.6:9763/accounts/login/,623,0,70
+1644151944068,642,Get CSRF Token,200,OK,Users 1-1,text,true,,33317,137,30,30,http://10.129.131.6:9763/accounts/login/,642,0,70
+1644151944068,662,Get CSRF Token,200,OK,Users 1-6,text,true,,33317,137,30,30,http://10.129.131.6:9763/accounts/login/,662,0,70
+1644151944070,679,Get CSRF Token,200,OK,Users 1-2,text,true,,33317,137,30,30,http://10.129.131.6:9763/accounts/login/,678,0,68
+1644151944068,695,Get CSRF Token,200,OK,Users 1-7,text,true,,33317,137,30,30,http://10.129.131.6:9763/accounts/login/,695,0,70
+1644151944068,710,Get CSRF Token,200,OK,Users 1-10,text,true,,33317,137,30,30,http://10.129.131.6:9763/accounts/login/,710,0,70
+1644151944070,723,Get CSRF Token,200,OK,Users 1-4,text,true,,33317,137,30,30,http://10.129.131.6:9763/accounts/login/,723,0,68
+1644151949568,1010,Login,200,OK,Users 1-15,text,true,,1727,608,30,30,http://10.129.131.6:9763/frontend/courseware/courseslist/,839,0,0
+1644151949583,1001,Login,200,OK,Users 1-17,text,true,,1727,608,30,30,http://10.129.131.6:9763/frontend/courseware/courseslist/,848,0,0
+1644151949581,1007,Login,200,OK,Users 1-16,text,true,,1727,608,30,30,http://10.129.131.6:9763/frontend/courseware/courseslist/,851,0,0
+1644151949618,1442,Login,200,OK,Users 1-25,text,true,,1727,608,30,30,http://10.129.131.6:9763/frontend/courseware/courseslist/,1045,0,0
+1644151949623,1438,Login,200,OK,Users 1-30,text,true,,1727,608,30,30,http://10.129.131.6:9763/frontend/courseware/courseslist/,1040,0,0
+1644151949603,1461,Login,200,OK,Users 1-21,text,true,,1727,608,30,30,http://10.129.131.6:9763/frontend/courseware/courseslist/,1060,0,0
+1644151949674,1391,Login,200,OK,Users 1-5,text,true,,1725,606,30,30,http://10.129.131.6:9763/frontend/courseware/courseslist/,989,0,0
+1644151949607,1465,Login,200,OK,Users 1-22,text,true,,1727,608,30,30,http://10.129.131.6:9763/frontend/courseware/courseslist/,1056,0,0
+1644151949654,1438,Login,200,OK,Users 1-9,text,true,,1725,606,30,30,http://10.129.131.6:9763/frontend/courseware/courseslist/,1063,0,0
+1644151949694,1400,Login,200,OK,Users 1-8,text,true,,1725,606,30,30,http://10.129.131.6:9763/frontend/courseware/courseslist/,1022,0,0
+1644151949751,1347,Login,200,OK,Users 1-2,text,true,,1725,606,30,30,http://10.129.131.6:9763/frontend/courseware/courseslist/,966,0,0
+1644151949734,1364,Login,200,OK,Users 1-6,text,true,,1725,606,30,30,http://10.129.131.6:9763/frontend/courseware/courseslist/,982,0,0
+1644151949617,1484,Login,200,OK,Users 1-24,text,true,,1727,608,30,30,http://10.129.131.6:9763/frontend/courseware/courseslist/,1108,0,0
+1644151949712,1400,Login,200,OK,Users 1-1,text,true,,1725,606,30,30,http://10.129.131.6:9763/frontend/courseware/courseslist/,1012,0,0
+1644151950582,533,StudentCourses,200,OK,Users 1-15,text,true,,1277,250,30,30,http://10.129.131.6:9763/courseware/student_courses_json/,533,0,0
+1644151950586,536,StudentCourses,200,OK,Users 1-17,text,true,,1277,250,30,30,http://10.129.131.6:9763/courseware/student_courses_json/,536,0,0
+1644151949634,1501,Login,200,OK,Users 1-3,text,true,,1725,606,30,30,http://10.129.131.6:9763/frontend/courseware/courseslist/,1118,0,0
+1644151950590,545,StudentCourses,200,OK,Users 1-16,text,true,,1277,250,30,30,http://10.129.131.6:9763/courseware/student_courses_json/,545,0,0
+1644151949613,1522,Login,200,OK,Users 1-23,text,true,,1727,608,30,30,http://10.129.131.6:9763/frontend/courseware/courseslist/,1140,0,0
+1644151949627,1517,Login,200,OK,Users 1-29,text,true,,1727,608,30,30,http://10.129.131.6:9763/frontend/courseware/courseslist/,1129,0,0
+1644151949620,1524,Login,200,OK,Users 1-28,text,true,,1727,608,30,30,http://10.129.131.6:9763/frontend/courseware/courseslist/,1133,0,0
+1644151949782,1374,Login,200,OK,Users 1-10,text,true,,1727,608,30,30,http://10.129.131.6:9763/frontend/courseware/courseslist/,1003,0,0
+1644151949526,1636,Login,200,OK,Users 1-13,text,true,,1727,608,30,30,http://10.129.131.6:9763/frontend/courseware/courseslist/,1242,0,0
+1644151949795,1414,Login,200,OK,Users 1-4,text,true,,1725,606,30,30,http://10.129.131.6:9763/frontend/courseware/courseslist/,1037,0,0
+1644151949765,1450,Login,200,OK,Users 1-7,text,true,,1725,606,30,30,http://10.129.131.6:9763/frontend/courseware/courseslist/,1067,0,0
+1644151951062,544,StudentCourses,200,OK,Users 1-30,text,true,,1277,250,30,30,http://10.129.131.6:9763/courseware/student_courses_json/,544,0,0
+1644151951074,532,StudentCourses,200,OK,Users 1-22,text,true,,1277,250,30,30,http://10.129.131.6:9763/courseware/student_courses_json/,532,0,0
+1644151951066,542,StudentCourses,200,OK,Users 1-21,text,true,,1277,250,30,30,http://10.129.131.6:9763/courseware/student_courses_json/,542,0,0
+1644151951099,533,StudentCourses,200,OK,Users 1-2,text,true,,1277,250,30,30,http://10.129.131.6:9763/courseware/student_courses_json/,533,0,0
+1644151951099,537,StudentCourses,200,OK,Users 1-6,text,true,,1277,250,30,30,http://10.129.131.6:9763/courseware/student_courses_json/,537,0,0
+1644151951062,576,StudentCourses,200,OK,Users 1-25,text,true,,1277,250,30,30,http://10.129.131.6:9763/courseware/student_courses_json/,576,0,0
+1644151951095,545,StudentCourses,200,OK,Users 1-8,text,true,,1277,250,30,30,http://10.129.131.6:9763/courseware/student_courses_json/,545,0,0
+1644151951066,584,StudentCourses,200,OK,Users 1-5,text,true,,1277,250,30,30,http://10.129.131.6:9763/courseware/student_courses_json/,583,0,0
+1644151951113,538,StudentCourses,200,OK,Users 1-1,text,true,,1277,250,30,30,http://10.129.131.6:9763/courseware/student_courses_json/,538,0,0
+1644151951136,515,StudentCourses,200,OK,Users 1-23,text,true,,1277,250,30,30,http://10.129.131.6:9763/courseware/student_courses_json/,515,0,0
+1644151951137,518,StudentCourses,200,OK,Users 1-3,text,true,,1277,250,30,30,http://10.129.131.6:9763/courseware/student_courses_json/,517,0,0
+1644151951093,563,StudentCourses,200,OK,Users 1-9,text,true,,1277,250,30,30,http://10.129.131.6:9763/courseware/student_courses_json/,563,0,0
+1644151951145,523,StudentCourses,200,OK,Users 1-28,text,true,,1277,250,30,30,http://10.129.131.6:9763/courseware/student_courses_json/,522,0,0
+1644151951216,453,StudentCourses,200,OK,Users 1-7,text,true,,1277,250,30,30,http://10.129.131.6:9763/courseware/student_courses_json/,453,0,0
+1644151951102,570,StudentCourses,200,OK,Users 1-24,text,true,,1277,250,30,30,http://10.129.131.6:9763/courseware/student_courses_json/,570,0,0
+1644151951157,519,StudentCourses,200,OK,Users 1-10,text,true,,1277,250,30,30,http://10.129.131.6:9763/courseware/student_courses_json/,519,0,0
+1644151951163,513,StudentCourses,200,OK,Users 1-13,text,true,,1277,250,30,30,http://10.129.131.6:9763/courseware/student_courses_json/,513,0,0
+1644151951145,535,StudentCourses,200,OK,Users 1-29,text,true,,1277,250,30,30,http://10.129.131.6:9763/courseware/student_courses_json/,535,0,0
+1644151951211,471,StudentCourses,200,OK,Users 1-4,text,true,,1277,250,30,30,http://10.129.131.6:9763/courseware/student_courses_json/,471,0,0
+1644151949622,2066,Login,200,OK,Users 1-26,text,true,,1727,608,30,30,http://10.129.131.6:9763/frontend/courseware/courseslist/,1866,0,0
+1644151949622,2203,Login,200,OK,Users 1-27,text,true,,1727,608,30,30,http://10.129.131.6:9763/frontend/courseware/courseslist/,2149,0,0
+1644151949599,2297,Login,200,OK,Users 1-19,text,true,,1727,608,30,30,http://10.129.131.6:9763/frontend/courseware/courseslist/,2157,0,0
+1644151951826,77,StudentCourses,200,OK,Users 1-27,text,true,,1277,250,30,30,http://10.129.131.6:9763/courseware/student_courses_json/,77,0,0
+1644151949600,2346,Login,200,OK,Users 1-20,text,true,,1727,608,30,30,http://10.129.131.6:9763/frontend/courseware/courseslist/,2248,0,0
+1644151951897,92,StudentCourses,200,OK,Users 1-19,text,true,,1277,250,30,30,http://10.129.131.6:9763/courseware/student_courses_json/,92,0,0
+1644151949600,2416,Login,200,OK,Users 1-18,text,true,,1727,608,30,30,http://10.129.131.6:9763/frontend/courseware/courseslist/,2200,0,0
+1644151949526,2506,Login,200,OK,Users 1-12,text,true,,1727,608,30,30,http://10.129.131.6:9763/frontend/courseware/courseslist/,2438,0,0
+1644151951948,92,StudentCourses,200,OK,Users 1-20,text,true,,1277,250,30,30,http://10.129.131.6:9763/courseware/student_courses_json/,91,0,0
+1644151949526,2561,Login,200,OK,Users 1-14,text,true,,1727,608,30,30,http://10.129.131.6:9763/frontend/courseware/courseslist/,2255,0,0
+1644151952017,80,StudentCourses,200,OK,Users 1-18,text,true,,1277,250,30,30,http://10.129.131.6:9763/courseware/student_courses_json/,80,0,0
+1644151952034,71,StudentCourses,200,OK,Users 1-12,text,true,,1277,250,30,30,http://10.129.131.6:9763/courseware/student_courses_json/,71,0,0
+1644151952089,53,StudentCourses,200,OK,Users 1-14,text,true,,1277,250,30,30,http://10.129.131.6:9763/courseware/student_courses_json/,53,0,0
+1644151951689,457,StudentCourses,200,OK,Users 1-26,text,true,,1277,250,30,30,http://10.129.131.6:9763/courseware/student_courses_json/,457,0,0
+1644151949526,2639,Login,200,OK,Users 1-11,text,true,,1727,608,30,30,http://10.129.131.6:9763/frontend/courseware/courseslist/,559,0,0
+1644151952166,25,StudentCourses,200,OK,Users 1-11,text,true,,1277,250,30,30,http://10.129.131.6:9763/courseware/student_courses_json/,25,0,0
+1644151956123,128,Course Page,200,OK,Users 1-17,text,true,,39021,299,30,30,http://10.129.131.6:9763/courseware/course/6/content/?csrfmiddlewaretoken=yFLwvQqILcVfbAeVWMaHTKbyMt2wK7nU,128,0,0
+1644151956118,137,Course Page,200,OK,Users 1-15,text,true,,39021,299,30,30,http://10.129.131.6:9763/courseware/course/6/content/?csrfmiddlewaretoken=uULHmsZMEOySdyS8jYYc4RxMQL36XxYV,136,0,0
+1644151956137,124,Course Page,200,OK,Users 1-16,text,true,,39021,299,30,30,http://10.129.131.6:9763/courseware/course/6/content/?csrfmiddlewaretoken=EtYYlsNbXQ4d0HsHI38nU5ZUDi9jxoXp,123,0,0
+1644151956255,84,AssignmentsList,200,OK,Users 1-17,text,true,,397,333,30,30,http://10.129.131.6:9763/courseware/api/course/6/all_published_assignments/?format=json&csrfmiddlewaretoken=EXHpuN7PieqJ5DO5ONVl3ycndYWgqTnF,84,0,0
+1644151956257,85,AssignmentsList,200,OK,Users 1-15,text,true,,397,333,30,30,http://10.129.131.6:9763/courseware/api/course/6/all_published_assignments/?format=json&csrfmiddlewaretoken=YsTOHH3vOPUvabWEEXVDtc4pmxSUuYBq,85,0,0
+1644151956263,82,AssignmentsList,200,OK,Users 1-16,text,true,,397,333,30,30,http://10.129.131.6:9763/courseware/api/course/6/all_published_assignments/?format=json&csrfmiddlewaretoken=SvTQlUPdsd4MHT4oAUEVOSaXlJC9TvsQ,82,0,0
+1644151956610,873,Course Page,200,OK,Users 1-21,text,true,,39029,299,30,30,http://10.129.131.6:9763/courseware/course/6/content/?csrfmiddlewaretoken=D336CD9YN9tS0Z00YYwnzvj8BUnkFrLh,870,0,0
+1644151956608,888,Course Page,200,OK,Users 1-22,text,true,,39028,299,30,30,http://10.129.131.6:9763/courseware/course/6/content/?csrfmiddlewaretoken=0SCoP0NhDZNG5eWG1XKlwvhxtQJfnZsm,885,0,0
+1644151956608,905,Course Page,200,OK,Users 1-30,text,true,,39043,299,30,30,http://10.129.131.6:9763/courseware/course/6/content/?csrfmiddlewaretoken=YRQ75HV3lqroSGBp23nrVWuXV7xginSG,900,0,0
+1644151956669,887,Course Page,200,OK,Users 1-28,text,true,,39021,299,30,30,http://10.129.131.6:9763/courseware/course/6/content/?csrfmiddlewaretoken=mIGeBIyEtMRNExaFCZcYPxtsKMTP3RQ8,887,0,0
+1644151956678,887,Course Page,200,OK,Users 1-13,text,true,,39021,299,30,30,http://10.129.131.6:9763/courseware/course/6/content/?csrfmiddlewaretoken=5PGeatPQQKvmee7vwiridKDdL4eisNwA,879,0,0
+1644151956651,915,Course Page,200,OK,Users 1-5,text,true,,39019,299,30,30,http://10.129.131.6:9763/courseware/course/6/content/?csrfmiddlewaretoken=MRVQO2D2VWir3i08ZsE7SN07nYTyg8hd,913,0,0
+1644151956653,916,Course Page,200,OK,Users 1-23,text,true,,39021,299,30,30,http://10.129.131.6:9763/courseware/course/6/content/?csrfmiddlewaretoken=Ck1cRUJoyvAacGNR38Q5u4gZuGzY9hRJ,911,0,0
+1644151956657,911,Course Page,200,OK,Users 1-9,text,true,,39019,299,30,30,http://10.129.131.6:9763/courseware/course/6/content/?csrfmiddlewaretoken=ROd87zNwzmoDpF85EuzLi4588jcASH46,903,0,0
+1644151956640,933,Course Page,200,OK,Users 1-25,text,true,,39021,299,30,30,http://10.129.131.6:9763/courseware/course/6/content/?csrfmiddlewaretoken=ELmb4ejxCHhxOlNY4Jeg6EZONaWgocwJ,925,0,0
+1644151956634,939,Course Page,200,OK,Users 1-2,text,true,,39019,299,30,30,http://10.129.131.6:9763/courseware/course/6/content/?csrfmiddlewaretoken=qjpUYOw7N3DntkVMN2NfuihvDFNdpFpa,931,0,0
+1644151956637,955,Course Page,200,OK,Users 1-6,text,true,,39019,299,30,30,http://10.129.131.6:9763/courseware/course/6/content/?csrfmiddlewaretoken=0XZeoKGVQXODkJ73N8bgIpdMLsvvSSKA,940,0,0
+1644151956656,937,Course Page,200,OK,Users 1-3,text,true,,39019,299,30,30,http://10.129.131.6:9763/courseware/course/6/content/?csrfmiddlewaretoken=ZZFBniPDhVXE5xhycG3l2jcMB3yENKHS,919,0,0
+1644151956642,970,Course Page,200,OK,Users 1-8,text,true,,39019,299,30,30,http://10.129.131.6:9763/courseware/course/6/content/?csrfmiddlewaretoken=AqshAszjO6WE3QjiyHgxWP84zIT7660L,950,0,0
+1644151956674,943,Course Page,200,OK,Users 1-24,text,true,,39021,299,30,30,http://10.129.131.6:9763/courseware/course/6/content/?csrfmiddlewaretoken=87z5QEtryUa5KdUKemBEIWueNFpE5Y5m,938,0,0
+1644151956653,965,Course Page,200,OK,Users 1-1,text,true,,39019,299,30,30,http://10.129.131.6:9763/courseware/course/6/content/?csrfmiddlewaretoken=2nwLXIvY6vaHu498KFNJof532nah2R9B,964,0,0
+1644151956683,935,Course Page,200,OK,Users 1-4,text,true,,39019,299,30,30,http://10.129.131.6:9763/courseware/course/6/content/?csrfmiddlewaretoken=uuUlTo209K5wn4E9dDdf4kMxpktVsnsO,929,0,0
+1644151956670,958,Course Page,200,OK,Users 1-7,text,true,,39019,299,30,30,http://10.129.131.6:9763/courseware/course/6/content/?csrfmiddlewaretoken=hOYaYEuzQi0YImBLeGyV6qeIJebT6uof,955,0,0
+1644151956677,961,Course Page,200,OK,Users 1-10,text,true,,39021,299,30,30,http://10.129.131.6:9763/courseware/course/6/content/?csrfmiddlewaretoken=HKvo75ryoqtbf1aTWPZpIrTGhTkJ8ZHj,957,0,0
+1644151956681,998,Course Page,200,OK,Users 1-29,text,true,,39021,299,30,30,http://10.129.131.6:9763/courseware/course/6/content/?csrfmiddlewaretoken=temt7aUH4OpznpctOySGTqVh9EuwbYmP,996,0,0
+1644151956906,827,Course Page,200,OK,Users 1-27,text,true,,39021,299,30,30,http://10.129.131.6:9763/courseware/course/6/content/?csrfmiddlewaretoken=U5kMFVt2Ng3cum2AEdPawB07rmynAEh3,827,0,0
+1644151956992,784,Course Page,200,OK,Users 1-19,text,true,,39021,299,30,30,http://10.129.131.6:9763/courseware/course/6/content/?csrfmiddlewaretoken=RD3h4LSbqJWnO2S2Na9dW2nTpJXZwjG2,776,0,0
+1644151957042,903,Course Page,200,OK,Users 1-20,text,true,,39021,299,30,30,http://10.129.131.6:9763/courseware/course/6/content/?csrfmiddlewaretoken=vs7FEadMQYsezM6DimPSDE3RQpKLoxNO,902,0,0
+1644151957100,855,Course Page,200,OK,Users 1-18,text,true,,39021,299,30,30,http://10.129.131.6:9763/courseware/course/6/content/?csrfmiddlewaretoken=GdvqCZPIkdN7mbYp4cGNK96dcWOCRw6e,844,0,0
+1644151957107,909,Course Page,200,OK,Users 1-12,text,true,,39021,299,30,30,http://10.129.131.6:9763/courseware/course/6/content/?csrfmiddlewaretoken=luzTgoblScxvWbhLrGfRCT4it4wJLIEN,907,0,0
+1644151957144,894,Course Page,200,OK,Users 1-14,text,true,,39021,299,30,30,http://10.129.131.6:9763/courseware/course/6/content/?csrfmiddlewaretoken=he8huyB1R63CmP2NwL3JvGn6GZHV7kmW,892,0,0
+1644151957193,910,Course Page,200,OK,Users 1-11,text,true,,39021,299,30,30,http://10.129.131.6:9763/courseware/course/6/content/?csrfmiddlewaretoken=J0ayNmw5g9Us0pfJSE5Z5622K7508KbO,908,0,0
+1644151957499,618,AssignmentsList,200,OK,Users 1-22,text,true,,397,333,30,30,http://10.129.131.6:9763/courseware/api/course/6/all_published_assignments/?format=json&csrfmiddlewaretoken=dCfCKgrLDH0G0b1rbeexBo5FauWJb7oR,618,0,0
+1644151957486,641,AssignmentsList,200,OK,Users 1-21,text,true,,397,333,30,30,http://10.129.131.6:9763/courseware/api/course/6/all_published_assignments/?format=json&csrfmiddlewaretoken=7RPxmrm9s7vFcfo56JZ5HNHEo1hzcT4G,641,0,0
+1644151957516,632,AssignmentsList,200,OK,Users 1-30,text,true,,397,333,30,30,http://10.129.131.6:9763/courseware/api/course/6/all_published_assignments/?format=json&csrfmiddlewaretoken=4YRsywWc9sTV3rEG01obHHiqm2pVklQB,632,0,0
+1644151957148,1052,Course Page,200,OK,Users 1-26,text,true,,39021,299,30,30,http://10.129.131.6:9763/courseware/course/6/content/?csrfmiddlewaretoken=Rf6DERpfkulboQQcEX0npG0fZwdIDj08,1048,0,0
+1644151957567,638,AssignmentsList,200,OK,Users 1-13,text,true,,397,333,30,30,http://10.129.131.6:9763/courseware/api/course/6/all_published_assignments/?format=json&csrfmiddlewaretoken=SoVtMxxoV90VvvZBgJCaFGB6i2G4xB8a,638,0,0
+1644151957570,638,AssignmentsList,200,OK,Users 1-23,text,true,,397,333,30,30,http://10.129.131.6:9763/courseware/api/course/6/all_published_assignments/?format=json&csrfmiddlewaretoken=NrU6etgeETWeyY01EHqWCoIb4Vzv3FQ4,638,0,0
+1644151957571,653,AssignmentsList,200,OK,Users 1-9,text,true,,397,333,30,30,http://10.129.131.6:9763/courseware/api/course/6/all_published_assignments/?format=json&csrfmiddlewaretoken=6FucppHPDrmOR1QCoEY7jbq4V1eHdTW7,653,0,0
+1644151957594,631,AssignmentsList,200,OK,Users 1-3,text,true,,397,333,30,30,http://10.129.131.6:9763/courseware/api/course/6/all_published_assignments/?format=json&csrfmiddlewaretoken=qXe8rN3t4dDWL03mfQjmS3sf2HZfmVrH,631,0,0
+1644151957567,660,AssignmentsList,200,OK,Users 1-5,text,true,,397,333,30,30,http://10.129.131.6:9763/courseware/api/course/6/all_published_assignments/?format=json&csrfmiddlewaretoken=MYsTR0SNFcbISPG5YvJsWHOnaOKc8A1Z,660,0,0
+1644151957558,669,AssignmentsList,200,OK,Users 1-28,text,true,,397,333,30,30,http://10.129.131.6:9763/courseware/api/course/6/all_published_assignments/?format=json&csrfmiddlewaretoken=Mhq6rSRPTw21YDwqplsGbF1s498g7nKb,669,0,0
+1644151957594,639,AssignmentsList,200,OK,Users 1-6,text,true,,397,333,30,30,http://10.129.131.6:9763/courseware/api/course/6/all_published_assignments/?format=json&csrfmiddlewaretoken=tZeznnQp1pIkNc6Qe6vnOI92RhLzUygO,639,0,0
+1644151957620,616,AssignmentsList,200,OK,Users 1-4,text,true,,397,333,30,30,http://10.129.131.6:9763/courseware/api/course/6/all_published_assignments/?format=json&csrfmiddlewaretoken=u9q29Ix6sqJjvjSscZmKmLKaDfxWi32h,616,0,0
+1644151957574,667,AssignmentsList,200,OK,Users 1-25,text,true,,397,333,30,30,http://10.129.131.6:9763/courseware/api/course/6/all_published_assignments/?format=json&csrfmiddlewaretoken=1yjwjbFlGpoR2FU12KPkav1rX0E8jLbu,667,0,0
+1644151957575,670,AssignmentsList,200,OK,Users 1-2,text,true,,397,333,30,30,http://10.129.131.6:9763/courseware/api/course/6/all_published_assignments/?format=json&csrfmiddlewaretoken=A2fQ3vWYdtGeTaLKFaYWwGJql0jfOIsf,670,0,0
+1644151957614,634,AssignmentsList,200,OK,Users 1-8,text,true,,397,333,30,30,http://10.129.131.6:9763/courseware/api/course/6/all_published_assignments/?format=json&csrfmiddlewaretoken=xm1fSnPzSmt5NOLE13rLYEH3e6YxSLfi,634,0,0
+1644151957619,633,AssignmentsList,200,OK,Users 1-24,text,true,,397,333,30,30,http://10.129.131.6:9763/courseware/api/course/6/all_published_assignments/?format=json&csrfmiddlewaretoken=b8jEVNtyzfMG0npdTqPZvjvgXIMNF8jt,633,0,0
+1644151957629,623,AssignmentsList,200,OK,Users 1-7,text,true,,397,333,30,30,http://10.129.131.6:9763/courseware/api/course/6/all_published_assignments/?format=json&csrfmiddlewaretoken=k2PdaoSoEAULENMmiR9xGUZSR5gFOBio,623,0,0
+1644151957620,635,AssignmentsList,200,OK,Users 1-1,text,true,,397,333,30,30,http://10.129.131.6:9763/courseware/api/course/6/all_published_assignments/?format=json&csrfmiddlewaretoken=cmGeMvlp42aHnuybZmYsuIE3dOu9cJ5w,635,0,0
+1644151957640,622,AssignmentsList,200,OK,Users 1-10,text,true,,397,333,30,30,http://10.129.131.6:9763/courseware/api/course/6/all_published_assignments/?format=json&csrfmiddlewaretoken=9xXN5XB0FxGft33BZ7YVuw18QuN0fMRc,622,0,0
+1644151957681,603,AssignmentsList,200,OK,Users 1-29,text,true,,397,333,30,30,http://10.129.131.6:9763/courseware/api/course/6/all_published_assignments/?format=json&csrfmiddlewaretoken=tAib3JgZPUwCEKUvDs0iaxdiT5FjYHBd,603,0,0
+1644151957735,565,AssignmentsList,200,OK,Users 1-27,text,true,,397,333,30,30,http://10.129.131.6:9763/courseware/api/course/6/all_published_assignments/?format=json&csrfmiddlewaretoken=CLRPKNNBwQchwdgz6wyPlgzZtPi0SZwo,565,0,0
+1644151957777,532,AssignmentsList,200,OK,Users 1-19,text,true,,397,333,30,30,http://10.129.131.6:9763/courseware/api/course/6/all_published_assignments/?format=json&csrfmiddlewaretoken=vmLAPsa3QCU7d5K34xrXO8ErC0kPaFNE,532,0,0
+1644151957947,389,AssignmentsList,200,OK,Users 1-20,text,true,,397,333,30,30,http://10.129.131.6:9763/courseware/api/course/6/all_published_assignments/?format=json&csrfmiddlewaretoken=66Vl4pYfOYSMMzM2FHqNhBlU1x8z8aZx,389,0,0
+1644151957957,384,AssignmentsList,200,OK,Users 1-18,text,true,,397,333,30,30,http://10.129.131.6:9763/courseware/api/course/6/all_published_assignments/?format=json&csrfmiddlewaretoken=XpwSz5D3FhuqHTlf8CRAoy9feqGw3r6P,384,0,0
+1644151958019,330,AssignmentsList,200,OK,Users 1-12,text,true,,397,333,30,30,http://10.129.131.6:9763/courseware/api/course/6/all_published_assignments/?format=json&csrfmiddlewaretoken=TswsX91wmYEqQQ37j6Dz3hvMwJbyDsnQ,329,0,0
+1644151958040,314,AssignmentsList,200,OK,Users 1-14,text,true,,397,333,30,30,http://10.129.131.6:9763/courseware/api/course/6/all_published_assignments/?format=json&csrfmiddlewaretoken=NilEwgOq2VfpdtIMF2hvPRNNWcnjxFRf,314,0,0
+1644151958105,253,AssignmentsList,200,OK,Users 1-11,text,true,,397,333,30,30,http://10.129.131.6:9763/courseware/api/course/6/all_published_assignments/?format=json&csrfmiddlewaretoken=fw34ootlwqJCeEr038JYuuSxqcWdChCs,253,0,0
+1644151958202,162,AssignmentsList,200,OK,Users 1-26,text,true,,397,333,30,30,http://10.129.131.6:9763/courseware/api/course/6/all_published_assignments/?format=json&csrfmiddlewaretoken=nXGbRdxgK6IOeghOtRwtX4FIlpAP3Hgc,162,0,0
+1644151970302,10099,Upload,200,OK,Users 1-23,text,true,,44990,1310,30,30,http://10.129.131.6:9763/assignments/details/2,5358,0,0
+1644151970298,10288,Upload,200,OK,Users 1-5,text,true,,44988,1319,30,30,http://10.129.131.6:9763/assignments/details/2,5511,0,0
+1644151970266,10330,Upload,200,OK,Users 1-7,text,true,,44988,1314,30,30,http://10.129.131.6:9763/assignments/details/2,5554,0,0
+1644151970393,16995,Upload,200,OK,Users 1-18,text,true,,44990,1307,30,30,http://10.129.131.6:9763/assignments/details/2,10375,0,0
+1644151970324,17075,Upload,200,OK,Users 1-21,text,true,,44990,1323,30,30,http://10.129.131.6:9763/assignments/details/2,7544,0,0
+1644151970376,17282,Upload,200,OK,Users 1-4,text,true,,44988,1295,30,30,http://10.129.131.6:9763/assignments/details/2,12959,0,0
+1644151970583,17149,Upload,200,OK,Users 1-9,text,true,,44988,1315,30,30,http://10.129.131.6:9763/assignments/details/2,13168,0,0
+1644151970427,18503,Upload,200,OK,Users 1-27,text,true,,44990,1303,30,30,http://10.129.131.6:9763/assignments/details/2,13481,0,0
+1644151970467,18757,Upload,200,OK,Users 1-24,text,true,,44990,1291,30,30,http://10.129.131.6:9763/assignments/details/2,13435,0,0
+1644151970519,19874,Upload,200,OK,Users 1-19,text,true,,44990,1302,30,30,http://10.129.131.6:9763/assignments/details/2,13800,0,0
+1644151970528,20492,Upload,200,OK,Users 1-22,text,true,,44990,1295,30,30,http://10.129.131.6:9763/assignments/details/2,13944,0,0
+1644151970726,22019,Upload,200,OK,Users 1-15,text,true,,44990,1330,30,30,http://10.129.131.6:9763/assignments/details/2,13754,0,0
+1644151970649,22205,Upload,200,OK,Users 1-13,text,true,,44990,1299,30,30,http://10.129.131.6:9763/assignments/details/2,14091,0,0
+1644151970898,21979,Upload,200,OK,Users 1-20,text,true,,44990,1310,30,30,http://10.129.131.6:9763/assignments/details/2,13793,0,0
+1644151971155,22210,Upload,200,OK,Users 1-14,text,true,,44990,1299,30,30,http://10.129.131.6:9763/assignments/details/2,13535,0,0
+1644151971010,25795,Upload,200,OK,Users 1-2,text,true,,44988,1291,30,30,http://10.129.131.6:9763/assignments/details/2,13700,0,0
+1644151970889,26035,Upload,200,OK,Users 1-6,text,true,,45003,1315,30,30,http://10.129.131.6:9763/assignments/details/2,13695,0,0
+1644151970962,25965,Upload,200,OK,Users 1-28,text,true,,45005,1303,30,30,http://10.129.131.6:9763/assignments/details/2,14028,0,0
+1644151970557,26512,Upload,200,OK,Users 1-17,text,true,,45013,1322,30,30,http://10.129.131.6:9763/assignments/details/2,14155,0,0
+1644151970820,26323,Upload,200,OK,Users 1-12,text,true,,44990,1319,30,30,http://10.129.131.6:9763/assignments/details/2,13920,0,0
+1644151970891,26263,Upload,200,OK,Users 1-1,text,true,,44988,1322,30,30,http://10.129.131.6:9763/assignments/details/2,13731,0,0
+1644151970886,26289,Upload,200,OK,Users 1-26,text,true,,44990,1331,30,30,http://10.129.131.6:9763/assignments/details/2,13805,0,0
+1644151970529,26650,Upload,200,OK,Users 1-10,text,true,,44990,1303,30,30,http://10.129.131.6:9763/assignments/details/2,14020,0,0
+1644151970555,26639,Upload,200,OK,Users 1-16,text,true,,45006,1315,30,30,http://10.129.131.6:9763/assignments/details/2,14185,0,0
+1644151970843,26361,Upload,200,OK,Users 1-3,text,true,,44988,1295,30,30,http://10.129.131.6:9763/assignments/details/2,13893,0,0
+1644151970640,26588,Upload,200,OK,Users 1-30,text,true,,45005,1319,30,30,http://10.129.131.6:9763/assignments/details/2,14072,0,0
+1644151971035,26194,Upload,200,OK,Users 1-8,text,true,,44988,1307,30,30,http://10.129.131.6:9763/assignments/details/2,13675,0,0
+1644151970727,26512,Upload,200,OK,Users 1-25,text,true,,45005,1291,30,30,http://10.129.131.6:9763/assignments/details/2,13944,0,0
+1644151970959,26410,Upload,200,OK,Users 1-29,text,true,,44990,1299,30,30,http://10.129.131.6:9763/assignments/details/2,13937,0,0
+1644151992684,6181,Upload,200,OK,Users 1-23,text,true,,44998,1303,30,30,http://10.129.131.6:9763/assignments/details/2,3699,0,0
+1644151993072,5849,Upload,200,OK,Users 1-7,text,true,,44996,1318,30,30,http://10.129.131.6:9763/assignments/details/2,3313,0,0
+1644151992851,6073,Upload,200,OK,Users 1-5,text,true,,45011,1299,30,30,http://10.129.131.6:9763/assignments/details/2,3518,0,0
+1644151970959,28404,Upload,200,OK,Users 1-11,text,true,,44990,1291,30,30,http://10.129.131.6:9763/assignments/details/2,27883,0,0
+1644151999461,2249,Upload,200,OK,Users 1-21,text,true,,44990,1327,30,30,http://10.129.131.6:9763/assignments/details/2,648,0,0
+1644151999770,3007,Upload,200,OK,Users 1-18,text,true,,44998,1323,30,30,http://10.129.131.6:9763/assignments/details/2,1139,0,0
+1644152000218,3543,Upload,200,OK,Users 1-4,text,true,,44996,1326,30,30,http://10.129.131.6:9763/assignments/details/2,1711,0,0
+1644152000309,4718,Upload,200,OK,Users 1-9,text,true,,44988,1307,30,30,http://10.129.131.6:9763/assignments/details/2,2488,0,0
+1644152001813,4187,Upload,200,OK,Users 1-24,text,true,,45005,1299,30,30,http://10.129.131.6:9763/assignments/details/2,1830,0,0
+1644152002530,3624,Upload,200,OK,Users 1-19,text,true,,44998,1294,30,30,http://10.129.131.6:9763/assignments/details/2,1805,0,0
+1644152000970,6998,Upload,200,OK,Users 1-27,text,true,,44998,1291,30,30,http://10.129.131.6:9763/assignments/details/2,4323,0,0
+1644152003707,4869,Upload,200,OK,Users 1-22,text,true,,44998,1322,30,30,http://10.129.131.6:9763/assignments/details/2,2109,0,0
+1644152005081,4809,Upload,200,OK,Users 1-20,text,true,,44998,1303,30,30,http://10.129.131.6:9763/assignments/details/2,2456,0,2
+1644152005071,5863,Upload,200,OK,Users 1-13,text,true,,44997,1303,30,30,http://10.129.131.6:9763/assignments/details/2,2473,0,2
+1644152005094,6815,Upload,200,OK,Users 1-15,text,true,,44998,1307,30,30,http://10.129.131.6:9763/assignments/details/2,2449,0,3
+1644152005958,7613,Upload,200,OK,Users 1-14,text,true,,44998,1327,30,30,http://10.129.131.6:9763/assignments/details/2,2798,0,2
+1644152011198,10625,Upload,200,OK,Users 1-23,text,true,,44990,1310,30,30,http://10.129.131.6:9763/assignments/details/2,4615,0,2
+1644152009448,13684,Upload,200,OK,Users 1-17,text,true,,44990,1315,30,30,http://10.129.131.6:9763/assignments/details/2,7373,0,1
+1644152011563,12582,Upload,200,OK,Users 1-11,text,true,,44990,1291,30,30,http://10.129.131.6:9763/assignments/details/2,5451,0,2
+1644152009174,15767,Upload,200,OK,Users 1-12,text,true,,44990,1315,30,30,http://10.129.131.6:9763/assignments/details/2,4421,0,2
+1644152008964,16195,Upload,200,OK,Users 1-28,text,true,,44990,1299,30,30,http://10.129.131.6:9763/assignments/details/2,4732,0,2
+1644152008985,16452,Upload,200,OK,Users 1-2,text,true,,44988,1307,30,30,http://10.129.131.6:9763/assignments/details/2,6686,0,1
+1644152010963,16569,Upload,200,OK,Users 1-7,text,true,,44988,1299,30,30,http://10.129.131.6:9763/assignments/details/2,6875,0,2
+1644152017437,12096,Upload,200,OK,Users 1-9,text,true,,44988,1299,30,30,http://10.129.131.6:9763/assignments/details/2,6894,0,2
+1644152009695,20175,Upload,200,OK,Users 1-6,text,true,,44988,1307,30,30,http://10.129.131.6:9763/assignments/details/2,8368,0,2
+1644152013897,16215,Upload,200,OK,Users 1-21,text,true,,44990,1291,30,30,http://10.129.131.6:9763/assignments/details/2,11884,0,3
+1644152015371,15081,Upload,200,OK,Users 1-18,text,true,,44990,1307,30,30,http://10.129.131.6:9763/assignments/details/2,7127,0,2
+1644152011604,19598,Upload,200,OK,Users 1-5,text,true,,44988,1323,30,30,http://10.129.131.6:9763/assignments/details/2,10777,0,3
+1644152009503,23101,Upload,200,OK,Users 1-16,text,true,,44990,1291,30,30,http://10.129.131.6:9763/assignments/details/2,10403,0,2
+1644152009417,23524,Upload,200,OK,Users 1-30,text,true,,45012,1331,30,30,http://10.129.131.6:9763/assignments/details/2,10492,0,2
+1644152009385,23968,Upload,200,OK,Users 1-25,text,true,,45020,1291,30,30,http://10.129.131.6:9763/assignments/details/2,10595,0,2
+1644152009816,23699,Upload,200,OK,Users 1-1,text,true,,44995,1298,30,30,http://10.129.131.6:9763/assignments/details/2,5488,0,2
+1644152009759,23770,Upload,200,OK,Users 1-8,text,true,,45018,1323,30,30,http://10.129.131.6:9763/assignments/details/2,10812,0,1
+1644152009653,23970,Upload,200,OK,Users 1-10,text,true,,45005,1307,30,30,http://10.129.131.6:9763/assignments/details/2,10942,0,1
+1644152009545,24090,Upload,200,OK,Users 1-26,text,true,,44990,1295,30,30,http://10.129.131.6:9763/assignments/details/2,10510,0,1
+1644152009642,24127,Upload,200,OK,Users 1-3,text,true,,45018,1330,30,30,http://10.129.131.6:9763/assignments/details/2,10814,0,2
+1644152016068,18602,Upload,200,OK,Users 1-4,text,true,,44988,1299,30,30,http://10.129.131.6:9763/assignments/details/2,6324,0,3
+1644152020925,13976,Upload,200,OK,Users 1-22,text,true,,44990,1314,30,30,http://10.129.131.6:9763/assignments/details/2,5790,0,0
+1644152022097,12821,Upload,200,OK,Users 1-20,text,true,,45005,1322,30,30,http://10.129.131.6:9763/assignments/details/2,6910,0,0
+1644152018362,16690,Upload,200,OK,Users 1-19,text,true,,44990,1307,30,30,http://10.129.131.6:9763/assignments/details/2,12262,0,0
+1644152023371,11824,Upload,200,OK,Users 1-13,text,true,,45012,1299,30,30,http://10.129.131.6:9763/assignments/details/2,5103,0,0
+1644152018406,17071,Upload,200,OK,Users 1-24,text,true,,44990,1331,30,30,http://10.129.131.6:9763/assignments/details/2,12210,0,2
+1644152020442,15508,Upload,200,OK,Users 1-27,text,true,,44990,1291,30,30,http://10.129.131.6:9763/assignments/details/2,12370,0,0
+1644152010091,26173,Upload,200,OK,Users 1-29,text,true,,44990,1319,30,30,http://10.129.131.6:9763/assignments/details/2,10187,0,3
+1644152026146,10562,Upload,200,OK,Users 1-14,text,true,,44997,1295,30,30,http://10.129.131.6:9763/assignments/details/2,8315,0,0
+1644152024241,13163,Upload,200,OK,Users 1-15,text,true,,45005,1331,30,30,http://10.129.131.6:9763/assignments/details/2,8492,0,0
+1644152035884,4033,Upload,200,OK,Users 1-17,text,true,,44997,1311,30,30,http://10.129.131.6:9763/assignments/details/2,2284,0,0
+1644152036958,3829,Upload,200,OK,Users 1-12,text,true,,44997,1298,30,30,http://10.129.131.6:9763/assignments/details/2,1969,0,0
+1644152036369,4611,Upload,200,OK,Users 1-11,text,true,,45005,1295,30,30,http://10.129.131.6:9763/assignments/details/2,2679,0,0
+1644152034071,7170,Upload,200,OK,Users 1-23,text,true,,45012,1299,30,30,http://10.129.131.6:9763/assignments/details/2,3558,0,0
+1644152037494,4988,Upload,200,OK,Users 1-2,text,true,,44995,1298,30,30,http://10.129.131.6:9763/assignments/details/2,3403,0,0
+1644152037407,5521,Upload,200,OK,Users 1-28,text,true,,44997,1311,30,30,http://10.129.131.6:9763/assignments/details/2,1936,0,0
+1644152040214,3309,Upload,200,OK,Users 1-7,text,true,,44995,1326,30,30,http://10.129.131.6:9763/assignments/details/2,1505,0,0
+1644152042321,3709,Upload,200,OK,Users 1-6,text,true,,44995,1295,30,30,http://10.129.131.6:9763/assignments/details/2,1940,0,0
+1644152042534,4410,Upload,200,OK,Users 1-18,text,true,,44997,1319,30,30,http://10.129.131.6:9763/assignments/details/2,1839,0,0
+1644152041986,6470,Upload,200,OK,Users 1-9,text,true,,44995,1290,30,30,http://10.129.131.6:9763/assignments/details/2,2234,0,0
+1644152042606,11727,Upload,200,OK,Users 1-21,text,true,,44997,1327,30,30,http://10.129.131.6:9763/assignments/details/2,2525,0,0
+1644152043929,11522,Upload,200,OK,Users 1-5,text,true,,44995,1327,30,30,http://10.129.131.6:9763/assignments/details/2,2141,0,0
+1644152045195,11617,Upload,200,OK,Users 1-16,text,true,,44997,1315,30,30,http://10.129.131.6:9763/assignments/details/2,3817,0,0
+1644152045496,13670,Upload,200,OK,Users 1-25,text,true,,44990,1295,30,30,http://10.129.131.6:9763/assignments/details/2,5058,0,0
+1644152047200,13918,Upload,200,OK,Users 1-20,text,true,,44990,1303,30,30,http://10.129.131.6:9763/assignments/details/2,7172,0,0
+1644152046226,16098,Upload,200,OK,Users 1-26,text,true,,44990,1331,30,30,http://10.129.131.6:9763/assignments/details/2,4521,0,0
+1644152046947,17526,Upload,200,OK,Users 1-4,text,true,,44988,1319,30,30,http://10.129.131.6:9763/assignments/details/2,5208,0,0
+1644152045946,18622,Upload,200,OK,Users 1-3,text,true,,44988,1331,30,30,http://10.129.131.6:9763/assignments/details/2,6392,0,0
+1644152045997,18753,Upload,200,OK,Users 1-8,text,true,,44988,1327,30,30,http://10.129.131.6:9763/assignments/details/2,9975,0,0
+1644152047704,17054,Upload,200,OK,Users 1-24,text,true,,44990,1307,30,30,http://10.129.131.6:9763/assignments/details/2,4593,0,0
+1644152045963,19489,Upload,200,OK,Users 1-10,text,true,,44990,1327,30,30,http://10.129.131.6:9763/assignments/details/2,9999,0,0
+1644152047229,19108,Upload,200,OK,Users 1-13,text,true,,44990,1291,30,30,http://10.129.131.6:9763/assignments/details/2,7126,0,0
+1644152047223,19239,Upload,200,OK,Users 1-19,text,true,,44990,1311,30,30,http://10.129.131.6:9763/assignments/details/2,7118,0,0
+1644152049274,17354,Upload,200,OK,Users 1-14,text,true,,44990,1295,30,30,http://10.129.131.6:9763/assignments/details/2,11127,0,0
+1644152049964,17332,Upload,200,OK,Users 1-15,text,true,,44990,1331,30,30,http://10.129.131.6:9763/assignments/details/2,11677,0,0
+1644152047564,20038,Upload,200,OK,Users 1-22,text,true,,44990,1315,30,30,http://10.129.131.6:9763/assignments/details/2,8300,0,0
+1644152045891,22234,Upload,200,OK,Users 1-1,text,true,,44988,1319,30,30,http://10.129.131.6:9763/assignments/details/2,10602,0,0
+1644152048785,19449,Upload,200,OK,Users 1-29,text,true,,44990,1323,30,30,http://10.129.131.6:9763/assignments/details/2,8113,0,0
+1644152053344,15729,Upload,200,OK,Users 1-12,text,true,,44990,1302,30,30,http://10.129.131.6:9763/assignments/details/2,6421,0,0
+1644152055229,13901,Upload,200,OK,Users 1-2,text,true,,44988,1302,30,30,http://10.129.131.6:9763/assignments/details/2,5323,0,0
+1644152055552,13611,Upload,200,OK,Users 1-28,text,true,,44990,1327,30,30,http://10.129.131.6:9763/assignments/details/2,5206,0,0
+1644152055690,14722,Upload,200,OK,Users 1-7,text,true,,44988,1311,30,30,http://10.129.131.6:9763/assignments/details/2,9985,0,0
+1644152052648,17777,Upload,200,OK,Users 1-17,text,true,,44990,1322,30,30,http://10.129.131.6:9763/assignments/details/2,10035,0,0
+1644152053502,17252,Upload,200,OK,Users 1-23,text,true,,44990,1307,30,30,http://10.129.131.6:9763/assignments/details/2,9256,0,0
+1644152053677,17128,Upload,200,OK,Users 1-11,text,true,,44990,1323,30,30,http://10.129.131.6:9763/assignments/details/2,9272,0,0
+1644152059427,11768,Upload,200,OK,Users 1-18,text,true,,44990,1307,30,30,http://10.129.131.6:9763/assignments/details/2,7382,0,0
+1644152048620,22869,Upload,200,OK,Users 1-27,text,true,,45020,1303,30,30,http://10.129.131.6:9763/assignments/details/2,16299,0,0
+1644152058343,13887,Upload,200,OK,Users 1-6,text,true,,45003,1327,30,30,http://10.129.131.6:9763/assignments/details/2,9074,0,0
+1644152045227,27233,Upload,200,OK,Users 1-30,text,true,,44997,1323,30,30,http://10.129.131.6:9763/assignments/details/2,7146,0,0
+1644152060984,12296,Upload,200,OK,Users 1-9,text,true,,44988,1331,30,30,http://10.129.131.6:9763/assignments/details/2,10149,0,0
+1644152069396,5413,Upload,200,OK,Users 1-16,text,true,,44998,1315,30,30,http://10.129.131.6:9763/assignments/details/2,3852,0,0
+1644152071504,4244,Upload,200,OK,Users 1-25,text,true,,44990,1315,30,30,http://10.129.131.6:9763/assignments/details/2,2391,0,2
+1644152067830,8818,Upload,200,OK,Users 1-5,text,true,,44996,1311,30,30,http://10.129.131.6:9763/assignments/details/2,4738,0,0
+1644152066956,9712,Upload,200,OK,Users 1-21,text,true,,44998,1327,30,30,http://10.129.131.6:9763/assignments/details/2,7181,0,0
+1644152073913,3204,Upload,200,OK,Users 1-20,text,true,,44997,1323,30,30,http://10.129.131.6:9763/assignments/details/2,1872,0,1
+1644152074527,3171,Upload,200,OK,Users 1-26,text,true,,44998,1322,30,30,http://10.129.131.6:9763/assignments/details/2,1678,0,2
+1644152076844,4341,Upload,200,OK,Users 1-24,text,true,,44998,1303,30,30,http://10.129.131.6:9763/assignments/details/2,1867,0,0
+1644152076916,5965,Upload,200,OK,Users 1-4,text,true,,44995,1299,30,30,http://10.129.131.6:9763/assignments/details/2,1853,0,2
+1644152077462,7774,Upload,200,OK,Users 1-8,text,true,,44995,1331,30,30,http://10.129.131.6:9763/assignments/details/2,1899,0,2
+1644152079084,7576,Upload,200,OK,Users 1-19,text,true,,44990,1331,30,30,http://10.129.131.6:9763/assignments/details/2,3713,0,2
+1644152078859,9377,Upload,200,OK,Users 1-13,text,true,,44998,1319,30,30,http://10.129.131.6:9763/assignments/details/2,3030,0,2
+1644152077025,14875,Upload,200,OK,Users 1-3,text,true,,44996,1319,30,30,http://10.129.131.6:9763/assignments/details/2,2653,0,1
+1644152081258,11735,Upload,200,OK,Users 1-12,text,true,,44990,1323,30,30,http://10.129.131.6:9763/assignments/details/2,4055,0,1
+1644152079039,14301,Upload,200,OK,Users 1-14,text,true,,44998,1315,30,30,http://10.129.131.6:9763/assignments/details/2,2841,0,2
+1644152080515,13854,Upload,200,OK,Users 1-1,text,true,,44988,1303,30,30,http://10.129.131.6:9763/assignments/details/2,7007,0,2
+1644152082879,14412,Upload,200,OK,Users 1-7,text,true,,44988,1323,30,30,http://10.129.131.6:9763/assignments/details/2,5762,0,2
+1644152081850,15522,Upload,200,OK,Users 1-28,text,true,,44990,1323,30,30,http://10.129.131.6:9763/assignments/details/2,10281,0,2
+1644152084795,13212,Upload,200,OK,Users 1-6,text,true,,44988,1319,30,30,http://10.129.131.6:9763/assignments/details/2,8953,0,2
+1644152080406,17758,Upload,200,OK,Users 1-29,text,true,,44990,1311,30,30,http://10.129.131.6:9763/assignments/details/2,9458,0,2
+1644152088420,10255,Upload,200,OK,Users 1-25,text,true,,44997,1323,30,30,http://10.129.131.6:9763/assignments/details/2,5395,0,0
+1644152083570,16411,Upload,200,OK,Users 1-18,text,true,,44990,1331,30,30,http://10.129.131.6:9763/assignments/details/2,7853,0,2
+1644152083987,16647,Upload,200,OK,Users 1-27,text,true,,45020,1291,30,30,http://10.129.131.6:9763/assignments/details/2,5268,0,2
+1644152077584,23077,Upload,200,OK,Users 1-10,text,true,,44998,1291,30,30,http://10.129.131.6:9763/assignments/details/2,3839,0,2
+1644152080116,20824,Upload,200,OK,Users 1-22,text,true,,44990,1319,30,30,http://10.129.131.6:9763/assignments/details/2,9056,0,2
+1644152084629,16324,Upload,200,OK,Users 1-30,text,true,,44990,1311,30,30,http://10.129.131.6:9763/assignments/details/2,4786,0,2
+1644152083089,18342,Upload,200,OK,Users 1-17,text,true,,44990,1327,30,30,http://10.129.131.6:9763/assignments/details/2,7758,0,2
+1644152081679,21207,Upload,200,OK,Users 1-2,text,true,,44988,1311,30,30,http://10.129.131.6:9763/assignments/details/2,10319,0,2
+1644152083483,19432,Upload,200,OK,Users 1-11,text,true,,44990,1319,30,30,http://10.129.131.6:9763/assignments/details/2,10916,0,1
+1644152083457,20575,Upload,200,OK,Users 1-23,text,true,,44990,1319,30,30,http://10.129.131.6:9763/assignments/details/2,11058,0,2
+1644152089370,15794,Upload,200,OK,Users 1-5,text,true,,44988,1303,30,30,http://10.129.131.6:9763/assignments/details/2,6630,0,0
+1644152093856,11637,Upload,200,OK,Users 1-24,text,true,,44998,1307,30,30,http://10.129.131.6:9763/assignments/details/2,8559,0,0
+1644152095521,10237,Upload,200,OK,Users 1-4,text,true,,45010,1299,30,30,http://10.129.131.6:9763/assignments/details/2,5801,0,0
+1644152090380,15539,Upload,200,OK,Users 1-26,text,true,,44990,1327,30,30,http://10.129.131.6:9763/assignments/details/2,11077,0,0
+1644152085728,21128,Upload,200,OK,Users 1-9,text,true,,44988,1323,30,30,http://10.129.131.6:9763/assignments/details/2,11088,0,1
+1644152086812,20264,Upload,200,OK,Users 1-16,text,true,,45013,1295,30,30,http://10.129.131.6:9763/assignments/details/2,16340,0,0
+1644152089918,17418,Upload,200,OK,Users 1-20,text,true,,44990,1295,30,30,http://10.129.131.6:9763/assignments/details/2,11315,0,0
+1644152088794,19149,Upload,200,OK,Users 1-21,text,true,,45006,1291,30,30,http://10.129.131.6:9763/assignments/details/2,11367,0,0
+1644152080005,28186,Upload,200,OK,Users 1-15,text,true,,44990,1302,30,30,http://10.129.131.6:9763/assignments/details/2,9043,0,2
+1644152100254,9038,Upload,200,OK,Users 1-13,text,true,,44998,1298,30,30,http://10.129.131.6:9763/assignments/details/2,6587,0,0
+1644152099452,11140,Upload,200,OK,Users 1-19,text,true,,45005,1323,30,30,http://10.129.131.6:9763/assignments/details/2,4469,0,0
+1644152097808,12836,Upload,200,OK,Users 1-8,text,true,,44995,1295,30,30,http://10.129.131.6:9763/assignments/details/2,4820,0,0
+1644152105709,5270,Upload,200,OK,Users 1-14,text,true,,44998,1295,30,30,http://10.129.131.6:9763/assignments/details/2,2701,0,0
+1644152105437,6883,Upload,200,OK,Users 1-12,text,true,,44997,1322,30,30,http://10.129.131.6:9763/assignments/details/2,4488,0,0
+1644152106534,6196,Upload,200,OK,Users 1-1,text,true,,45018,1315,30,30,http://10.129.131.6:9763/assignments/details/2,2709,0,0
+1644152104036,9919,Upload,200,OK,Users 1-3,text,true,,44995,1327,30,30,http://10.129.131.6:9763/assignments/details/2,6047,0,0
+1644152109514,6485,Upload,200,OK,Users 1-7,text,true,,44996,1311,30,30,http://10.129.131.6:9763/assignments/details/2,2446,0,0
+1644152111157,6662,Upload,200,OK,Users 1-25,text,true,,44998,1310,30,30,http://10.129.131.6:9763/assignments/details/2,3920,0,0
+1644152110092,9135,Upload,200,OK,Users 1-6,text,true,,44995,1299,30,30,http://10.129.131.6:9763/assignments/details/2,4135,0,0
+1644152109560,9872,Upload,200,OK,Users 1-28,text,true,,44998,1319,30,30,http://10.129.131.6:9763/assignments/details/2,3186,0,0
+1644152113040,9631,Upload,200,OK,Users 1-10,text,true,,44990,1306,30,30,http://10.129.131.6:9763/assignments/details/2,4788,0,0
+1644152115152,8386,Upload,200,OK,Users 1-2,text,true,,44995,1315,30,30,http://10.129.131.6:9763/assignments/details/2,3335,0,0
+1644152117254,8029,Upload,200,OK,Users 1-5,text,true,,44988,1295,30,30,http://10.129.131.6:9763/assignments/details/2,3834,0,0
+1644152113823,11932,Upload,200,OK,Users 1-17,text,true,,44990,1295,30,30,http://10.129.131.6:9763/assignments/details/2,2853,0,0
+1644152113285,13106,Upload,200,OK,Users 1-27,text,true,,44990,1326,30,30,http://10.129.131.6:9763/assignments/details/2,5460,0,0
+1644152117709,9140,Upload,200,OK,Users 1-24,text,true,,44990,1314,30,30,http://10.129.131.6:9763/assignments/details/2,3862,0,0
+1644152112350,19010,Upload,200,OK,Users 1-18,text,true,,44997,1295,30,30,http://10.129.131.6:9763/assignments/details/2,4105,0,0
+1644152110817,21341,Upload,200,OK,Users 1-29,text,true,,44997,1303,30,30,http://10.129.131.6:9763/assignments/details/2,4499,0,0
+1644152118336,13864,Upload,200,OK,Users 1-26,text,true,,44990,1314,30,30,http://10.129.131.6:9763/assignments/details/2,7952,0,0
+1644152115198,17018,Upload,200,OK,Users 1-11,text,true,,44990,1295,30,30,http://10.129.131.6:9763/assignments/details/2,6540,0,0
+1644152120034,13164,Upload,200,OK,Users 1-20,text,true,,44990,1310,30,30,http://10.129.131.6:9763/assignments/details/2,5207,0,0
+1644152121883,12018,Upload,200,OK,Users 1-13,text,true,,44990,1295,30,30,http://10.129.131.6:9763/assignments/details/2,7574,0,0
+1644152113499,20525,Upload,200,OK,Users 1-22,text,true,,45006,1311,30,30,http://10.129.131.6:9763/assignments/details/2,10407,0,0
+1644152119291,15596,Upload,200,OK,Users 1-9,text,true,,44996,1303,30,30,http://10.129.131.6:9763/assignments/details/2,9882,0,0
+1644152116217,19315,Upload,200,OK,Users 1-23,text,true,,45006,1331,30,30,http://10.129.131.6:9763/assignments/details/2,9113,0,0
+1644152113623,22237,Upload,200,OK,Users 1-30,text,true,,44997,1291,30,30,http://10.129.131.6:9763/assignments/details/2,9872,0,0
+1644152117943,18014,Upload,200,OK,Users 1-4,text,true,,45010,1299,30,30,http://10.129.131.6:9763/assignments/details/2,9830,0,0
+1644152120557,15480,Upload,200,OK,Users 1-15,text,true,,44990,1327,30,30,http://10.129.131.6:9763/assignments/details/2,10251,0,0
+1644152124943,12702,Upload,200,OK,Users 1-1,text,true,,44988,1299,30,30,http://10.129.131.6:9763/assignments/details/2,5489,0,0
+1644152120416,17523,Upload,200,OK,Users 1-21,text,true,,44990,1307,30,30,http://10.129.131.6:9763/assignments/details/2,7473,0,0
+1644152119799,18168,Upload,200,OK,Users 1-16,text,true,,45005,1307,30,30,http://10.129.131.6:9763/assignments/details/2,8148,0,0
+1644152126151,13479,Upload,200,OK,Users 1-3,text,true,,44988,1290,30,30,http://10.129.131.6:9763/assignments/details/2,4389,0,0
+1644152123068,16976,Upload,200,OK,Users 1-19,text,true,,45020,1323,30,30,http://10.129.131.6:9763/assignments/details/2,10854,0,0
+1644152123193,16872,Upload,200,OK,Users 1-8,text,true,,44988,1299,30,30,http://10.129.131.6:9763/assignments/details/2,10756,0,0
+1644152123077,17405,Upload,200,OK,Users 1-14,text,true,,44990,1315,30,30,http://10.129.131.6:9763/assignments/details/2,10629,0,0
+1644152129998,11222,Upload,200,OK,Users 1-25,text,true,,44998,1295,30,30,http://10.129.131.6:9763/assignments/details/2,7291,0,0
+1644152124482,17839,Upload,200,OK,Users 1-12,text,true,,45012,1331,30,30,http://10.129.131.6:9763/assignments/details/2,14178,0,0
+1644152134793,8613,Upload,200,OK,Users 1-10,text,true,,44998,1319,30,30,http://10.129.131.6:9763/assignments/details/2,3757,0,0
+1644152131623,12947,Upload,200,OK,Users 1-6,text,true,,44995,1327,30,30,http://10.129.131.6:9763/assignments/details/2,9864,0,0
+1644152139435,6886,Upload,200,OK,Users 1-24,text,true,,44990,1315,30,30,http://10.129.131.6:9763/assignments/details/2,3091,0,2
+1644152136167,10455,Upload,200,OK,Users 1-2,text,true,,44995,1331,30,30,http://10.129.131.6:9763/assignments/details/2,4642,0,0
+1644152138474,8314,Upload,200,OK,Users 1-17,text,true,,44998,1307,30,30,http://10.129.131.6:9763/assignments/details/2,5002,0,0
+1644152132216,14953,Upload,200,OK,Users 1-28,text,true,,44998,1319,30,30,http://10.129.131.6:9763/assignments/details/2,11743,0,0
+1644152137474,10191,Upload,200,OK,Users 1-5,text,true,,44988,1318,30,30,http://10.129.131.6:9763/assignments/details/2,5293,0,2
+1644152128316,20057,Upload,200,OK,Users 1-7,text,true,,45019,1326,30,30,http://10.129.131.6:9763/assignments/details/2,9894,0,0
+1644152138650,14263,Upload,200,OK,Users 1-27,text,true,,44998,1327,30,30,http://10.129.131.6:9763/assignments/details/2,6693,0,0
+1644152145737,7844,Upload,200,OK,Users 1-20,text,true,,44997,1322,30,30,http://10.129.131.6:9763/assignments/details/2,3632,0,2
+1644152144973,9268,Upload,200,OK,Users 1-26,text,true,,44990,1327,30,30,http://10.129.131.6:9763/assignments/details/2,5299,0,2
+1644152146037,8220,Upload,200,OK,Users 1-13,text,true,,44990,1294,30,30,http://10.129.131.6:9763/assignments/details/2,4259,0,2
+1644152147109,10263,Upload,200,OK,Users 1-9,text,true,,44988,1291,30,30,http://10.129.131.6:9763/assignments/details/2,3003,0,2
+1644152144217,14155,Upload,200,OK,Users 1-29,text,true,,44990,1307,30,30,http://10.129.131.6:9763/assignments/details/2,7645,0,2
+1644152148376,12131,Upload,200,OK,Users 1-4,text,true,,44988,1327,30,30,http://10.129.131.6:9763/assignments/details/2,8130,0,1
+1644152146556,14272,Upload,200,OK,Users 1-22,text,true,,44997,1298,30,30,http://10.129.131.6:9763/assignments/details/2,3263,0,1
+1644152144351,17087,Upload,200,OK,Users 1-11,text,true,,44990,1311,30,30,http://10.129.131.6:9763/assignments/details/2,7519,0,2
+1644152150446,12077,Upload,200,OK,Users 1-16,text,true,,44990,1323,30,30,http://10.129.131.6:9763/assignments/details/2,7834,0,2
+1644152152957,9968,Upload,200,OK,Users 1-14,text,true,,44990,1327,30,30,http://10.129.131.6:9763/assignments/details/2,4255,0,2
+1644152150679,13472,Upload,200,OK,Users 1-21,text,true,,44990,1307,30,30,http://10.129.131.6:9763/assignments/details/2,9403,0,1
+1644152151828,13661,Upload,200,OK,Users 1-3,text,true,,44988,1307,30,30,http://10.129.131.6:9763/assignments/details/2,9938,0,1
+1644152147924,18068,Upload,200,OK,Users 1-23,text,true,,44990,1303,30,30,http://10.129.131.6:9763/assignments/details/2,8215,0,2
+1644152148238,18030,Upload,200,OK,Users 1-30,text,true,,44990,1299,30,30,http://10.129.131.6:9763/assignments/details/2,8310,0,2
+1644152148233,18063,Upload,200,OK,Users 1-15,text,true,,44990,1319,30,30,http://10.129.131.6:9763/assignments/details/2,8256,0,1
+1644152150407,16416,Upload,200,OK,Users 1-1,text,true,,44996,1327,30,30,http://10.129.131.6:9763/assignments/details/2,5377,0,1
+1644152152273,15264,Upload,200,OK,Users 1-19,text,true,,44990,1318,30,30,http://10.129.131.6:9763/assignments/details/2,9873,0,1
+1644152144025,25507,Upload,200,OK,Users 1-18,text,true,,44990,1315,30,30,http://10.129.131.6:9763/assignments/details/2,7529,0,2
+1644152156758,13664,Upload,200,OK,Users 1-6,text,true,,44988,1302,30,30,http://10.129.131.6:9763/assignments/details/2,4555,0,2
+1644152153763,16783,Upload,200,OK,Users 1-25,text,true,,45012,1323,30,30,http://10.129.131.6:9763/assignments/details/2,4260,0,0
+1644152159678,10991,Upload,200,OK,Users 1-28,text,true,,44990,1307,30,30,http://10.129.131.6:9763/assignments/details/2,4575,0,0
+1644152152249,18427,Upload,200,OK,Users 1-8,text,true,,44988,1327,30,30,http://10.129.131.6:9763/assignments/details/2,9693,0,1
+1644152160387,12273,Upload,200,OK,Users 1-7,text,true,,44988,1307,30,30,http://10.129.131.6:9763/assignments/details/2,7206,0,2
+1644152160323,12478,Upload,200,OK,Users 1-5,text,true,,44988,1299,30,30,http://10.129.131.6:9763/assignments/details/2,7481,0,0
+1644152158846,14554,Upload,200,OK,Users 1-24,text,true,,45005,1322,30,30,http://10.129.131.6:9763/assignments/details/2,7463,0,0
+1644152155062,18763,Upload,200,OK,Users 1-12,text,true,,44990,1311,30,30,http://10.129.131.6:9763/assignments/details/2,9879,0,2
+1644152155939,18871,Upload,200,OK,Users 1-10,text,true,,44998,1322,30,30,http://10.129.131.6:9763/assignments/details/2,12865,0,0
+1644152165595,9713,Upload,200,OK,Users 1-20,text,true,,45005,1331,30,30,http://10.129.131.6:9763/assignments/details/2,6008,0,0
+1644152165159,10634,Upload,200,OK,Users 1-27,text,true,,44997,1303,30,30,http://10.129.131.6:9763/assignments/details/2,7712,0,0
+1644152159477,16691,Upload,200,OK,Users 1-17,text,true,,45020,1311,30,30,http://10.129.131.6:9763/assignments/details/2,12295,0,0
+1644152158804,17903,Upload,200,OK,Users 1-2,text,true,,44988,1303,30,30,http://10.129.131.6:9763/assignments/details/2,7473,0,1
+1644152166921,10324,Upload,200,OK,Users 1-26,text,true,,45005,1315,30,30,http://10.129.131.6:9763/assignments/details/2,3563,0,0
+1644152167042,12081,Upload,200,OK,Users 1-13,text,true,,44997,1315,30,30,http://10.129.131.6:9763/assignments/details/2,4571,0,0
+1644152170490,8906,Upload,200,OK,Users 1-29,text,true,,44997,1303,30,30,http://10.129.131.6:9763/assignments/details/2,6265,0,0
+1644152172847,9837,Upload,200,OK,Users 1-22,text,true,,45012,1331,30,30,http://10.129.131.6:9763/assignments/details/2,3008,0,0
+1644152175391,9037,Upload,200,OK,Users 1-14,text,true,,44997,1290,30,30,http://10.129.131.6:9763/assignments/details/2,2614,0,0
+1644152177500,7504,Upload,200,OK,Users 1-3,text,true,,44995,1331,30,30,http://10.129.131.6:9763/assignments/details/2,2605,0,0
+1644152170141,14881,Upload,200,OK,Users 1-9,text,true,,45003,1307,30,30,http://10.129.131.6:9763/assignments/details/2,8032,0,0
+1644152173995,13159,Upload,200,OK,Users 1-11,text,true,,44997,1331,30,30,http://10.129.131.6:9763/assignments/details/2,6027,0,0
+1644152172872,14421,Upload,200,OK,Users 1-4,text,true,,44995,1299,30,30,http://10.129.131.6:9763/assignments/details/2,7319,0,0
+1644152179096,9031,Upload,200,OK,Users 1-15,text,true,,44990,1291,30,30,http://10.129.131.6:9763/assignments/details/2,2785,0,0
+1644152175031,13592,Upload,200,OK,Users 1-16,text,true,,44997,1294,30,30,http://10.129.131.6:9763/assignments/details/2,6553,0,0
+1644152180032,9887,Upload,200,OK,Users 1-19,text,true,,44990,1327,30,30,http://10.129.131.6:9763/assignments/details/2,3249,0,0
+1644152176287,15653,Upload,200,OK,Users 1-21,text,true,,44997,1322,30,30,http://10.129.131.6:9763/assignments/details/2,5496,0,0
+1644152178181,16379,Upload,200,OK,Users 1-23,text,true,,44997,1319,30,30,http://10.129.131.6:9763/assignments/details/2,4692,0,0
+1644152186401,10307,Upload,200,OK,Users 1-12,text,true,,44990,1295,30,30,http://10.129.131.6:9763/assignments/details/2,4031,0,0
+1644152183115,13721,Upload,200,OK,Users 1-6,text,true,,44996,1315,30,30,http://10.129.131.6:9763/assignments/details/2,8771,0,0
+1644152178906,18272,Upload,200,OK,Users 1-30,text,true,,44997,1318,30,30,http://10.129.131.6:9763/assignments/details/2,6810,0,0
+1644152183245,15110,Upload,200,OK,Users 1-25,text,true,,44990,1327,30,30,http://10.129.131.6:9763/assignments/details/2,9035,0,0
+1644152188177,10639,Upload,200,OK,Users 1-17,text,true,,44997,1307,30,30,http://10.129.131.6:9763/assignments/details/2,3864,0,0
+1644152188489,10884,Upload,200,OK,Users 1-27,text,true,,44990,1310,30,30,http://10.129.131.6:9763/assignments/details/2,3948,0,0
+1644152179229,22099,Upload,200,OK,Users 1-1,text,true,,44996,1327,30,30,http://10.129.131.6:9763/assignments/details/2,6770,0,0
+1644152183212,18297,Upload,200,OK,Users 1-8,text,true,,44988,1290,30,30,http://10.129.131.6:9763/assignments/details/2,8821,0,0
+1644152183208,18426,Upload,200,OK,Users 1-28,text,true,,44990,1311,30,30,http://10.129.131.6:9763/assignments/details/2,8706,0,0
+1644152185460,16373,Upload,200,OK,Users 1-5,text,true,,44988,1299,30,30,http://10.129.131.6:9763/assignments/details/2,7256,0,0
+1644152186014,17162,Upload,200,OK,Users 1-24,text,true,,45026,1319,30,30,http://10.129.131.6:9763/assignments/details/2,13089,0,0
+1644152187463,15730,Upload,200,OK,Users 1-20,text,true,,44990,1311,30,30,http://10.129.131.6:9763/assignments/details/2,6537,0,0
+1644152189975,14312,Upload,200,OK,Users 1-26,text,true,,44998,1302,30,30,http://10.129.131.6:9763/assignments/details/2,9111,0,0
+1644152189016,15853,Upload,200,OK,Users 1-2,text,true,,44988,1307,30,30,http://10.129.131.6:9763/assignments/details/2,6360,0,0
+1644152191159,13726,Upload,200,OK,Users 1-13,text,true,,44990,1299,30,30,http://10.129.131.6:9763/assignments/details/2,4092,0,0
+1644152184922,21009,Upload,200,OK,Users 1-7,text,true,,44995,1319,30,30,http://10.129.131.6:9763/assignments/details/2,3988,0,0
+1644152181785,24798,Upload,200,OK,Users 1-18,text,true,,44990,1299,30,30,http://10.129.131.6:9763/assignments/details/2,11967,0,0
+1644152197753,10691,Upload,200,OK,Users 1-9,text,true,,44988,1299,30,30,http://10.129.131.6:9763/assignments/details/2,4483,0,0
+1644152200716,8041,Upload,200,OK,Users 1-15,text,true,,45012,1319,30,30,http://10.129.131.6:9763/assignments/details/2,4312,0,0
+1644152200940,8040,Upload,200,OK,Users 1-16,text,true,,44990,1303,30,30,http://10.129.131.6:9763/assignments/details/2,4188,0,0
+1644152202507,8570,Upload,200,OK,Users 1-19,text,true,,44998,1295,30,30,http://10.129.131.6:9763/assignments/details/2,3529,0,0
+1644152199750,11393,Upload,200,OK,Users 1-4,text,true,,45018,1311,30,30,http://10.129.131.6:9763/assignments/details/2,6437,0,0
+1644152197227,14421,Upload,200,OK,Users 1-3,text,true,,45003,1295,30,30,http://10.129.131.6:9763/assignments/details/2,8994,0,0
+1644152204398,8077,Upload,200,OK,Users 1-21,text,true,,45012,1303,30,30,http://10.129.131.6:9763/assignments/details/2,3439,0,0
+1644152192007,20657,Upload,200,OK,Users 1-29,text,true,,44998,1319,30,30,http://10.129.131.6:9763/assignments/details/2,15372,0,0
+1644152194822,18154,Upload,200,OK,Users 1-22,text,true,,44998,1299,30,30,http://10.129.131.6:9763/assignments/details/2,12993,0,0
+1644152187454,25959,Upload,200,OK,Users 1-10,text,true,,44990,1330,30,30,http://10.129.131.6:9763/assignments/details/2,10232,0,0
+1644152196953,17264,Upload,200,OK,Users 1-14,text,true,,44998,1291,30,30,http://10.129.131.6:9763/assignments/details/2,5174,0,0
+1644152199758,15062,Upload,200,OK,Users 1-11,text,true,,44998,1299,30,30,http://10.129.131.6:9763/assignments/details/2,11496,0,0
+1644152207188,8368,Upload,200,OK,Users 1-23,text,true,,44998,1311,30,30,http://10.129.131.6:9763/assignments/details/2,2849,0,0
+1644152210397,8305,Upload,200,OK,Users 1-25,text,true,,44997,1307,30,30,http://10.129.131.6:9763/assignments/details/2,3236,0,2
+1644152214041,8687,Upload,200,OK,Users 1-28,text,true,,45012,1319,30,30,http://10.129.131.6:9763/assignments/details/2,3698,0,2
+1644152209697,14346,Upload,200,OK,Users 1-30,text,true,,44997,1299,30,30,http://10.129.131.6:9763/assignments/details/2,5334,0,2
+1644152209085,15058,Upload,200,OK,Users 1-12,text,true,,44998,1319,30,30,http://10.129.131.6:9763/assignments/details/2,6967,0,0
+1644152216655,7617,Upload,200,OK,Users 1-26,text,true,,44990,1311,30,30,http://10.129.131.6:9763/assignments/details/2,3202,0,1
+1644152209391,15509,Upload,200,OK,Users 1-6,text,true,,44996,1311,30,30,http://10.129.131.6:9763/assignments/details/2,9258,0,0
+1644152214315,10734,Upload,200,OK,Users 1-5,text,true,,44995,1327,30,30,http://10.129.131.6:9763/assignments/details/2,3166,0,1
+1644152215810,10647,Upload,200,OK,Users 1-20,text,true,,44990,1299,30,30,http://10.129.131.6:9763/assignments/details/2,5247,0,1
+1644152217441,9688,Upload,200,OK,Users 1-13,text,true,,44990,1326,30,30,http://10.129.131.6:9763/assignments/details/2,5835,0,1
+1644152215529,12379,Upload,200,OK,Users 1-24,text,true,,44990,1295,30,30,http://10.129.131.6:9763/assignments/details/2,3711,0,2
+1644152213847,14759,Upload,200,OK,Users 1-8,text,true,,44988,1311,30,30,http://10.129.131.6:9763/assignments/details/2,7310,0,2
+1644152218586,10723,Upload,200,OK,Users 1-18,text,true,,44990,1307,30,30,http://10.129.131.6:9763/assignments/details/2,4299,0,2
+1644152218173,12460,Upload,200,OK,Users 1-7,text,true,,44996,1307,30,30,http://10.129.131.6:9763/assignments/details/2,3424,0,0
+1644152211595,19934,Upload,200,OK,Users 1-27,text,true,,44990,1307,30,30,http://10.129.131.6:9763/assignments/details/2,7147,0,1
+1644152223915,8381,Upload,200,OK,Users 1-4,text,true,,44988,1327,30,30,http://10.129.131.6:9763/assignments/details/2,4121,0,2
+1644152211616,21178,Upload,200,OK,Users 1-17,text,true,,44997,1299,29,29,http://10.129.131.6:9763/assignments/details/2,5601,0,2
+1644152217147,17074,Upload,200,OK,Users 1-2,text,true,,44996,1315,28,28,http://10.129.131.6:9763/assignments/details/2,13421,0,0
+1644152224351,10663,Upload,200,OK,Users 1-3,text,true,,44988,1307,27,27,http://10.129.131.6:9763/assignments/details/2,4056,0,3
+1644152221097,15502,Upload,200,OK,Users 1-9,text,true,,44988,1327,26,26,http://10.129.131.6:9763/assignments/details/2,9428,0,2
+1644152225120,11790,Upload,200,OK,Users 1-21,text,true,,44990,1310,25,25,http://10.129.131.6:9763/assignments/details/2,8626,0,1
+1644152223340,13570,Upload,200,OK,Users 1-19,text,true,,44990,1299,25,25,http://10.129.131.6:9763/assignments/details/2,6696,0,2
+1644152213697,24127,Upload,200,OK,Users 1-1,text,true,,44988,1319,23,23,http://10.129.131.6:9763/assignments/details/2,7413,0,2
+1644152221281,17570,Upload,200,OK,Users 1-16,text,true,,44997,1327,22,22,http://10.129.131.6:9763/assignments/details/2,9447,0,2
+1644152221468,17415,Upload,200,OK,Users 1-15,text,true,,44998,1295,21,21,http://10.129.131.6:9763/assignments/details/2,9437,0,1
+1644152226903,11980,Upload,200,OK,Users 1-14,text,true,,44997,1307,21,21,http://10.129.131.6:9763/assignments/details/2,4046,0,1
+1644152225245,13943,Upload,200,OK,Users 1-22,text,true,,45012,1295,19,19,http://10.129.131.6:9763/assignments/details/2,8546,0,0
+1644152226154,13422,Upload,200,OK,Users 1-10,text,true,,44990,1315,18,18,http://10.129.131.6:9763/assignments/details/2,7141,0,1
+1644152228157,13623,Upload,200,OK,Users 1-23,text,true,,44997,1319,17,17,http://10.129.131.6:9763/assignments/details/2,6146,0,0
+1644152236734,6677,Upload,200,OK,Users 1-12,text,true,,44997,1323,16,16,http://10.129.131.6:9763/assignments/details/2,3321,0,0
+1644152227195,17628,Upload,200,OK,Users 1-11,text,true,,44998,1327,15,15,http://10.129.131.6:9763/assignments/details/2,9137,0,0
+1644152237694,8429,Upload,200,OK,Users 1-6,text,true,,44996,1319,14,14,http://10.129.131.6:9763/assignments/details/2,5587,0,0
+1644152225131,22450,Upload,200,OK,Users 1-29,text,true,,44998,1303,13,13,http://10.129.131.6:9763/assignments/details/2,12761,0,0
+1644152236344,11244,Upload,200,OK,Users 1-30,text,true,,44997,1311,12,12,http://10.129.131.6:9763/assignments/details/2,4211,0,0
+1644152231207,16895,Upload,200,OK,Users 1-25,text,true,,44997,1299,11,11,http://10.129.131.6:9763/assignments/details/2,7723,0,0
+1644152237411,10703,Upload,200,OK,Users 1-5,text,true,,44996,1327,10,10,http://10.129.131.6:9763/assignments/details/2,7106,0,0
+1644152239911,8488,Upload,200,OK,Users 1-13,text,true,,44997,1298,9,9,http://10.129.131.6:9763/assignments/details/2,3095,0,0
+1644152235153,14337,Upload,200,OK,Users 1-28,text,true,,45005,1311,8,8,http://10.129.131.6:9763/assignments/details/2,9864,0,0
+1644152237048,12661,Upload,200,OK,Users 1-26,text,true,,44997,1306,7,7,http://10.129.131.6:9763/assignments/details/2,5311,0,0
+1644152240563,10464,Upload,200,OK,Users 1-24,text,true,,44997,1315,6,6,http://10.129.131.6:9763/assignments/details/2,5577,0,0
+1644152242879,8181,Upload,200,OK,Users 1-7,text,true,,44996,1326,5,5,http://10.129.131.6:9763/assignments/details/2,6056,0,0
+1644152241720,9620,Upload,200,OK,Users 1-18,text,true,,44998,1306,4,4,http://10.129.131.6:9763/assignments/details/2,3838,0,0
+1644152243730,7820,Upload,200,OK,Users 1-27,text,true,,44997,1327,3,3,http://10.129.131.6:9763/assignments/details/2,4918,0,0
+1644152240930,10662,Upload,200,OK,Users 1-8,text,true,,44995,1319,2,2,http://10.129.131.6:9763/assignments/details/2,4460,0,0
+1644152238560,13516,Upload,200,OK,Users 1-20,text,true,,44997,1330,1,1,http://10.129.131.6:9763/assignments/details/2,11059,0,0

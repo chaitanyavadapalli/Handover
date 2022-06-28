@@ -1,0 +1,254 @@
+2021-09-17 16:41:53,987 INFO o.a.j.u.JMeterUtils: Setting Locale to en_EN
+2021-09-17 16:41:55,214 INFO o.a.j.JMeter: Loading user properties from: /home/panda/LoadTest/ClientFolder/rnd_load_test/apache-jmeter-5.3/bin/user.properties
+2021-09-17 16:41:55,368 INFO o.a.j.JMeter: Loading system properties from: /home/panda/LoadTest/ClientFolder/rnd_load_test/apache-jmeter-5.3/bin/system.properties
+2021-09-17 16:41:55,391 INFO o.a.j.JMeter: Copyright (c) 1998-2020 The Apache Software Foundation
+2021-09-17 16:41:55,392 INFO o.a.j.JMeter: Version 5.3
+2021-09-17 16:41:55,392 INFO o.a.j.JMeter: java.version=11.0.11
+2021-09-17 16:41:55,392 INFO o.a.j.JMeter: java.vm.name=OpenJDK 64-Bit Server VM
+2021-09-17 16:41:55,393 INFO o.a.j.JMeter: os.name=Linux
+2021-09-17 16:41:55,393 INFO o.a.j.JMeter: os.arch=amd64
+2021-09-17 16:41:55,394 INFO o.a.j.JMeter: os.version=4.15.0-135-generic
+2021-09-17 16:41:55,394 INFO o.a.j.JMeter: file.encoding=UTF-8
+2021-09-17 16:41:55,394 INFO o.a.j.JMeter: java.awt.headless=true
+2021-09-17 16:41:55,395 INFO o.a.j.JMeter: Max memory     =1073741824
+2021-09-17 16:41:55,395 INFO o.a.j.JMeter: Available Processors =16
+2021-09-17 16:41:55,834 INFO o.a.j.JMeter: Default Locale=English (EN)
+2021-09-17 16:41:55,836 INFO o.a.j.JMeter: JMeter  Locale=English (EN)
+2021-09-17 16:41:55,837 INFO o.a.j.JMeter: JMeterHome=/home/panda/LoadTest/ClientFolder/rnd_load_test/apache-jmeter-5.3
+2021-09-17 16:41:55,837 INFO o.a.j.JMeter: user.dir  =/home/panda/LoadTest/ClientFolder/rnd_load_test
+2021-09-17 16:41:55,838 INFO o.a.j.JMeter: PWD       =/home/panda/LoadTest/ClientFolder/rnd_load_test
+2021-09-17 16:41:55,839 INFO o.a.j.JMeter: IP: 10.129.131.4 Name: khinchin FullName: khinchin
+2021-09-17 16:41:55,844 INFO o.a.j.JMeter: Setting property 'jmeter.reportgenerator.outputdir' to:'/home/panda/LoadTest/ClientFolder/rnd_load_test/test_results/users_20_17092021_164058/output'
+2021-09-17 16:41:55,870 INFO o.a.j.s.FileServer: Default base='/home/panda/LoadTest/ClientFolder/rnd_load_test'
+2021-09-17 16:41:55,888 INFO o.a.j.s.FileServer: Set new base='/home/panda/LoadTest/ClientFolder/rnd_load_test'
+2021-09-17 16:41:59,235 INFO o.a.j.s.SaveService: Testplan (JMX) version: 2.2. Testlog (JTL) version: 2.2
+2021-09-17 16:42:02,926 INFO o.a.j.s.SaveService: Using SaveService properties version 5.0
+2021-09-17 16:42:02,933 INFO o.a.j.s.SaveService: Using SaveService properties file encoding UTF-8
+2021-09-17 16:42:02,941 INFO o.a.j.s.SaveService: Loading file: evalpro_load_test.jmx
+2021-09-17 16:42:03,129 INFO o.a.j.p.h.c.CookieManager: Settings: Delete null: true Check: true Allow variable: true Save: false Prefix: COOKIE_
+2021-09-17 16:42:03,991 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/html is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2021-09-17 16:42:03,991 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for application/xhtml+xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2021-09-17 16:42:03,991 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for application/xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2021-09-17 16:42:03,992 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2021-09-17 16:42:03,992 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/vnd.wap.wml is org.apache.jmeter.protocol.http.parser.RegexpHTMLParser
+2021-09-17 16:42:03,992 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/css is org.apache.jmeter.protocol.http.parser.CssParser
+2021-09-17 16:42:05,937 INFO o.a.j.JMeter: Creating summariser <summary>
+2021-09-17 16:42:06,045 INFO o.a.j.r.d.ReportGenerator: ReportGenerator will use for Parsing the separator: ','
+2021-09-17 16:42:06,046 INFO o.a.j.r.d.ReportGenerator: Will generate report at end of test from  results file: test_results/users_20_17092021_164058/results.csv
+2021-09-17 16:42:06,046 INFO o.a.j.r.d.ReportGenerator: Reading report generator properties from: /home/panda/LoadTest/ClientFolder/rnd_load_test/apache-jmeter-5.3/bin/reportgenerator.properties
+2021-09-17 16:42:06,237 INFO o.a.j.r.d.ReportGenerator: Merging with JMeter properties
+2021-09-17 16:42:06,408 INFO o.a.j.r.c.ReportGeneratorConfiguration: Property 'jmeter.reportgenerator.temp_dir' not found, using default value 'temp' instead.
+2021-09-17 16:42:06,419 INFO o.a.j.r.c.ReportGeneratorConfiguration: Property 'jmeter.reportgenerator.apdex_per_transaction' not found, using default value 'null' instead.
+2021-09-17 16:42:06,419 INFO o.a.j.r.c.ReportGeneratorConfiguration: apdex_per_transaction is empty, not APDEX per transaction customization
+2021-09-17 16:42:06,420 INFO o.a.j.r.c.ReportGeneratorConfiguration: Property 'jmeter.reportgenerator.sample_filter' not found, using default value 'null' instead.
+2021-09-17 16:42:06,420 INFO o.a.j.r.c.ReportGeneratorConfiguration: Property 'jmeter.reportgenerator.report_title' not found, using default value 'null' instead.
+2021-09-17 16:42:06,420 INFO o.a.j.r.c.ReportGeneratorConfiguration: Property 'jmeter.reportgenerator.start_date' not found, using default value 'null' instead.
+2021-09-17 16:42:06,421 INFO o.a.j.r.c.ReportGeneratorConfiguration: Property 'jmeter.reportgenerator.end_date' not found, using default value 'null' instead.
+2021-09-17 16:42:06,421 INFO o.a.j.r.c.ReportGeneratorConfiguration: Property 'jmeter.reportgenerator.date_format' not found, using default value 'null' instead.
+2021-09-17 16:42:06,423 INFO o.a.j.r.c.ReportGeneratorConfiguration: Will use date range start date: null, end date: null
+2021-09-17 16:42:06,703 INFO o.a.j.r.c.ReportGeneratorConfiguration: Property 'jmeter.reportgenerator.graph.totalTPS.exclude_controllers' not found, using default value 'false' instead.
+2021-09-17 16:42:06,704 INFO o.a.j.r.c.ReportGeneratorConfiguration: Property 'jmeter.reportgenerator.graph.activeThreadsOverTime.exclude_controllers' not found, using default value 'false' instead.
+2021-09-17 16:42:06,704 INFO o.a.j.r.c.ReportGeneratorConfiguration: Property 'jmeter.reportgenerator.graph.timeVsThreads.exclude_controllers' not found, using default value 'false' instead.
+2021-09-17 16:42:06,705 INFO o.a.j.r.c.ReportGeneratorConfiguration: Property 'jmeter.reportgenerator.graph.responseTimeDistribution.exclude_controllers' not found, using default value 'false' instead.
+2021-09-17 16:42:06,705 INFO o.a.j.r.c.ReportGeneratorConfiguration: Property 'jmeter.reportgenerator.graph.transactionsPerSecond.exclude_controllers' not found, using default value 'false' instead.
+2021-09-17 16:42:06,705 INFO o.a.j.r.c.ReportGeneratorConfiguration: Property 'jmeter.reportgenerator.graph.responseTimePercentiles.exclude_controllers' not found, using default value 'false' instead.
+2021-09-17 16:42:06,706 INFO o.a.j.r.c.ReportGeneratorConfiguration: Property 'jmeter.reportgenerator.graph.responseTimePercentilesOverTime.exclude_controllers' not found, using default value 'false' instead.
+2021-09-17 16:42:06,707 INFO o.a.j.r.c.ReportGeneratorConfiguration: Property 'jmeter.reportgenerator.graph.responseTimesOverTime.exclude_controllers' not found, using default value 'false' instead.
+2021-09-17 16:42:06,707 INFO o.a.j.r.c.ReportGeneratorConfiguration: Property 'jmeter.reportgenerator.graph.connectTimeOverTime.exclude_controllers' not found, using default value 'false' instead.
+2021-09-17 16:42:06,708 INFO o.a.j.r.c.ReportGeneratorConfiguration: Property 'jmeter.reportgenerator.graph.latenciesOverTime.exclude_controllers' not found, using default value 'false' instead.
+2021-09-17 16:42:06,710 INFO o.a.j.r.c.ReportGeneratorConfiguration: Property 'jmeter.reportgenerator.exporter.json.filters_only_sample_series' not found, using default value 'true' instead.
+2021-09-17 16:42:06,711 INFO o.a.j.r.c.ReportGeneratorConfiguration: Property 'jmeter.reportgenerator.exporter.json.series_filter' not found, using default value '' instead.
+2021-09-17 16:42:06,711 INFO o.a.j.r.c.ReportGeneratorConfiguration: Property 'jmeter.reportgenerator.exporter.json.show_controllers_only' not found, using default value 'false' instead.
+2021-09-17 16:42:06,713 INFO o.a.j.r.c.ReportGeneratorConfiguration: Property 'jmeter.reportgenerator.exporter.html.filters_only_sample_series' not found, using default value 'true' instead.
+2021-09-17 16:42:06,713 INFO o.a.j.r.c.ReportGeneratorConfiguration: Property 'jmeter.reportgenerator.exporter.html.series_filter' not found, using default value '' instead.
+2021-09-17 16:42:06,713 INFO o.a.j.r.c.ReportGeneratorConfiguration: Property 'jmeter.reportgenerator.exporter.html.show_controllers_only' not found, using default value 'false' instead.
+2021-09-17 16:42:06,757 INFO o.a.j.e.StandardJMeterEngine: Running the test!
+2021-09-17 16:42:07,105 INFO o.a.j.s.SampleEvent: List of sample_variables: []
+2021-09-17 16:42:07,105 INFO o.a.j.s.SampleEvent: List of sample_variables: []
+2021-09-17 16:42:07,404 INFO o.a.j.e.u.CompoundVariable: Note: Function class names must contain the string: '.functions.'
+2021-09-17 16:42:07,405 INFO o.a.j.e.u.CompoundVariable: Note: Function class names must not contain the string: '.gui.'
+2021-09-17 16:42:28,289 INFO o.a.j.JMeter: Running test (1631877148289)
+2021-09-17 16:42:28,489 INFO o.a.j.e.StandardJMeterEngine: Starting ThreadGroup: 1 : Users
+2021-09-17 16:42:28,489 INFO o.a.j.e.StandardJMeterEngine: Starting 20 threads for group Users.
+2021-09-17 16:42:28,489 INFO o.a.j.e.StandardJMeterEngine: Thread will continue on error
+2021-09-17 16:42:28,490 INFO o.a.j.t.ThreadGroup: Starting thread group... number=1 threads=20 ramp-up=0 delayedStart=false
+2021-09-17 16:42:28,748 INFO o.a.j.t.JMeterThread: Thread started: Users 1-1
+2021-09-17 16:42:28,748 INFO o.a.j.t.JMeterThread: Thread started: Users 1-5
+2021-09-17 16:42:28,748 INFO o.a.j.t.JMeterThread: Thread started: Users 1-3
+2021-09-17 16:42:28,748 INFO o.a.j.t.JMeterThread: Thread started: Users 1-2
+2021-09-17 16:42:28,748 INFO o.a.j.t.JMeterThread: Thread started: Users 1-4
+2021-09-17 16:42:28,752 INFO o.a.j.s.FileServer: Stored: /home/panda/LoadTest/ClientFolder/rnd_load_test/users_1000.csv
+2021-09-17 16:42:28,784 INFO o.a.j.t.JMeterThread: Thread started: Users 1-6
+2021-09-17 16:42:28,994 INFO o.a.j.t.JMeterThread: Thread started: Users 1-7
+2021-09-17 16:42:29,284 INFO o.a.j.t.JMeterThread: Thread started: Users 1-8
+2021-09-17 16:42:29,301 INFO o.a.j.p.h.s.HTTPHCAbstractImpl: Local host = khinchin
+2021-09-17 16:42:29,438 INFO o.a.j.p.h.s.HTTPHC4Impl: HTTP request retry count = 0
+2021-09-17 16:42:29,442 INFO o.a.j.s.SampleResult: Note: Sample TimeStamps are START times
+2021-09-17 16:42:29,442 INFO o.a.j.s.SampleResult: sampleresult.default.encoding is set to ISO-8859-1
+2021-09-17 16:42:29,442 INFO o.a.j.s.SampleResult: sampleresult.useNanoTime=true
+2021-09-17 16:42:29,443 INFO o.a.j.s.SampleResult: sampleresult.nanoThreadSleep=5000
+2021-09-17 16:42:29,444 INFO o.a.j.t.JMeterThread: Thread started: Users 1-9
+2021-09-17 16:42:29,970 INFO o.a.j.t.JMeterThread: Thread started: Users 1-10
+2021-09-17 16:42:32,296 INFO o.a.j.t.JMeterThread: Thread started: Users 1-11
+2021-09-17 16:42:32,791 INFO o.a.j.t.JMeterThread: Thread started: Users 1-12
+2021-09-17 16:42:32,814 INFO o.a.j.t.JMeterThread: Thread started: Users 1-13
+2021-09-17 16:42:32,841 INFO o.a.j.t.JMeterThread: Thread started: Users 1-14
+2021-09-17 16:42:32,863 INFO o.a.j.t.JMeterThread: Thread started: Users 1-15
+2021-09-17 16:42:32,885 INFO o.a.j.t.JMeterThread: Thread started: Users 1-16
+2021-09-17 16:42:32,906 INFO o.a.j.t.JMeterThread: Thread started: Users 1-17
+2021-09-17 16:42:32,929 INFO o.a.j.t.JMeterThread: Thread started: Users 1-18
+2021-09-17 16:42:32,946 INFO o.a.j.t.JMeterThread: Thread started: Users 1-19
+2021-09-17 16:42:32,966 INFO o.a.j.t.ThreadGroup: Started thread group number 1
+2021-09-17 16:42:32,966 INFO o.a.j.e.StandardJMeterEngine: All thread groups have been started
+2021-09-17 16:42:32,967 INFO o.a.j.t.JMeterThread: Thread started: Users 1-20
+2021-09-17 16:42:34,437 INFO o.a.j.r.Summariser: summary +      1 in 00:00:06 =    0.2/s Avg:  1480 Min:  1480 Max:  1480 Err:     0 (0.00%) Active: 20 Started: 20 Finished: 0
+2021-09-17 16:43:09,180 INFO o.a.j.s.FileServer: Stored: /home/panda/LoadTest/ClientFolder/rnd_load_test/student_solutions/2/user48.zip
+2021-09-17 16:43:09,181 INFO o.a.j.s.FileServer: Stored: /home/panda/LoadTest/ClientFolder/rnd_load_test/student_solutions/2/user33.zip
+2021-09-17 16:43:09,200 INFO o.a.j.s.FileServer: Stored: /home/panda/LoadTest/ClientFolder/rnd_load_test/student_solutions/2/user27.zip
+2021-09-17 16:43:09,262 INFO o.a.j.s.FileServer: Stored: /home/panda/LoadTest/ClientFolder/rnd_load_test/student_solutions/2/user5.zip
+2021-09-17 16:43:09,329 INFO o.a.j.s.FileServer: Stored: /home/panda/LoadTest/ClientFolder/rnd_load_test/student_solutions/2/user44.zip
+2021-09-17 16:43:09,462 INFO o.a.j.s.FileServer: Stored: /home/panda/LoadTest/ClientFolder/rnd_load_test/student_solutions/2/user15.zip
+2021-09-17 16:43:09,561 INFO o.a.j.s.FileServer: Stored: /home/panda/LoadTest/ClientFolder/rnd_load_test/student_solutions/2/user39.zip
+2021-09-17 16:43:09,594 INFO o.a.j.s.FileServer: Stored: /home/panda/LoadTest/ClientFolder/rnd_load_test/student_solutions/2/user7.zip
+2021-09-17 16:43:09,680 INFO o.a.j.s.FileServer: Stored: /home/panda/LoadTest/ClientFolder/rnd_load_test/student_solutions/2/user8.zip
+2021-09-17 16:43:09,732 INFO o.a.j.s.FileServer: Stored: /home/panda/LoadTest/ClientFolder/rnd_load_test/student_solutions/2/user37.zip
+2021-09-17 16:43:09,756 INFO o.a.j.s.FileServer: Stored: /home/panda/LoadTest/ClientFolder/rnd_load_test/student_solutions/2/user50.zip
+2021-09-17 16:43:09,766 INFO o.a.j.s.FileServer: Stored: /home/panda/LoadTest/ClientFolder/rnd_load_test/student_solutions/2/user16.zip
+2021-09-17 16:43:09,816 INFO o.a.j.s.FileServer: Stored: /home/panda/LoadTest/ClientFolder/rnd_load_test/student_solutions/2/user47.zip
+2021-09-17 16:43:09,860 INFO o.a.j.s.FileServer: Stored: /home/panda/LoadTest/ClientFolder/rnd_load_test/student_solutions/2/user30.zip
+2021-09-17 16:43:09,992 INFO o.a.j.s.FileServer: Stored: /home/panda/LoadTest/ClientFolder/rnd_load_test/student_solutions/2/user12.zip
+2021-09-17 16:43:10,042 INFO o.a.j.s.FileServer: Stored: /home/panda/LoadTest/ClientFolder/rnd_load_test/student_solutions/2/user21.zip
+2021-09-17 16:43:10,066 INFO o.a.j.s.FileServer: Stored: /home/panda/LoadTest/ClientFolder/rnd_load_test/student_solutions/2/user25.zip
+2021-09-17 16:43:30,666 INFO o.a.j.r.Summariser: summary +    171 in 00:00:56 =    3.0/s Avg:  1309 Min:    25 Max:  7755 Err:     0 (0.00%) Active: 20 Started: 20 Finished: 0
+2021-09-17 16:43:30,667 INFO o.a.j.r.Summariser: summary =    172 in 00:01:02 =    2.8/s Avg:  1310 Min:    25 Max:  7755 Err:     0 (0.00%)
+2021-09-17 16:43:36,617 INFO o.a.j.s.FileServer: Stored: /home/panda/LoadTest/ClientFolder/rnd_load_test/student_solutions/2/user38.zip
+2021-09-17 16:43:36,618 INFO o.a.j.s.FileServer: Stored: /home/panda/LoadTest/ClientFolder/rnd_load_test/student_solutions/2/user17.zip
+2021-09-17 16:43:36,989 INFO o.a.j.s.FileServer: Stored: /home/panda/LoadTest/ClientFolder/rnd_load_test/student_solutions/2/user36.zip
+2021-09-17 16:43:38,272 INFO o.a.j.s.FileServer: Stored: /home/panda/LoadTest/ClientFolder/rnd_load_test/student_solutions/2/user13.zip
+2021-09-17 16:43:43,201 INFO o.a.j.s.FileServer: Stored: /home/panda/LoadTest/ClientFolder/rnd_load_test/student_solutions/2/user23.zip
+2021-09-17 16:43:43,202 INFO o.a.j.s.FileServer: Stored: /home/panda/LoadTest/ClientFolder/rnd_load_test/student_solutions/2/user22.zip
+2021-09-17 16:43:45,353 INFO o.a.j.s.FileServer: Stored: /home/panda/LoadTest/ClientFolder/rnd_load_test/student_solutions/2/user49.zip
+2021-09-17 16:43:46,130 INFO o.a.j.s.FileServer: Stored: /home/panda/LoadTest/ClientFolder/rnd_load_test/student_solutions/2/user26.zip
+2021-09-17 16:43:48,091 INFO o.a.j.s.FileServer: Stored: /home/panda/LoadTest/ClientFolder/rnd_load_test/student_solutions/2/user31.zip
+2021-09-17 16:44:00,259 INFO o.a.j.r.Summariser: summary +     83 in 00:00:30 =    2.8/s Avg:  3492 Min:   260 Max: 25989 Err:     0 (0.00%) Active: 20 Started: 20 Finished: 0
+2021-09-17 16:44:00,260 INFO o.a.j.r.Summariser: summary =    255 in 00:01:32 =    2.8/s Avg:  2020 Min:    25 Max: 25989 Err:     0 (0.00%)
+2021-09-17 16:44:02,963 INFO o.a.j.s.FileServer: Stored: /home/panda/LoadTest/ClientFolder/rnd_load_test/student_solutions/2/user24.zip
+2021-09-17 16:44:03,019 INFO o.a.j.s.FileServer: Stored: /home/panda/LoadTest/ClientFolder/rnd_load_test/student_solutions/2/user29.zip
+2021-09-17 16:44:03,193 INFO o.a.j.s.FileServer: Stored: /home/panda/LoadTest/ClientFolder/rnd_load_test/student_solutions/2/user6.zip
+2021-09-17 16:44:03,895 INFO o.a.j.s.FileServer: Stored: /home/panda/LoadTest/ClientFolder/rnd_load_test/student_solutions/2/user19.zip
+2021-09-17 16:44:10,934 INFO o.a.j.s.FileServer: Stored: /home/panda/LoadTest/ClientFolder/rnd_load_test/student_solutions/2/user18.zip
+2021-09-17 16:44:12,196 INFO o.a.j.s.FileServer: Stored: /home/panda/LoadTest/ClientFolder/rnd_load_test/student_solutions/2/user1.zip
+2021-09-17 16:44:12,984 INFO o.a.j.s.FileServer: Stored: /home/panda/LoadTest/ClientFolder/rnd_load_test/student_solutions/2/user42.zip
+2021-09-17 16:44:24,769 INFO o.a.j.s.FileServer: Stored: /home/panda/LoadTest/ClientFolder/rnd_load_test/student_solutions/2/user2.zip
+2021-09-17 16:44:26,455 INFO o.a.j.s.FileServer: Stored: /home/panda/LoadTest/ClientFolder/rnd_load_test/student_solutions/2/user10.zip
+2021-09-17 16:44:27,796 INFO o.a.j.s.FileServer: Stored: /home/panda/LoadTest/ClientFolder/rnd_load_test/student_solutions/2/user45.zip
+2021-09-17 16:44:30,134 INFO o.a.j.r.Summariser: summary +    110 in 00:00:30 =    3.7/s Avg:  1919 Min:   267 Max:  8298 Err:     0 (0.00%) Active: 20 Started: 20 Finished: 0
+2021-09-17 16:44:30,135 INFO o.a.j.r.Summariser: summary =    365 in 00:02:02 =    3.0/s Avg:  1990 Min:    25 Max: 25989 Err:     0 (0.00%)
+2021-09-17 16:44:32,261 INFO o.a.j.s.FileServer: Stored: /home/panda/LoadTest/ClientFolder/rnd_load_test/student_solutions/2/user11.zip
+2021-09-17 16:44:35,798 INFO o.a.j.s.FileServer: Stored: /home/panda/LoadTest/ClientFolder/rnd_load_test/student_solutions/2/user41.zip
+2021-09-17 16:44:43,374 INFO o.a.j.s.FileServer: Stored: /home/panda/LoadTest/ClientFolder/rnd_load_test/student_solutions/2/user35.zip
+2021-09-17 16:44:43,599 INFO o.a.j.s.FileServer: Stored: /home/panda/LoadTest/ClientFolder/rnd_load_test/student_solutions/2/user28.zip
+2021-09-17 16:44:46,889 INFO o.a.j.s.FileServer: Stored: /home/panda/LoadTest/ClientFolder/rnd_load_test/student_solutions/2/user43.zip
+2021-09-17 16:44:47,640 INFO o.a.j.s.FileServer: Stored: /home/panda/LoadTest/ClientFolder/rnd_load_test/student_solutions/2/user34.zip
+2021-09-17 16:44:58,656 INFO o.a.j.s.FileServer: Stored: /home/panda/LoadTest/ClientFolder/rnd_load_test/student_solutions/2/user20.zip
+2021-09-17 16:45:00,116 INFO o.a.j.r.Summariser: summary +    114 in 00:00:30 =    3.8/s Avg:  2372 Min:   254 Max:  8965 Err:     0 (0.00%) Active: 20 Started: 20 Finished: 0
+2021-09-17 16:45:00,117 INFO o.a.j.r.Summariser: summary =    479 in 00:02:32 =    3.2/s Avg:  2081 Min:    25 Max: 25989 Err:     0 (0.00%)
+2021-09-17 16:45:11,168 INFO o.a.j.s.FileServer: Stored: /home/panda/LoadTest/ClientFolder/rnd_load_test/student_solutions/2/user46.zip
+2021-09-17 16:45:14,039 INFO o.a.j.s.FileServer: Stored: /home/panda/LoadTest/ClientFolder/rnd_load_test/student_solutions/2/user40.zip
+2021-09-17 16:45:14,107 INFO o.a.j.s.FileServer: Stored: /home/panda/LoadTest/ClientFolder/rnd_load_test/student_solutions/2/user3.zip
+2021-09-17 16:45:19,149 INFO o.a.j.s.FileServer: Stored: /home/panda/LoadTest/ClientFolder/rnd_load_test/student_solutions/2/user32.zip
+2021-09-17 16:45:30,913 INFO o.a.j.r.Summariser: summary +     98 in 00:00:31 =    3.2/s Avg:  2296 Min:   278 Max:  6892 Err:     0 (0.00%) Active: 20 Started: 20 Finished: 0
+2021-09-17 16:45:30,914 INFO o.a.j.r.Summariser: summary =    577 in 00:03:03 =    3.2/s Avg:  2117 Min:    25 Max: 25989 Err:     0 (0.00%)
+2021-09-17 16:45:36,791 INFO o.a.j.s.FileServer: Stored: /home/panda/LoadTest/ClientFolder/rnd_load_test/student_solutions/2/user14.zip
+2021-09-17 16:45:41,459 INFO o.a.j.s.FileServer: Stored: /home/panda/LoadTest/ClientFolder/rnd_load_test/student_solutions/2/user9.zip
+2021-09-17 16:46:01,656 INFO o.a.j.r.Summariser: summary +     97 in 00:00:29 =    3.3/s Avg:  2085 Min:   265 Max:  8847 Err:     0 (0.00%) Active: 20 Started: 20 Finished: 0
+2021-09-17 16:46:01,659 INFO o.a.j.r.Summariser: summary =    674 in 00:03:32 =    3.2/s Avg:  2113 Min:    25 Max: 25989 Err:     0 (0.00%)
+2021-09-17 16:46:04,182 INFO o.a.j.s.FileServer: Stored: /home/panda/LoadTest/ClientFolder/rnd_load_test/student_solutions/2/user4.zip
+2021-09-17 16:47:01,368 INFO o.a.j.r.Summariser: summary +    143 in 00:01:01 =    2.3/s Avg:  4511 Min:   286 Max: 26672 Err:     0 (0.00%) Active: 20 Started: 20 Finished: 0
+2021-09-17 16:47:01,471 INFO o.a.j.r.Summariser: summary =    817 in 00:04:33 =    3.0/s Avg:  2532 Min:    25 Max: 26672 Err:     0 (0.00%)
+2021-09-17 16:47:15,699 INFO o.a.j.t.JMeterThread: Thread finished: Users 1-11
+2021-09-17 16:47:29,125 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Users 1-2
+2021-09-17 16:47:29,125 INFO o.a.j.t.JMeterThread: Thread finished: Users 1-2
+2021-09-17 16:47:29,174 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Users 1-8
+2021-09-17 16:47:29,185 INFO o.a.j.t.JMeterThread: Thread finished: Users 1-8
+2021-09-17 16:47:29,433 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Users 1-4
+2021-09-17 16:47:29,433 INFO o.a.j.t.JMeterThread: Thread finished: Users 1-4
+2021-09-17 16:47:29,460 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Users 1-10
+2021-09-17 16:47:29,461 INFO o.a.j.t.JMeterThread: Thread finished: Users 1-10
+2021-09-17 16:47:29,844 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Users 1-1
+2021-09-17 16:47:29,845 INFO o.a.j.t.JMeterThread: Thread finished: Users 1-1
+2021-09-17 16:47:29,874 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Users 1-3
+2021-09-17 16:47:29,885 INFO o.a.j.t.JMeterThread: Thread finished: Users 1-3
+2021-09-17 16:47:29,985 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Users 1-5
+2021-09-17 16:47:29,997 INFO o.a.j.t.JMeterThread: Thread finished: Users 1-5
+2021-09-17 16:47:30,133 INFO o.a.j.r.Summariser: summary +    112 in 00:00:29 =    3.9/s Avg:  1920 Min:   274 Max:  7034 Err:     0 (0.00%) Active: 12 Started: 20 Finished: 8
+2021-09-17 16:47:30,134 INFO o.a.j.r.Summariser: summary =    929 in 00:05:02 =    3.1/s Avg:  2459 Min:    25 Max: 26672 Err:     0 (0.00%)
+2021-09-17 16:47:30,135 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Users 1-7
+2021-09-17 16:47:30,139 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Users 1-6
+2021-09-17 16:47:30,144 INFO o.a.j.t.JMeterThread: Thread finished: Users 1-7
+2021-09-17 16:47:30,150 INFO o.a.j.t.JMeterThread: Thread finished: Users 1-6
+2021-09-17 16:47:31,820 INFO o.a.j.t.JMeterThread: Thread finished: Users 1-12
+2021-09-17 16:47:31,902 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Users 1-9
+2021-09-17 16:47:31,912 INFO o.a.j.t.JMeterThread: Thread finished: Users 1-9
+2021-09-17 16:47:32,223 INFO o.a.j.t.JMeterThread: Thread finished: Users 1-13
+2021-09-17 16:47:32,447 INFO o.a.j.t.JMeterThread: Thread finished: Users 1-17
+2021-09-17 16:47:33,478 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Users 1-20
+2021-09-17 16:47:33,489 INFO o.a.j.t.JMeterThread: Thread finished: Users 1-20
+2021-09-17 16:47:33,694 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Users 1-14
+2021-09-17 16:47:33,705 INFO o.a.j.t.JMeterThread: Thread finished: Users 1-14
+2021-09-17 16:47:34,360 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Users 1-15
+2021-09-17 16:47:34,369 INFO o.a.j.t.JMeterThread: Thread finished: Users 1-15
+2021-09-17 16:47:34,542 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Users 1-18
+2021-09-17 16:47:34,551 INFO o.a.j.t.JMeterThread: Thread finished: Users 1-18
+2021-09-17 16:47:35,745 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Users 1-16
+2021-09-17 16:47:35,757 INFO o.a.j.t.JMeterThread: Thread finished: Users 1-16
+2021-09-17 16:47:35,878 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Users 1-19
+2021-09-17 16:47:35,887 INFO o.a.j.t.JMeterThread: Thread finished: Users 1-19
+2021-09-17 16:47:35,888 INFO o.a.j.e.StandardJMeterEngine: Notifying test listeners of end of test
+2021-09-17 16:47:35,889 INFO o.a.j.s.FileServer: Close: /home/panda/LoadTest/ClientFolder/rnd_load_test/users_1000.csv
+2021-09-17 16:47:36,519 INFO o.a.j.r.Summariser: summary +     16 in 00:00:06 =    2.5/s Avg:  1842 Min:   279 Max:  5722 Err:     0 (0.00%) Active: 0 Started: 20 Finished: 20
+2021-09-17 16:47:36,520 INFO o.a.j.r.Summariser: summary =    945 in 00:05:08 =    3.1/s Avg:  2448 Min:    25 Max: 26672 Err:     0 (0.00%)
+2021-09-17 16:47:36,797 INFO o.a.j.JMeter: Generating Dashboard
+2021-09-17 16:47:36,798 INFO o.a.j.r.d.ReportGenerator: Flushing result collector before report Generation
+2021-09-17 16:47:39,451 INFO o.a.j.r.p.NormalizerSampleConsumer: Using format, 'ms', to parse timeStamp field
+2021-09-17 16:47:56,522 INFO o.a.j.r.p.AbstractSampleConsumer: class org.apache.jmeter.report.processor.AggregateConsumer#stopProducing(): beginDate produced 0 samples
+2021-09-17 16:47:56,598 INFO o.a.j.r.p.AbstractSampleConsumer: class org.apache.jmeter.report.processor.AggregateConsumer#stopProducing(): endDate produced 0 samples
+2021-09-17 16:47:57,465 INFO o.a.j.r.p.AbstractSampleConsumer: class org.apache.jmeter.report.processor.ApdexSummaryConsumer#stopProducing(): apdexSummary produced 0 samples
+2021-09-17 16:47:57,465 INFO o.a.j.r.p.AbstractSampleConsumer: class org.apache.jmeter.report.processor.RequestsSummaryConsumer#stopProducing(): requestsSummary produced 0 samples
+2021-09-17 16:47:58,044 INFO o.a.j.r.p.AbstractSampleConsumer: class org.apache.jmeter.report.processor.StatisticsSummaryConsumer#stopProducing(): statisticsSummary produced 0 samples
+2021-09-17 16:47:58,141 INFO o.a.j.r.p.AbstractSampleConsumer: class org.apache.jmeter.report.processor.Top5ErrorsBySamplerConsumer#stopProducing(): top5ErrorsBySampler produced 0 samples
+2021-09-17 16:47:58,141 INFO o.a.j.r.p.AbstractSampleConsumer: class org.apache.jmeter.report.processor.ErrorsSummaryConsumer#stopProducing(): errorsSummary produced 0 samples
+2021-09-17 16:47:58,141 INFO o.a.j.r.p.AbstractSampleConsumer: class org.apache.jmeter.report.processor.graph.impl.HitsPerSecondGraphConsumer#stopProducing(): hitsPerSecond produced 0 samples
+2021-09-17 16:48:05,547 INFO o.a.j.r.p.AbstractSampleConsumer: class org.apache.jmeter.report.processor.graph.impl.LatencyVSRequestGraphConsumer#stopProducing(): latencyVsRequest produced 0 samples
+2021-09-17 16:48:05,549 INFO o.a.j.r.p.AbstractSampleConsumer: class org.apache.jmeter.report.processor.graph.impl.SyntheticResponseTimeDistributionGraphConsumer#stopProducing(): syntheticResponseTimeDistribution produced 0 samples
+2021-09-17 16:48:05,550 INFO o.a.j.r.p.AbstractSampleConsumer: class org.apache.jmeter.report.processor.graph.impl.BytesThroughputGraphConsumer#stopProducing(): bytesThroughputOverTime produced 0 samples
+2021-09-17 16:48:05,550 INFO o.a.j.r.p.AbstractSampleConsumer: class org.apache.jmeter.report.processor.graph.impl.CodesPerSecondGraphConsumer#stopProducing(): codesPerSecond produced 0 samples
+2021-09-17 16:48:07,196 INFO o.a.j.r.p.AbstractSampleConsumer: class org.apache.jmeter.report.processor.graph.impl.ResponseTimeVSRequestGraphConsumer#stopProducing(): responseTimeVsRequest produced 0 samples
+2021-09-17 16:48:07,197 INFO o.a.j.r.p.AbstractSampleConsumer: class org.apache.jmeter.report.processor.FilterConsumer#stopProducing(): startIntervalControlerFilter produced 6615 samples
+2021-09-17 16:48:07,198 INFO o.a.j.r.p.AbstractSampleConsumer: class org.apache.jmeter.report.processor.graph.impl.TotalTPSGraphConsumer#stopProducing(): totalTPS produced 0 samples
+2021-09-17 16:48:07,198 INFO o.a.j.r.p.AbstractSampleConsumer: class org.apache.jmeter.report.processor.graph.impl.ActiveThreadsGraphConsumer#stopProducing(): activeThreadsOverTime produced 0 samples
+2021-09-17 16:48:07,198 INFO o.a.j.r.p.AbstractSampleConsumer: class org.apache.jmeter.report.processor.graph.impl.TimeVSThreadGraphConsumer#stopProducing(): timeVsThreads produced 0 samples
+2021-09-17 16:48:07,200 INFO o.a.j.r.p.AbstractSampleConsumer: class org.apache.jmeter.report.processor.graph.impl.ResponseTimeDistributionGraphConsumer#stopProducing(): responseTimeDistribution produced 0 samples
+2021-09-17 16:48:07,202 INFO o.a.j.r.p.AbstractSampleConsumer: class org.apache.jmeter.report.processor.graph.impl.TransactionsPerSecondGraphConsumer#stopProducing(): transactionsPerSecond produced 0 samples
+2021-09-17 16:48:07,203 INFO o.a.j.r.p.AbstractSampleConsumer: class org.apache.jmeter.report.processor.graph.impl.ResponseTimePercentilesGraphConsumer#stopProducing(): responseTimePercentiles produced 0 samples
+2021-09-17 16:48:07,215 INFO o.a.j.r.p.AbstractSampleConsumer: class org.apache.jmeter.report.processor.graph.impl.ResponseTimePercentilesOverTimeGraphConsumer#stopProducing(): responseTimePercentilesOverTime produced 0 samples
+2021-09-17 16:48:07,217 INFO o.a.j.r.p.AbstractSampleConsumer: class org.apache.jmeter.report.processor.graph.impl.ResponseTimeOverTimeGraphConsumer#stopProducing(): responseTimesOverTime produced 0 samples
+2021-09-17 16:48:07,217 INFO o.a.j.r.p.AbstractSampleConsumer: class org.apache.jmeter.report.processor.graph.impl.ConnectTimeOverTimeGraphConsumer#stopProducing(): connectTimeOverTime produced 0 samples
+2021-09-17 16:48:07,217 INFO o.a.j.r.p.AbstractSampleConsumer: class org.apache.jmeter.report.processor.graph.impl.LatencyOverTimeGraphConsumer#stopProducing(): latenciesOverTime produced 0 samples
+2021-09-17 16:48:07,218 INFO o.a.j.r.p.AbstractSampleConsumer: class org.apache.jmeter.report.processor.FilterConsumer#stopProducing(): nameFilter produced 14175 samples
+2021-09-17 16:48:07,218 INFO o.a.j.r.p.AbstractSampleConsumer: class org.apache.jmeter.report.processor.FilterConsumer#stopProducing(): dateRangeFilter produced 2835 samples
+2021-09-17 16:48:07,218 INFO o.a.j.r.p.AbstractSampleConsumer: class org.apache.jmeter.report.processor.NormalizerSampleConsumer#stopProducing(): normalizer produced 945 samples
+2021-09-17 16:48:07,219 INFO o.a.j.r.p.CsvFileSampleSource: produce(): 945 samples produced in 26s 716 ms on channel 0
+2021-09-17 16:48:07,219 INFO o.a.j.r.d.ReportGenerator: Exporting data using exporter:'json' of className:'org.apache.jmeter.report.dashboard.JsonExporter'
+2021-09-17 16:48:07,222 INFO o.a.j.r.d.JsonExporter: Found data for consumer statisticsSummary in context
+2021-09-17 16:48:07,222 INFO o.a.j.r.d.JsonExporter: Creating statistics for overall
+2021-09-17 16:48:07,223 INFO o.a.j.r.d.JsonExporter: Creating statistics for other transactions
+2021-09-17 16:48:07,224 INFO o.a.j.r.d.JsonExporter: Checking output folder
+2021-09-17 16:48:07,224 INFO o.a.j.r.d.JsonExporter: Writing statistics JSON to /home/panda/LoadTest/ClientFolder/rnd_load_test/test_results/users_20_17092021_164058/output/statistics.json
+2021-09-17 16:48:15,878 INFO o.a.j.r.d.ReportGenerator: Exporting data using exporter:'html' of className:'org.apache.jmeter.report.dashboard.HtmlTemplateExporter'
+2021-09-17 16:48:16,763 INFO o.a.j.r.d.HtmlTemplateExporter: Will generate dashboard in folder: /home/panda/LoadTest/ClientFolder/rnd_load_test/test_results/users_20_17092021_164058/output
+2021-09-17 16:48:29,479 ERROR f.configuration: DefaultObjectWrapper.incompatibleImprovements was set to the object returned by Configuration.getVersion(). That defeats the purpose of incompatibleImprovements, and makes upgrading FreeMarker a potentially breaking change. Also, this probably won't be allowed starting from 2.4.0. Instead, set incompatibleImprovements to the highest concrete version that's known to be compatible with your application.
+2021-09-17 16:48:29,486 ERROR f.configuration: Configuration.incompatibleImprovements was set to the object returned by Configuration.getVersion(). That defeats the purpose of incompatibleImprovements, and makes upgrading FreeMarker a potentially breaking change. Also, this probably won't be allowed starting from 2.4.0. Instead, set incompatibleImprovements to the highest concrete version that's known to be compatible with your application.
+2021-09-17 16:48:29,930 INFO o.a.j.r.d.HtmlTemplateExporter: Report will be generated in: /home/panda/LoadTest/ClientFolder/rnd_load_test/test_results/users_20_17092021_164058/output, creating folder structure
+2021-09-17 16:48:31,117 INFO o.a.j.r.d.TemplateVisitor: Copying folder from '/home/panda/LoadTest/ClientFolder/rnd_load_test/apache-jmeter-5.3/bin/report-template' to '/home/panda/LoadTest/ClientFolder/rnd_load_test/test_results/users_20_17092021_164058/output', got message: /home/panda/LoadTest/ClientFolder/rnd_load_test/test_results/users_20_17092021_164058/output, found non empty folder with following content [/home/panda/LoadTest/ClientFolder/rnd_load_test/test_results/users_20_17092021_164058/output/statistics.json], will be ignored
+2021-09-17 16:48:45,003 INFO o.a.j.JMeter: Dashboard generated

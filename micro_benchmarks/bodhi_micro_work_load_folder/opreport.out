@@ -1,0 +1,11 @@
+CPU: Intel Broadwell microarchitecture, speed 3000 MHz (estimated)
+Counted CPU_CLK_UNHALTED events (Clock cycles when not halted) with a unit mask of 0x00 (No unit mask) count 100000
+samples  %        app name                 symbol name
+4267289  87.1046  cc1plus                  /usr/lib/gcc/x86_64-linux-gnu/9/cc1plus
+630726   12.8745  libbfd-2.34-system.so    /usr/lib/x86_64-linux-gnu/libbfd-2.34-system.so
+368       0.0075  x86_64-linux-gnu-g++-9   /usr/bin/x86_64-linux-gnu-g++-9
+309       0.0063  x86_64-linux-gnu-ld.bfd  /usr/bin/x86_64-linux-gnu-ld.bfd
+280       0.0057  collect2                 /usr/lib/gcc/x86_64-linux-gnu/9/collect2
+32       6.5e-04  bash                     /bin/bash
+20       4.1e-04  dash                     /bin/dash
+15       3.1e-04  x86_64-linux-gnu-as      /usr/bin/x86_64-linux-gnu-as

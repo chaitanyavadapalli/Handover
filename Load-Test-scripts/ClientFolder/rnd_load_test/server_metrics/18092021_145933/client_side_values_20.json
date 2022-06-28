@@ -1,0 +1,34 @@
+{
+  "Get CSRF Token" : {
+    "transaction" : "Get CSRF Token",
+    "sampleCount" : 20,
+    "errorCount" : 20,
+    "errorPct" : 100.0,
+    "meanResTime" : 301059.1000000001,
+    "medianResTime" : 301077.0,
+    "minResTime" : 300850.0,
+    "maxResTime" : 301301.0,
+    "pct1ResTime" : 301240.1,
+    "pct2ResTime" : 301298.35,
+    "pct3ResTime" : 301301.0,
+    "throughput" : 0.06635215744039917,
+    "receivedKBytesPerSec" : 0.012635420606326013,
+    "sentKBytesPerSec" : 0.008747598881302625
+  },
+  "Total" : {
+    "transaction" : "Total",
+    "sampleCount" : 20,
+    "errorCount" : 20,
+    "errorPct" : 100.0,
+    "meanResTime" : 301059.1000000001,
+    "medianResTime" : 301077.0,
+    "minResTime" : 300850.0,
+    "maxResTime" : 301301.0,
+    "pct1ResTime" : 301240.1,
+    "pct2ResTime" : 301298.35,
+    "pct3ResTime" : 301301.0,
+    "throughput" : 0.06635215744039917,
+    "receivedKBytesPerSec" : 0.012635420606326013,
+    "sentKBytesPerSec" : 0.008747598881302625
+  }
+}
