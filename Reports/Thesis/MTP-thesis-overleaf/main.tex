@@ -65,7 +65,7 @@
 %*******************************************************************
 %                         Title Page                            
 %*******************************************************************
-\title{Multi Core Scalability of a Programming Autograder}
+\title{Multi Core Scalability of a Programming Autograder Application}
 \author{Vadapalli K Chaitanya Varma}
 
 %% Print the date. Today's date comes by default, change it here to 
@@ -1074,8 +1074,8 @@ For our Evalpro application, linear scaling of throughput can be achieved by inc
     }
     &\makecell{Baseline - 16}&\makecell{Baseline - 64}& \makecell{\% of \\ increase or \\decrease}\\
     \makecell{CPU cache size for \\ 16 CPU cores} & \makecell{20 MB} & \makecell{49 MB}&\makecell{+ 145}\\
-    \makecell{$Inflation_factor_{LLC-load-misses}(16)$} & \makecell{2.25} & \makecell{0.94}&\makecell{- 140}\\
-    \centering{\makecell{$Inflation_factor_{LLC-store-misses}(16)$}} & \makecell{1.01} & \makecell{0.37}&\makecell{- 170}\\
+    \makecell{$Inflation\_factor_{LLC-load-misses}(16)$} & \makecell{2.25} & \makecell{0.94}&\makecell{- 140}\\
+    \centering{\makecell{$Inflation\_factor_{LLC-store-misses}(16)$}} & \makecell{1.01} & \makecell{0.37}&\makecell{- 170}\\
     \makecell{$Throughput_{max}(16)$ \\ (req/sec)} & \makecell{3.37} & \makecell{8.75}&\makecell{+ 160}\\
     \end{tblr}
 \caption{Summary of the CPU Cache size affect on the performance of the Evalpro application}
